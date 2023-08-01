@@ -5,6 +5,8 @@
 
 ### Job Status
 
+01/08/23
+
 Full Time( Employment + Internship Mandatory)
 
 ### Criteria
@@ -59,6 +61,7 @@ int solve(Node *head, int p, int q) {
     }
 
     int maxVal = max(p, q);
+    int result = 0;
     while (p1 != maxVal) {
         if (p1->data > maxVal) {
             p1 = p1->left;
@@ -66,8 +69,9 @@ int solve(Node *head, int p, int q) {
         else if (p1->data < maxVal) {
             p1 = p1->right;
         }
+        result = max(result, p1->data);
     }
-    return p1->data;
+    return result;
 }
 ```
 
