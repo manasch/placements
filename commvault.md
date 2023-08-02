@@ -77,12 +77,12 @@ int solve(Node *head, int p, int q) {
 
 3. A mountain of q meters high exists, with q-1 supports spaced out every 1 meter. Can jump at most r supports at once. Starting from the bottom find the total number of ways to reach the peak.
 
-> Have a DP array and keep updating its values from right to left.
+> Have a DP array and keep updating its values from right to left. Similar to [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 ```cpp
 int solve(int q, int r) {
     vector<int> dp(q);
-    while (int i = q - 1; i >= 0; --i) {
+    for (int i = q - 1; i >= 0; --i) {
         int count = 0;
         for (int j = 1; j < r; ++j) {
             if (i + j == q) {
