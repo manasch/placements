@@ -5,9 +5,9 @@
 
 ### Job Status
 
-01/08/23
-
 Full Time( Employment + Internship Mandatory)
+
+01/08/23
 
 ### Criteria
 
