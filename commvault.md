@@ -7,8 +7,6 @@
 
 Full Time( Employment + Internship Mandatory)
 
-01/08/23
-
 ### Criteria
 
 |Study|Cutoff|
@@ -29,6 +27,8 @@ Full Time( Employment + Internship Mandatory)
 |CTC|32.99LPA|50000|
 
 ## OA
+
+> 01/08/23
 
 Two job roles were offered, QA and SDE, QA only had python as an option and SDE had an option between JAVA and CPP, I chose CPP. Had 13 MCQ and 3 Coding
 

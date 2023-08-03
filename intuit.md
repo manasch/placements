@@ -6,8 +6,6 @@
 
 FTE + Internship (mandatory)
 
-27/07/23
-
 ### Criteria
 
 |Study|Cutoff|
@@ -27,6 +25,8 @@ FTE + Internship (mandatory)
 **Stipend**: 1L pm
 
 ## OA
+
+> 27/07/23
 
 ### Questions
 

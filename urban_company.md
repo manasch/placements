@@ -6,8 +6,6 @@
 
 Full Time( Employment + Internship Mandatory)
 
-31/07/23
-
 ### Criteria
 
 |Study|Cutoff|
@@ -24,6 +22,8 @@ Full Time( Employment + Internship Mandatory)
 |Retention Bonus|3,00,000|--|
 
 ## OA
+
+> 31/07/23
 
 ### Questions
 
