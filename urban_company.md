@@ -4,7 +4,7 @@
 
 ### Job status
 
-Full Time( Employment + Internship Mandatory)
+Full Time (Employment + Internship Mandatory)
 
 ### Criteria
 

@@ -1,11 +1,10 @@
 # [Ring Central](https://www.ringcentral.com/)
 
-
 ## Details
 
 ### Job Status
 
-Full Time( Employment + Internship Mandatory)
+Full Time (Employment + Internship Mandatory)
 
 ### Criteria
 
@@ -15,7 +14,6 @@ Full Time( Employment + Internship Mandatory)
 |XII|90%|
 |UG|7.5|
 
-
 ### Compensation
 
 ||FTE|Internship|
@@ -23,9 +21,15 @@ Full Time( Employment + Internship Mandatory)
 |Base|20,50,000|--|
 |CTC|24,15,000 + 4L sign up|--|
 
-## OA
+## Round 1
 
 > 06/08/23
+
+Two sections
+1. MCQ (15)
+2. Coding (2)
+
+### MCQ
 
 ### Q1
 
@@ -88,11 +92,15 @@ Full Time( Employment + Internship Mandatory)
 ![Q15](./images/ringcentral/q15_1.png)
 ![Q15](./images/ringcentral/q15_2.png)
 
+### Coding
+
 ### Q16
 
 ![Q16](./images/ringcentral/q16_1.png)
 ![Q16](./images/ringcentral/q16_2.png)
 ![Q16](./images/ringcentral/q16_3.png)
+
+> House Robber on Leetcode
 
 ### Q17
 

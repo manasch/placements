@@ -24,7 +24,7 @@ FTE + Internship (mandatory)
 
 **Stipend**: 1L pm
 
-## OA
+## Round 1
 
 > 27/07/23
 
