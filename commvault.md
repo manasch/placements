@@ -1,11 +1,10 @@
 # [Commvault](https://www.commvault.com/)
 
-
 ## Details
 
 ### Job Status
 
-Full Time( Employment + Internship Mandatory)
+Full Time (Employment + Internship Mandatory)
 
 ### Criteria
 
@@ -14,7 +13,6 @@ Full Time( Employment + Internship Mandatory)
 |X|75%|
 |XII|75%|
 |UG|80%|
-
 
 ### Compensation
 
@@ -26,20 +24,21 @@ Full Time( Employment + Internship Mandatory)
 |Relocation Bonus|75000|--|
 |CTC|32.99LPA|50000|
 
-## OA
+## Round 1
 
 > 01/08/23
 
-Two job roles were offered, QA and SDE, QA only had python as an option and SDE had an option between JAVA and CPP, I chose CPP. Had 13 MCQ and 3 Coding
+Two job roles were offered, QA and SDE, QA only had python as an option and SDE had an option between JAVA and CPP, I chose CPP.
 
-### Questions
+There were 2 sections timed separately.
+1. CPP Fundamentals and Generics MCQ (13)
+2. Coding (3)
 
-1. Reverse alternate m nodes in a linked list.
+### Coding Questions
+
+1. [Reverse alternate K nodes in a Singly Linked List](https://www.geeksforgeeks.org/reverse-alternate-k-nodes-in-a-singly-linked-list/)
 
 > A function to reverse a linked list given head and apply this every other m nodes.
-
-```cpp
-```
 
 2. Given a BST, and two values p and q, find the largest value in the path from p to q. Both p and q exist.
 
