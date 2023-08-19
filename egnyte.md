@@ -36,7 +36,7 @@ There was only one coding section with 2 questions, everyone had a combination o
 
 ### Coding Questions
 
-1. **Sum of total waiting time**: There are N clients who have ordered N handmade items. The K-th client ordered exacrlt one item that takes T[k] hours to make. There is only one employee who makes items for clients, and they work in the following manner:
+1. **Sum of total waiting time**: There are N clients who have ordered N handmade items. The K-th client ordered exactly one item that takes T[k] hours to make. There is only one employee who makes items for clients, and they work in the following manner:
     - spend one hour making the first item;
     - if the item is finished, the employee delivers it to the client immediately;
     - if the item is not finished, they put it after the N-th item for further work;
@@ -154,4 +154,33 @@ int solution(vector<int> &A) {
 }
 ```
 - This would most likely TLE for large test cases. Didn't know how to use 2d DP.
+
+```cpp
+int solution(vector<int> arr)
+{
+    vector<vector<int>> dp(arr.size() + 2, vector<int> (4, 0));
+    int max_ele = 0;
+    for(int i = 2; i < dp.size(); i++)
+    {
+        for(int j = 1; j < dp[0].size(); j++)
+        {
+            if(i >= 2 * j)
+            {
+                dp[i][j] = max(dp[i - 2][j - 1] + arr[i - 2], dp[i - 1][j]);
+                if(dp[i][j] > max_ele)
+                {
+                    max_ele = dp[i][j];
+                }
+            }
+            else
+            {
+                dp[i][j] = dp[i - 1][j];
+            }
+        }
+    }
+    return max_ele;
+}
+```
+- Bottom-up DP
+
 ---
