@@ -1,4 +1,4 @@
-# Placements Information
+# Placements
 
 #### This repository contains comprehensive information about the companies offering placement opportunities for the '24 batch at PES University.
 
