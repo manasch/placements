@@ -44,6 +44,8 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
 
+---
+
 2. **Substrings ending with same characters**: Given a string, and p ranges (S[1..2] or S[1..6]). Find the number of substring in the ranges such that the end characters are the same.
 
 [comment]: # (Add any resources or links or code to this question under this comment.)

@@ -51,11 +51,15 @@ SELECT DISTINCT PRICE FROM PRODUCTS ORDER BY PRICE DESC LIMIT 1, 1;
 ```
 - Should have worked but didn't.
 
+---
+
 2. **Lines passing through special point**: Given a 2D plane and a special point (p) and n other points (x1, x2...xn). Find the number of pairs of points amongst the n points that pass through the special point.
 
 > Finding the slope of each point wrt to the special point, if for some slope m, there are q number of points with the same slope, then the number of pairs of lines that pass through the special point would be `(q * (q - 1))/2`
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
+
+---
 
 3. **Nearest Prime**: Given a list of integers, if the number is not a prime, then find the closest prime and print that number, else do nothing.
 

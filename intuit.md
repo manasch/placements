@@ -52,7 +52,11 @@ FTE + Internship (mandatory)
     WJWWJJ
     ```
 
+---
+
 2. [Efficient Gardner](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)
+
+---
 
 3. Furious Dhoni
 
@@ -62,4 +66,8 @@ FTE + Internship (mandatory)
 
     Find the largest reward that can be obtained in the path where the ball moves only right or down.
 
+---
+
 4. Don't remember..
+
+---

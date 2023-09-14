@@ -51,9 +51,13 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
 
+---
+
 2. **BT to BST**: Write code to convert a Binary Tree to Binary Search Tree
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
+
+---
 
 3. **Hashing Servers**: Write a template to distribute user request network traffic across multiple servers.
 

@@ -47,11 +47,15 @@ Two sections
 
 > This but the input array was just of 0's and 1's
 
+---
+
 2. Python Requests Library
 
 > Had to use python's request module to fetch data from an api endpoint and give a summary
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
+
+---
 
 3. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
 

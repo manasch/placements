@@ -43,6 +43,8 @@ Everyone had different coding questions.
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
 
+---
+
 2. **Unique Elements**: Given a list of integers, return the unique elements in the order they appear.
 
 [comment]: # (Add any resources or links or code to this question under this comment.)

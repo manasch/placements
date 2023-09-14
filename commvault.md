@@ -40,6 +40,8 @@ There were 2 sections timed separately.
 
 > A function to reverse a linked list given head and apply this every other m nodes.
 
+---
+
 2. Given a BST, and two values p and q, find the largest value in the path from p to q. Both p and q exist.
 
 > Find the lowest common ancestor and traverse right.
@@ -73,6 +75,8 @@ int solve(Node *head, int p, int q) {
     return result;
 }
 ```
+
+---
 
 3. A mountain of q meters high exists, with q-1 supports spaced out every 1 meter. Can jump at most r supports at once. Starting from the bottom find the total number of ways to reach the peak.
 
