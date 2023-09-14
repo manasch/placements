@@ -37,24 +37,25 @@ There was only one coding section with 2 questions, everyone had a combination o
 ### Coding Questions
 
 1. **Sum of total waiting time**: ***REMOVED***
+
     - 
     - 
     - 
     - 
 
+    
 
+    
 
+    Examples:
 
+    1. 
 
-Examples:
+    2. 
 
-1. 
+    3. 
 
-2. 
-
-3. 
-
-4. 
+    4. 
 
 > Create a queue, push all tasks to it, have a counter that is always increasing. Pop the queue and if after decrementing the value becomes 0, add the current counter val to the total variable with mod, else push it to the back of the queue. Repeat till the queue is empty.
 
@@ -92,22 +93,24 @@ int solution(vector<int> arr) {
 }
 ```
 
+---
+
 2. **Max tiles coverage**: ***REMOVED***
 
+    
+    
 
-    `int solution(vector<int> &A);`
+    
 
+    Examples:
 
+    1. 
 
-Examples:
+    2. 
 
-1. 
+    3. 
 
-2. 
-
-3. 
-
-4. 
+    4. 
 
 > Create another array of sums of it's adjacent neighbour, perform a 2D House-Robber approach to find the best possible sum of values covered by tiles.
 

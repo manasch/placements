@@ -44,7 +44,7 @@ A total of 41 questions were asked with 40 of them being MCQ's based on C, Cpp, 
 
 ### Coding Questions
 
-1. **[Snakes and Ladders](https://leetcode.com/discuss/interview-question/1489795/cisco-sde-oa-snakes-ladders-pro)**:
+1. **[Snakes and Ladders](https://leetcode.com/discuss/interview-question/1489795/cisco-sde-oa-snakes-ladders-pro)**
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
 

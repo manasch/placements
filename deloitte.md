@@ -54,6 +54,8 @@ def solve(inputStr, searchCh):
 			print(words[i], i + 1)
 ```
 
+---
+
 2. **Largest Digit in a Number**: Given a number, return the largest digit in the number.
 
 [comment]: # (Add any resources or links or code to this question under this comment.)

@@ -39,6 +39,8 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
 
+---
+
 2. **Min Swap Greatest Even Number**: Given a number as a string, find the greatest even number that can be made with just one swap, it is given that atleast one even digit exists.
 
 > If the number is odd, then the last digit has to be switched with some other, so find the first even number the odd number is greater than if not, swap it with the rightmost even number, if it is even, then find two numbers two swap such that it is the greatest.

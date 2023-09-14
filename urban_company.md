@@ -75,7 +75,11 @@ vector<int> solve(int N, string Color, vector<vector<int>> Edges) {
 
 > This TLE'd by 0.005s for 3 cases while the other 7 passed.
 
+---
+
 2. [Minimum Value](https://codeforces.com/problemset/problem/360/B)
+
+---
 
 3. [Falling Apples](https://www.thejoboverflow.com/problem/147/)
 

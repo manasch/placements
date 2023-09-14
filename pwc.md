@@ -51,6 +51,8 @@ def solve(str):
   return res 
 ```
 
+---
+
 #### Coding Question - Novice
 
 1. Special Number

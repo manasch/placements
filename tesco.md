@@ -42,6 +42,8 @@ Had 3 sections
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
 
+---
+
 2. **Index at which it becomes greater**: Given N and P, form a circle of all the primes under N (including) and start from 2 and keep adding values in clockwise manner till the sum becomes greater than P, return the index at which the sum crosses P.
 
 [comment]: # (Add any resources or links or code to this question under this comment.)

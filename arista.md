@@ -42,6 +42,8 @@ Full Time (Employment + Internship Mandatory)
 - This but after creating a BST.
 [GFG](https://www.geeksforgeeks.org/sum-of-lengths-of-all-paths-possible-in-a-given-tree/)
 
+---
+
 2. **Circular Linked List**: Given a list of elements, create a circular linked list in a sorted order, don't assume the first element to be the smallest, after creating the list. Insert 5 to the linked list and print out the values in ascending order.
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
@@ -50,6 +52,8 @@ Full Time (Employment + Internship Mandatory)
 ```cpp
 while (cin >> t)
 ```
+
+---
 
 3. **Decompositions of powers of 2**: Given a list of elements, decompose them into powers of 2 after which if some particular power of 2 appears odd number of times among all the decompositions combined, print that value.
 

@@ -88,6 +88,8 @@ int main() {
 }
 ```
 
+---
+
 2. **Number of cars**: A car requires 4 wheels (w), 2 chairs (c) and 1 body (b). Given w, c, b, find out the number of cars that can be manufactured.
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
@@ -108,6 +110,8 @@ int main() {
 }
 ```
 
+---
+
 #### Python Coding Nuggets
 
 3. **Absolute Volume Difference**: Given length, breadth and height of two cubes, find the absolue volume difference between the two.
@@ -118,6 +122,8 @@ int main() {
 int difference(l1, b1, h1, l2, b2, h2):
     return abs(l1 * b1 * h1 - l2 * b2 * h2)
 ```
+
+---
 
 4. **New Array**: Given an array, modify it such that the value at the kth position is the sum of the values of it's next two neighbors.
 
