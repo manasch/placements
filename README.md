@@ -34,6 +34,7 @@
 
 ## Tier 2
 
+- [Broadridge](./placements/broadridge.md)
 - [Eli Lilly](./placements/eli_lilly.md)
 - [Deloitte](./placements/deloitte.md)
 - [PricewaterhouseCoopers (PwC)](./placements/pwc.md)
