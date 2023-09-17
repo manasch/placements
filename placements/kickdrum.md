@@ -8,23 +8,23 @@ Full Time (Employment + Internship Mandatory)
 
 ### Criteria
 
-|Study|Cutoff|
-|-----|------|
-|X|%|
-|XII|%|
-|UG|GPA|
+| Study | Cutoff |
+|-------|--------|
+| X     | %      |
+| XII   | %      |
+| UG    | GPA    |
 
 [comment]: # (Any other details go under this. This is a comment)
 
 ### Compensation
 
-||FTE|Internship|
-|--|-----|------|
-|Base|10LPA|--|
-|Variable|2LPA|--|
-|Benefits|2LPA|--|
-|Bonus|2LPA|--|
-|CTC|16LPA|35000|
+|          | FTE   | Internship |
+|----------|-------|------------|
+| Base     | 10LPA | --         |
+| Variable | 2LPA  | --         |
+| Benefits | 2LPA  | --         |
+| Bonus    | 2LPA  | --         |
+| CTC      | 16LPA | 35000      |
 
 [comment]: # (Details about the rounds go under this comment.)
 

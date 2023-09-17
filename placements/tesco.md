@@ -8,20 +8,22 @@ Full Time (Employment only)
 
 ### Criteria
 
-|Study|Cutoff|
-|-----|------|
-|UG|8 GPA|
+| Study | Cutoff |
+|-------|--------|
+| X     | %      |
+| XII   | %      |
+| UG    | 8 GPA  |
 
 [comment]: # (Any other details go under this. This is a comment)
 
 ### Compensation
 
-||FTE|Internship|
-|--|-----|------|
-|Base|16,50,000|--|
-|Joining Bonus|3,50,000|--|
-||98,111(retrials)|--|
-|CTC|20,98,111|--|
+|               | FTE              | Internship |
+|---------------|------------------|------------|
+| Base          | 16,50,000        | --         |
+| Joining Bonus | 3,50,000         | --         |
+|               | 98,111(retrials) | --         |
+| CTC           | 20,98,111        | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 

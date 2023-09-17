@@ -8,21 +8,21 @@ Full Time (Employment + Internship Mandatory)
 
 ### Criteria
 
-|Study|Cutoff|
-|-----|------|
-|X|75%|
-|XII|75%|
-|UG|80%|
+| Study | Cutoff |
+|-------|--------|
+| X     | 75%    |
+| XII   | 75%    |
+| UG    | 80%    |
 
 ### Compensation
 
-||FTE|Internship|
-|--|-----|------|
-|Base|16,00,000|--|
-|Stocks|19000 USD|--|
-|Joining Bonus|1,50,000|--|
-|Relocation Bonus|75000|--|
-|CTC|32.99LPA|50000|
+|                  | FTE       | Internship |
+|------------------|-----------|------------|
+| Base             | 16,00,000 | --         |
+| Stocks           | 19000 USD | --         |
+| Joining Bonus    | 1,50,000  | --         |
+| Relocation Bonus | 75000     | --         |
+| CTC              | 32.99LPA  | 50000      |
 
 ## Round 1
 

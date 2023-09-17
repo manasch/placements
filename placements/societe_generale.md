@@ -8,22 +8,22 @@ Full Time (Employment + Internship Mandatory)
 
 ### Criteria
 
-|Study|Cutoff|
-|-----|------|
-|X|60%|
-|XII|60%|
-|UG|6 GPA|
+| Study | Cutoff |
+|-------|--------|
+| X     | 60%    |
+| XII   | 60%    |
+| UG    | 6 GPA  |
 
 [comment]: # (Any other details go under this. This is a comment)
 
 ### Compensation
 
-||FTE|Internship|
-|--|-----|------|
-|Base|--|--|
-|Stocks|--|--|
-|Bonus|--|--|
-|CTC|1221255|--|
+|        | FTE     | Internship |
+|--------|---------|------------|
+| Base   | --      | --         |
+| Stocks | --      | --         |
+| Bonus  | --      | --         |
+| CTC    | 1221255 | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 

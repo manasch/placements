@@ -9,7 +9,7 @@ Full Time (Employment + Internship Mandatory)
 ### Criteria
 
 | Study | Cutoff |
-| ----- | ------ |
+|-------|--------|
 | X     | 90%    |
 | XII   | 90%    |
 | UG    | 7.5    |
@@ -17,7 +17,7 @@ Full Time (Employment + Internship Mandatory)
 ### Compensation
 
 |      | FTE                    | Internship |
-| ---- | ---------------------- | ---------- |
+|------|------------------------|------------|
 | Base | 20,50,000              | --         |
 | CTC  | 24,15,000 + 4L sign up | --         |
 

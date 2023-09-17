@@ -16,17 +16,17 @@ None mentiond
 
 > Associate Software Engineer
 
-||FTE|Internship|
-|--|-----|------|
-|Gross|15 L|--|
-|CTC|20 L|--|
+|       | FTE  | Internship |
+|-------|------|------------|
+| Gross | 15 L | --         |
+| CTC   | 20 L | --         |
 
 > Customer Experience Engineer
 
-||FTE|Internship|
-|--|-----|------|
-|Gross|10 L|--|
-|CTC|14 L|--|
+|       | FTE  | Internship |
+|-------|------|------------|
+| Gross | 10 L | --         |
+| CTC   | 14 L | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 

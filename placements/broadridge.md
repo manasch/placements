@@ -8,22 +8,22 @@ Full Time (Employment + Internship Mandatory) - Member Technical
 
 ### Criteria
 
-|Study|Cutoff|
-|-----|------|
-|X|%|
-|XII|%|
-|UG|7 GPA|
+| Study | Cutoff |
+|-------|--------|
+| X     | %      |
+| XII   | %      |
+| UG    | 7 GPA  |
 
 [comment]: # (Any other details go under this. This is a comment)
 
 ### Compensation
 
-||FTE|Internship|
-|--|-----|------|
-|Base|--|30000|
-|Stocks|--|--|
-|Medical|5LPA on top of CTC|--|
-|CTC|10LPA|--|
+|         | FTE                | Internship |
+|---------|--------------------|------------|
+| Base    | --                 | 30000      |
+| Stocks  | --                 | --         |
+| Medical | 5LPA on top of CTC | --         |
+| CTC     | 10LPA              | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 

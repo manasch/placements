@@ -8,21 +8,23 @@ FTE + Internship (Mandatory)
 
 ### Criteria
 
-|Study|Cutoff|
-|-----|------|
-|UG|7 GPA|
+| Study | Cutoff |
+|-------|--------|
+| X     | %      |
+| XII   | %      |
+| UG    | 7GPA   |
 
 [comment]: # (Any other details go under this. This is a comment)
 
 ### Compensation
 
-||FTE|Internship|
-|--|-----|------|
-|Base|16 LPA (100000 Per month)|100000 pm|
-||10%|--|
-|Stocks|35000 USD|--|
-|Bonus|300000|--|
-|CTC|271625|--|
+|        | FTE                       | Internship |
+|--------|---------------------------|------------|
+| Base   | 16 LPA (100000 Per month) | 100000 pm  |
+|        | 10%                       | --         |
+| Stocks | 35000 USD                 | --         |
+| Bonus  | 300000                    | --         |
+| CTC    | 271625                    | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 
