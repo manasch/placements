@@ -20,6 +20,7 @@
 - [IBM](./placements/ibm.md)
 - [Intuit](./placements/intuit.md)
 - [Kickdrum](./placements/kickdrum.md)
+- [Morgan Stanley](./placements/morgan_stanley.md)
 - [NatWest](./placements/natwest.md)
 - [Newfold Digital](./placements/newfold_digital.md)
 - [Pure Storage](./placements/pure_storage.md)
