@@ -169,6 +169,6 @@ int main()
 }
 ```
 
-- This is exactly [LC#200](|https://leetcode.com/problems/number-of-islands) but worded differently.
+- This is exactly [LC#200](https://leetcode.com/problems/number-of-islands) but worded differently.
 
 ---
