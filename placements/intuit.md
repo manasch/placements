@@ -8,19 +8,21 @@ FTE + Internship (mandatory)
 
 ### Criteria
 
-|Study|Cutoff|
-|-----|------|
-|UG|8GPA|
+| Study | Cutoff |
+|-------|--------|
+| X     | %      |
+| XII   | %      |
+| UG    | 8 GPA  |
 
 ### Compensation
 
-||FTE|Internship|
-|--|-----|------|
-|Base|20.5 LPA|50000|
-|Bonus|2.05 L|--|
-|Joining Bonus|3,50,000|--|
-|RSU vested over 3.5 years|23000 USD ~ (18,87,270 INR)|--|
-|CTC|44,92,270|--|
+|                           | FTE                         | Internship |
+|---------------------------|-----------------------------|------------|
+| Base                      | 20.5 LPA                    | 50000      |
+| Bonus                     | 2.05 L                      | --         |
+| Joining Bonus             | 3,50,000                    | --         |
+| RSU vested over 3.5 years | 23000 USD ~ (18,87,270 INR) | --         |
+| CTC                       | 44,92,270                   | --         |
 
 **Stipend**: 1L pm
 

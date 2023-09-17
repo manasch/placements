@@ -8,18 +8,20 @@ Full Time (Employment + Internship Mandatory)
 
 ### Criteria
 
-|Study|Cutoff|
-|--|--|
-|UG|60%/6GPA|
+| Study | Cutoff    |
+|-------|-----------|
+| X     | %         |
+| XII   | %         |
+| UG    | 60%/6 GPA |
 
 - Cyber Security as Major or Elective
 
 ### Compensation
 
-||FTE|Internship|
-|--|--|--|
-|Base|--|--|
-|CTC|6LPA|35000|
+|      | FTE  | Internship |
+|------|------|------------|
+| Base | --   | --         |
+| CTC  | 6LPA | 35000      |
 
 ## Round 1: Cyber Recruit Boot Camp
 

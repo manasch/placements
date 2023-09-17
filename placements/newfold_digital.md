@@ -8,22 +8,22 @@ Full Time (Employment + Internship Mandatory)
 
 ### Criteria
 
-|Study|Cutoff|
-|-----|------|
-|X|%|
-|XII|%|
-|UG|GPA|
+| Study | Cutoff |
+|-------|--------|
+| X     | %      |
+| XII   | %      |
+| UG    | GPA    |
 
 [comment]: # (Any other details go under this. This is a comment)
 
 ### Compensation
 
-||FTE|Internship|
-|--|-----|------|
-|Base|10LPA|50000|
-|Bonus|1L|--|
-|Anniversary Bonus (y2 & y3)|1L + 1L|--|
-|CTC|13LPA|--|
+|                             | FTE     | Internship |
+|-----------------------------|---------|------------|
+| Base                        | 10LPA   | 50000      |
+| Bonus                       | 1L      | --         |
+| Anniversary Bonus (y2 & y3) | 1L + 1L | --         |
+| CTC                         | 13LPA   | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 
