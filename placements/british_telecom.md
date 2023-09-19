@@ -44,7 +44,7 @@ A total of 13 questions. Time - 120 min.
 
     Given these values, generate a permutation array B (of size N) which assigns the groups to the cities respectively such that the maximum friendship power can be formed. Friendship power is determined by the number of unique connections among X people, i.e. (X * (X - 1)) / 2.
     
-    Since this number can be large, give the answer module *mod_value (A number was given which I forgot)*. (Assume 1-indexing).
+    Since this number can be large, give the answer % *mod_value (A number was given which I forgot)*. (Assume 1-indexing).
     
     Example:
     
@@ -86,7 +86,9 @@ int solve(int n, int m, vector<vector<int>>& roads, vector<int>& a) {
     for (int i = 1; i <= n; ++i) {
         count = 0;
         dfs(dfs, i, count);
-        kingdoms.push(count);
+        if (count > 0) {
+            kingdoms.push(count);
+        }
     }
     
     int mod = 1e9 + 7; // Just taking some random modulus as I don't remember what they gave.
@@ -111,7 +113,7 @@ int solve(int n, int m, vector<vector<int>>& roads, vector<int>& a) {
 
 ---
 
-2. **Number in a Range**: Three numbers L, R, K are given, where [L, R] determine a range of numbers to consider. Find the K'th number in the range such that the pattern 101 occurs anywhere in the binary representation of the number. If the K'th number doesn't exist, return 1.
+2. **Number in a Range**: Three numbers L, R, K are given, where [L, R] determine a range of numbers to consider. Find the K'th number in the range such that the pattern 101 occurs anywhere in the binary representation of the number. If the K'th number doesn't exist, return -1.
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
 
