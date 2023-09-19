@@ -7,6 +7,7 @@
 - [Arista](./placements/arista.md)
 - [Applied Materials](./placements/applied_materials.md)
 - [Baxter](./placements/baxter.md)
+- [British Telecom](./placements/british_telecom.md)
 - [Cisco](./placements/cisco.md)
 - [Cloudera](./placements/cloudera.md)
 - [Commvault](./placements/commvault.md)
