@@ -41,5 +41,5 @@
 - [Deloitte](./placements/deloitte.md)
 - [PricewaterhouseCoopers (PwC)](./placements/pwc.md)
 - [Schneider Electric](./placements/schneider_electric.md)
-- [Volvo](./placements/volvo.md) (missing)
 - [Truminds](./placements/truminds.md)
+- [Volvo](./placements/volvo.md) (missing)
