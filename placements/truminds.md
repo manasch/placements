@@ -1,5 +1,5 @@
 
-# [Truminds](https://www.truminds.com/home))
+# [Truminds](https://www.truminds.com/home)
 
 ## Details
 
