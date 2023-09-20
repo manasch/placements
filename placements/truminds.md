@@ -38,7 +38,7 @@ Bonus--
 
 [comment]: # (Summary of the sections and experience below this comment.)
 
-There was only one section with 2 coding questions. Everyone got 2 questions from a pool of questions.
+18 MCQs and 1 coding. Questions were different for everyone.
 
 ### Coding Questions
 
@@ -49,3 +49,11 @@ There was only one section with 2 coding questions. Everyone got 2 questions fro
 ## Round 2 - Technical Interview
 
 Completely based on Resume. Was asked to explain Projects and asked basic questions on core subjects. Interview was easy.
+1. Gave 2 approaches for solving anagrams problem and asked which has less time complexity. One approach used 2 for loops (n^2) and other was based on sorting (nlogn)
+
+---
+
+## Round 3 - Interview with CEO
+
+I was asked questions on various topics in computer science. Questions were not hard. Some people were only asked hr questions.
+
