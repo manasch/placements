@@ -19,7 +19,7 @@ Full Time (Employment + Internship Mandatory)
 ### Compensation
 
 |                 | FTE     | Internship |
-| --------------- | ------- | ---------- |
+|-----------------|---------|------------|
 | Base            | --      | --         |
 | Joining Bonus   | 150000  | --         |
 | Retention Bonus | 250000  | --         |
@@ -148,7 +148,8 @@ int solve(int l, int r, int k) {
 }
 ```
 
-- This TLE'd, some tricky math for optimization maybe.
+- ~~This TLE'd, some tricky math for optimization maybe~~ Digit DP + Binary Search.
+- [Coding Ninjas](https://www.codingninjas.com/studio/problems/k-th-perfect-number-in-range_2569269)
 
 ---
 
@@ -159,7 +160,7 @@ int solve(int l, int r, int k) {
     Example: 
     
     | id | code | country |
-    | -- | ---- | ------- |
+    |----|------|---------|
     | 1  | CAL  | USA     |
     | 2  | TEX  | USA     |
     | 3  | FLO  | USA     |
@@ -169,7 +170,7 @@ int solve(int l, int r, int k) {
     
     Output: 
     | International | Domestic |
-    | ------------- | -------- |
+    |---------------|----------|
     | 9             | 6        |
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
