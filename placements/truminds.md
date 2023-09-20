@@ -31,8 +31,9 @@ Full Time (Employment + Internship Mandatory)
 [comment]: # (Details about the rounds go under this comment.)
 
 Bonus
-1,00,000 -- Joining Bonus\
-4,00,000 -- Retention Bonus
+
+Joining Bonus - 1,00,000\
+Retention Bonus - 4,00,000
 
 ## Round 1 - Coding Round
 
