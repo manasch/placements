@@ -1,4 +1,4 @@
-# [Company Name](Company Link)
+# [NVIDIA](https://www.nvidia.com/)
 
 ## Details
 

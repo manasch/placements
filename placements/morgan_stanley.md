@@ -74,7 +74,7 @@ int main()
 	vector<string> names(n);
 	for (int i = 0; i < n; ++i) {
 		cin >> names[i];
-        transform(names[i].begin(), names[i].end(), names[i].begin(), [](unsigned char c) {return tolower(c);})
+        transform(names[i].begin(), names[i].end(), names[i].begin(), [](unsigned char c) {return tolower(c);});
 	}
 	
 	string res = solve(names, n);
@@ -112,6 +112,39 @@ for i in range(n - 1):
         r += 1
 
 print(maxLen)
+```
+
+```cpp
+int solve(string num, int n) {
+    int l, r, leftSum, rightSum, maxLen = 0;
+    for (int i = 0; i < n - 1; ++i) {
+        l = i;
+        r = i + 1;
+        leftSum = 0;
+        rightSum = 0;
+        while (l >= 0 && r < n) {
+            leftSum += num[l] - '0';
+            rightSum += num[r] - '0';
+            if (leftSum == rightSum) {
+                maxLen = max(maxLen, r - l + 1);
+            }
+            --l;
+            ++r;
+        }
+    }
+    return maxLen;
+}
+
+int main()
+{
+    string num;
+    cin >> num;
+    
+    int res = solve(num, num.size());
+    cout << res << endl;
+
+    return 0;
+}
 ```
 
 ---
