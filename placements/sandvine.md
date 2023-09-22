@@ -32,7 +32,7 @@ Full Time (Employment + Internship Mandatory)
 
 - Internship: Training Cost Recovery of Rs. 1,00,000 if candidate leaves in 6 months’ time
 
-## Round 1
+## Round 1 - Coding Round
 
 > 22/08/23
 
@@ -64,3 +64,19 @@ Full Time (Employment + Internship Mandatory)
 [comment]: # (Add any resources or links or code to this question under this comment.)
 
 ---
+
+## Round 2 - Technical Interview
+
+- About Me
+- Technical
+    - Databases
+    - Compression Algos
+    - Big Table vs RDBMS
+- Discuss code written during round 1.
+
+---
+
+## Round 3 - HR / Technical Interview
+
+- HR Questions
+- Resume Based.

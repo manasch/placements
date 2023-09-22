@@ -21,6 +21,7 @@
 - [IBM](./placements/ibm.md)
 - [Intuit](./placements/intuit.md)
 - [Kickdrum](./placements/kickdrum.md) (missing)
+- [MakeMyTrip](./placements/makemytrip.md)
 - [Morgan Stanley](./placements/morgan_stanley.md)
 - [NatWest](./placements/natwest.md)
 - [Newfold Digital](./placements/newfold_digital.md) (missing)
@@ -33,6 +34,7 @@
 - [Sprinklr](./placements/sprinklr.md)
 - [Swym](./placements/swym.md)
 - [Tesco](./placements/tesco.md)
+- [Thorogood](./placements/thorogood.md)
 - [Urban Company](./placements/urban_company.md)
 
 ## Tier 2

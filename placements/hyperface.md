@@ -27,7 +27,7 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Details about the rounds go under this comment.)
 
-## Round 1
+## Round 1 - Coding Round
 
 > 18/08/23
 
@@ -56,5 +56,20 @@ The ingredient would be as follows: Fat1, CarbsRice, ProtienChicken, Fibre1...
     - If the chef can cook on a day he will mandatorily make the dish.
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
+
+---
+
+## Round 2 - Design Round
+
+- Design an in-memory sophisticated cache that handles the following
+
+    - Eviction Strategy: LRU, LFU.
+    - Write Policy: Write-Through, Write-Behind.
+    - TTL: Delete data from cache after ttl has expired.
+    - Cache Misses: Determine the number of cache misses at any point in time.
+    - Configurable cache size
+
+- A two page document was provided with function declarations and details.
+- Could pick any language of our choice, usage of internet was allowed but no LLM's
 
 ---
