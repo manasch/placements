@@ -28,7 +28,7 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Details about the rounds go under this comment.)
 
-## Round 1
+## Round 1 - Coding Round
 
 > 19/09/23
 
@@ -186,5 +186,17 @@ select (
     where a1.code != a2.code and a1.country = a2.country
 ) as "Domestic";
 ```
+
+---
+
+## Round 2 - Interview
+
+- About yourself.
+- Resume based, projects discussions.
+- 3 DSA and 1 Pattern printing
+    - Given n, print the pattern as 1, 2, 3 ... n ... 3, 2, 1
+    - Detect a cycle in a linked list.
+    - Longest occurances of 1's in a binary array, same but in a circular binary array.
+    - Given an array of integers, replace each element with the next greatest element from the array to its right. (Daily Temperatures on LC)
 
 ---

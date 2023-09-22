@@ -24,7 +24,7 @@ Full Time (Employment + Internship Mandatory)
 | Relocation Bonus | 75000     | --         |
 | CTC              | 32.99LPA  | 50000      |
 
-## Round 1
+## Round 1 - Coding Round
 
 > 01/08/23
 
@@ -103,4 +103,15 @@ int solve(int q, int r) {
     return dp[0];
 }
 ```
+---
+
+## Round 2 - Design Round
+
+- Build a tool to represent two snaps of a filesystem in memory.
+
+    More detailed document was provided and had to meet certain milestones every few hours.\
+    The solution should be highly scalable, and have decent performance.
+
+    Some pre-defined functions with class implementations were provided and we had to complete the function definitions.
+
 ---

@@ -27,7 +27,7 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Details about the rounds go under this comment.)
 
-## Round 1
+## Round 1 - Coding Round
 
 > 29/08/23
 
@@ -48,5 +48,15 @@ Everyone had different coding questions.
 2. **Unique Elements**: Given a list of integers, return the unique elements in the order they appear.
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
+
+---
+
+## Round 2 - Interview
+
+- There was only 1 round for everyone.
+- About yourself, hobbies and tech stack used.
+- Projects explanation from resume or other interests.
+- Pseudocode on any one sorting algo.
+- Why Natwest??
 
 ---

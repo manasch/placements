@@ -33,7 +33,7 @@ Full Time (Employment + Internship Mandatory)
 
 Other compensation was mentioned, such as broadband reimbursement, medical and such.
 
-## Round 1
+## Round 1 - Coding Round
 
 > 29/08/23
 
@@ -50,5 +50,34 @@ A total of 41 questions were asked with 40 of them being MCQ's based on C, Cpp, 
 
 [Leetcode](https://leetcode.com/problems/snakes-and-ladders/)
 [GFG](https://www.hackerrank.com/challenges/the-quickest-way-up/problem)
+
+---
+
+## Round 2 - Interview
+
+- Technical based questions.
+- Resume based projects discussion.
+- Real world usage of data structures and algos.
+- Networking.
+- CAP Theorem, examples and real world usage.
+- Streaming, Database
+- Python
+
+---
+
+## Round 3 - Managerial
+
+- Managerial questions.
+- Interests, hobbies, about me.
+- How would you manage a team meeting? How would you connect with teams across the globe and ensure work efficiency?
+- SQL questions, Questions on projects.
+
+---
+
+## Round 4 - HR
+
+- About Cisco and Job role.
+- About Yourself.
+- Flexible timings and job location satisfactory?
 
 ---
