@@ -28,7 +28,7 @@
 - [Nvidia](./placements/nvidia.md)
 - [Pure Storage](./placements/pure_storage.md)
 - [RingCentral](./placements/ring_central.md)
-- [Sahaj](./placements/sahaj.md) (missing)
+- [Sahaj](./placements/sahaj.md)
 - [Sandvine](./placements/sandvine.md)
 - [Societe Generale](./placements/societe_generale.md)
 - [Sprinklr](./placements/sprinklr.md)
