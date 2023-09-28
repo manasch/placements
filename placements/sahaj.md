@@ -34,9 +34,11 @@ Full Time (Employment + Internship Mandatory)
 [comment]: # (Summary of the sections and experience below this comment.)
 Online test based on fundamentals - CN, OS, DBMS, OOPS. A total of 20 questions.
 
-### Round 2 - Building in-memory DB for backend server.
+---
 
-## Problem statement
+## Round 2 - Building in-memory DB for backend server.
+
+### Problem statement
 
 We need a system to be able to manage data for employees. Requests will be accepted over HTTP ([API contract](#api-contract)). No databases/libraries can be used to store/maintain data.
 
@@ -60,7 +62,8 @@ Fastest applications win.
 3. When in doubt, please check the Github Actions logs for details
 4. Logs for the performance tests will not be shared
 
-## Data to be stored
+### Data to be stored
+
 ```
 {
     employeeId: string,
@@ -68,8 +71,11 @@ Fastest applications win.
     city: string
 }
 ```
+
 ---
-## API contract
+
+### API contract
+
 ***
 >##### GET /greeting
 Checks whether the service is available.
@@ -77,6 +83,7 @@ Checks whether the service is available.
 ###### Response
 * Code: 200  
 * Content: `Hello world!` 
+
 ---
 
 >##### POST /employee
@@ -95,6 +102,7 @@ Content-Type: application/json
 ###### Success Response
 * Status code: 201
 * Content: `{ "employeeId": "<employee_id>" }` (Note: Employee ID is a `string`)
+
 ---
 
 >##### GET /employee/:id
@@ -110,6 +118,7 @@ Returns the specified employee.
 ###### Error Response
 * Status code: 404
 * Content: `{ message : "Employee with <employee_id> was not found" }`
+
 ---
 
 >##### GET /employees/all
@@ -118,6 +127,7 @@ Returns list of all employees.
 ###### Success Response
 * Status code: 200
 * Content: `[{ <employee_object> }]`
+
 ---
 
 >##### PUT /employee/:id
@@ -144,6 +154,7 @@ Content-Type: application/json
 ###### Error Response
 * Code: 404
 * Content: `{ message : "Employee with <employee_id> was not found" }`
+
 ---
 
 >##### DELETE /employee/:id
@@ -162,12 +173,12 @@ Content-Type: application/json
 
 ----
 
-## Competition rules
+### Competition rules
 
 Check <a href="http://nano.sahaj.ai/rules.html" target="_blank">rules and scoring</a> pages for details. When in doubt, ask the organizers and we will add clarifications to the page.
 
 
-## Sample Instructions for coding/committing
+#### Sample Instructions for coding/committing
 * git clone `git repository url` (Skip this step if using github codespaces)
 * cd `repository name` (Skip this step if using github codespaces)
 * Goto [server.js](server.js)
@@ -179,12 +190,11 @@ Check <a href="http://nano.sahaj.ai/rules.html" target="_blank">rules and scorin
 * Wait for build to complete in github actions logs.
 * If build is green, you should see the score on the leader board, else check with actions logs.
 
-## Sample Instructions for Codespaces installation
+#### Sample Instructions for Codespaces installation
 * On your browser after accepting the github invitation, 
   * Celect "Code" dropdown 
   * Select the "Codespaces" tab.
   * Select "Create codespace on main"
 * Continue from step 3 of Sample Instructions for coding/commit
-
 
 ---
