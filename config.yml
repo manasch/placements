@@ -1,7 +1,7 @@
 baseUrl: "https://manasch.github.io/placements"
 title: "Placements"
 paginate: 5
-theme: PaperMod
+theme: paperMod
 
 staticDir:
     - static
