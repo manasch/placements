@@ -26,8 +26,8 @@ params:
         buttons:
             - name: Schedule
               url: "./schedule"
-            - name: Calander
-              url: "./calander"
+            - name: Calendar
+              url: "./calendar"
             - name: Code
               url: "./code"
 
@@ -37,9 +37,9 @@ menu:
           name: schedule
           url: /schedule
           weight: 10
-        - identifier: calander
-          name: calander
-          url: /calander
+        - identifier: calendar
+          name: calendar
+          url: /calendar
           weight: 20
         - identifier: code
           name: code
