@@ -1,0 +1,51 @@
+baseUrl: "https://manasch.github.io/placements"
+title: "Placements"
+paginate: 5
+theme: PaperMod
+
+staticDir:
+    - static
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+    defaultTheme: auto
+    ShowShareButtons: false
+    ShowCodeCopyButtons: true
+    ShowToc: false
+    ShowBreadCrumbs: false
+    ShowPostNavLinks: true
+
+    profileMode:
+        enabled: true
+        subtitle: "I am not getting placed"
+        buttons:
+            - name: Schedule
+              url: "./schedule"
+            - name: Calander
+              url: "./calander"
+            - name: Code
+              url: "./code"
+
+menu:
+    main:
+        - identifier: schedule
+          name: schedule
+          url: /schedule
+          weight: 10
+        - identifier: calander
+          name: calander
+          url: /calander
+          weight: 20
+        - identifier: code
+          name: code
+          url: /code
+          weight: 30
+        - identifier: github
+          name: github
+          url: "https://github.com/manasch/placements"
+          weight: 40
