@@ -1,0 +1,43 @@
+name: Push to main
+
+on:
+  push:
+    paths-ignore:
+      - 'README.md'
+      - '.github/**'
+    branches:
+      - main
+    
+  workflow_dispatch:
+
+jobs:
+  changes:
+    runs-on: ubuntu-22.04
+    defaults:
+      run:
+        shell: bash
+    
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          submodules: recursive
+          fetch-depth: 0
+      
+      - name: Move files
+        shell: bash
+        run: |
+          git switch site
+          git rm -r content/code
+          git rm -r static/images
+          git checkout main placements
+          git checkout main images
+          git mv placements content/code
+          mkdir -p static && git mv images static/images
+          git restore --staged content/code/_index.md && git restore content/code/_index.md
+          for file in ./content/code/*; do sed -r -i "s/\(\.\.\/images/\(\.\.\/\.\.\/images/g" $file; done
+      
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Push to site on Push to main"
+          branch: site
