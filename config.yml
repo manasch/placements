@@ -22,7 +22,7 @@ params:
 
     profileMode:
         enabled: true
-        subtitle: "I am not getting placed"
+        subtitle: "I choose to remain unplaced and refuse to submit to corporate slavery"
         buttons:
             - name: Schedule
               url: "./schedule"
