@@ -46,3 +46,7 @@
 - [Schneider Electric](./placements/schneider_electric.md)
 - [Truminds](./placements/truminds.md)
 - [Volvo](./placements/volvo.md) (missing)
+
+## Miscellanous
+
+- [Amazon Hackon](./placements/amazon_hackon.md)
