@@ -5,6 +5,7 @@ on:
     paths-ignore:
       - 'README.md'
       - '.github/**'
+      - 'tools/**'
     branches:
       - site
   
