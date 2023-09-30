@@ -3,7 +3,6 @@ name: Push to main
 on:
   push:
     paths-ignore:
-      - 'README.md'
       - '.github/**'
     branches:
       - main
@@ -37,8 +36,16 @@ jobs:
           mkdir -p static && git mv images static/images
           git restore --staged content/code/_index.md && git restore content/code/_index.md
           for file in ./content/code/*; do sed -r -i "s/\(\.\.\/images/\(\.\.\/\.\.\/images/g" $file; done
+          git checkout main README.md
+          sed -i '1d' README.md
+          head -5 ./content/code/_index.md > temp.tmp
+          sed -i '1r temp.tmp' README.md
+          sed -i '1d' README.md
+          rm temp.tmp
+          sed -r -i "s/\.\/placements\/(\w+)\.md/\.\/\1/g" README.md
+          rm ./content/code/_index.md && mv README.md ./content/code/_index.md
+          git restore --staged README.md && git restore README.md
       
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Push to site on Push to main"
           branch: site
