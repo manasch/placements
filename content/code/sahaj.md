@@ -44,6 +44,8 @@ We need a system to be able to manage data for employees. Requests will be accep
 
 Fastest applications win.
 
+------
+
 ### Technical details
 1. Your repository needs to have a `Dockerfile` that starts your HTTP web app
 2. Your HTTP app need to expose APIs ([API contract](#api-contract)) on port 8080

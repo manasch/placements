@@ -49,3 +49,7 @@ date: 2023-09-29T17:58:06+05:30
 - [Schneider Electric](./schneider_electric)
 - [Truminds](./truminds)
 - [Volvo](./volvo) (missing)
+
+## Miscellanous
+
+- [Amazon Hackon](./amazon_hackon)
