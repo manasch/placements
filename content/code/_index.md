@@ -7,8 +7,9 @@ date: 2023-09-29T17:58:06+05:30
 
 ## Tier 1
 
-- [Arista](./arista)
 - [Applied Materials](./applied_materials)
+- [Arista](./arista)
+- [Arm Technologies](./arm)
 - [Baxter](./baxter)
 - [British Telecom](./british_telecom)
 - [Cisco](./cisco)
