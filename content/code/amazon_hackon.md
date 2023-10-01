@@ -29,7 +29,7 @@ Hackathon. Winners offered internships/FTE and prize money.
 
 Every member of team had to solve 20 MCQs in 20 minutes. The questions were based on DSA and coding fundamentals.
 
-### Round 2 (Coding)
+## Round 2 (Coding)
 
 > 29/09/2023
 
@@ -251,19 +251,19 @@ int main() {
 }
 ```
 
-# Round 3 (Ideation)
+## Round 3 (Ideation)
 
 > 03/10/2023 - 10/10/2023
 
 Yet to happen.
 
-# Round 4 (Prototype)
+## Round 4 (Prototype)
 
 > 12-10-2023 - 24-10-2023
 
 Yet to happen.
 
-# Round 5 (Finale)
+## Round 5 (Finale)
 
 > 03-11-2023 - 05-11-2023
 
