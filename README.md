@@ -4,8 +4,9 @@
 
 ## Tier 1
 
-- [Arista](./placements/arista.md)
 - [Applied Materials](./placements/applied_materials.md)
+- [Arista](./placements/arista.md)
+- [Arm Technologies](./placements/arm.md)
 - [Baxter](./placements/baxter.md)
 - [British Telecom](./placements/british_telecom.md)
 - [Cisco](./placements/cisco.md)
