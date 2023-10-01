@@ -1,7 +1,9 @@
+import calendar
 import json
 import os
 import re
 
+from calendar import Calendar
 from collections import defaultdict, OrderedDict
 from datetime import datetime
 from pathlib import Path
@@ -165,6 +167,62 @@ class Schedule:
         with open(dest, "w") as f:
             f.write("\n".join(output))
 
+class MDCalendar:
+    def __init__(self, data):
+        self.data = data
+        self.cal = Calendar()
+    
+    def md(self, dest=Path.cwd()):
+        first_date = datetime.strptime(next(iter(self.data.keys())), "%Y-%m-%d")
+        last_date = datetime.strptime(next(reversed(self.data.keys())), "%Y-%m-%d")
+
+        output = [
+            "---",
+            "title: \"Calendar\"",
+            "# date: 2023-10-01T15:42:48+05:30",
+            "---",
+            ""
+        ]
+
+        push = output.append
+
+        start_month = first_date.month
+        start_year = first_date.year
+        end_month = last_date.month
+        end_year = last_date.year
+
+        month_headers = f"| {' | '.join(calendar.day_abbr)} |\n|{' --- |' * 7}"
+        link_schedule = '{{< relref "schedule.md'
+
+        # Quite the spagetti code plz forgive
+
+        for year in range(start_year, end_year + 1):
+            for month in range(start_month if year == start_year else 1, end_month + 1 if year == end_year else 13):
+                push(f'### [{calendar.month_name[month]}, {year}]({link_schedule}#{calendar.month_name[month].lower()}-{year}" >{"}}"})')
+                push("")
+                push(month_headers)
+                week = ["| "]
+                d = ""
+                for i, day in enumerate(self.cal.itermonthdays(year, month)):
+                    w = i % 7
+
+                    if day != 0:
+                        current_date = f"{year}-{month:02}-{day:02}"
+                        if current_date in self.data:
+                            d = f' [{day}]({link_schedule}#{day:02}-{month:02}-{year}-{calendar.day_name[w].lower()}" >{"}}"}) |'
+                        else:
+                            d = f" {day} |"
+                    
+                    week.append(' - |' if day == 0 else d)
+                    if w == 6:
+                        push("".join(week))
+                        week = ["| "]
+                push("")
+        
+        week.clear()
+        with open(dest, "w") as f:
+            f.write("\n".join(output))
+
 def main():
     notion = Notion()
     data = notion.fetch()
@@ -174,6 +232,9 @@ def main():
     
     schedule = Schedule(res)
     schedule.md(Path.cwd() / "content" / "schedule.md")
+
+    cal = MDCalendar(res)
+    cal.md(Path.cwd() / "content" / "calendar.md")
 
 if __name__ == "__main__":
     main()
