@@ -97,7 +97,7 @@ class Parser:
                 })
         
         parsed.clear()
-        return OrderedDict(sorted(self.store.items()))
+        return OrderedDict(sorted(self.store.items(), reverse=True))
 
 class Schedule:
     def __init__(self, data):
