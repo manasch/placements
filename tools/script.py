@@ -173,8 +173,8 @@ class MDCalendar:
         self.cal = Calendar()
     
     def md(self, dest=Path.cwd()):
-        first_date = datetime.strptime(next(iter(self.data.keys())), "%Y-%m-%d")
-        last_date = datetime.strptime(next(reversed(self.data.keys())), "%Y-%m-%d")
+        last_date = datetime.strptime(next(iter(self.data.keys())), "%Y-%m-%d")
+        first_date = datetime.strptime(next(reversed(self.data.keys())), "%Y-%m-%d")
 
         output = [
             "---",
