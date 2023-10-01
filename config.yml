@@ -22,7 +22,7 @@ params:
 
     profileMode:
         enabled: true
-        subtitle: "I am not getting placed"
+        subtitle: "I need job"
         buttons:
             - name: Schedule
               url: "./schedule"
