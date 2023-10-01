@@ -1,9 +1,9 @@
-import datetime
 import json
 import os
 import re
 
 from collections import defaultdict, OrderedDict
+from datetime import datetime
 from pathlib import Path
 
 import requests
@@ -111,13 +111,23 @@ class Schedule:
         ]
         push = output.append
 
+        months_added = set()
+
         for k, v in self.data.items():
-            push(f"## {k}")
+            date_obj = datetime.strptime(k, "%Y-%m-%d")
+            month = date_obj.strftime("%B")
+
+            if month not in months_added:
+                months_added.add(month)
+                push(f"## {month}, {date_obj.year}")
+                push("")
+            
+            push(f"### {date_obj.strftime('%d-%m-%Y, %A')}")
             push("")
 
             register = v.get("register")
             if register:
-                push(f"### Register")
+                push(f"#### Register")
                 push("")
                 for item in register:
                     push("```md")
@@ -129,7 +139,7 @@ class Schedule:
             
             test = v.get("test")
             if test:
-                push(f"### Test")
+                push(f"#### Test")
                 push("")
                 for item in test:
                     push("```md")
@@ -140,7 +150,7 @@ class Schedule:
             
             interview = v.get("interview")
             if interview:
-                push(f"### Interview")
+                push(f"#### Interview")
                 push("")
                 for item in interview:
                     push("```md")
