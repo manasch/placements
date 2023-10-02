@@ -2,7 +2,7 @@ name: cron-schedule
 
 on:
   schedule:
-    - cron: '30 3,9,15 * * *'
+    - cron: '30 3,6,12,18 * * *'
 
   workflow_dispatch:
 
