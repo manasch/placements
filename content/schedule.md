@@ -70,6 +70,14 @@ KPMG:
 
 ### 04-10-2023, Wednesday
 
+#### Register
+
+```md
+Hiver:
+- Tier: T-2
+- Offer: FTE, Internship
+```
+
 #### Test
 
 ```md
