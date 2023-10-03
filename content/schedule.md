@@ -23,7 +23,41 @@ Confluent:
 
 ---
 
+### 07-10-2023, Saturday
+
+#### Interview
+
+```md
+Pratt & Whitney:
+- Process: Offline
+```
+
+---
+
+### 06-10-2023, Friday
+
+#### Interview
+
+```md
+Amadeus:
+- Process: Offline
+```
+
+---
+
 ### 05-10-2023, Thursday
+
+#### Test
+
+```md
+Pratt & Whitney:
+- Test Mode: Online
+```
+
+```md
+Amadeus:
+- Test Mode: Offline
+```
 
 #### Interview
 
