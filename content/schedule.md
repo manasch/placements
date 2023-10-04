@@ -5,6 +5,46 @@ title: "Schedule"
 
 ## October, 2023
 
+### 13-10-2023, Friday
+
+#### Interview
+
+```md
+Aveva:
+- Process: Offline
+```
+
+---
+
+### 12-10-2023, Thursday
+
+#### Test
+
+```md
+Aveva:
+- Test Mode: Online
+```
+
+#### Interview
+
+```md
+Tejas Networks:
+- Process: Offline
+```
+
+---
+
+### 10-10-2023, Tuesday
+
+#### Test
+
+```md
+Tejas Networks:
+- Test Mode: Offline
+```
+
+---
+
 ### 09-10-2023, Monday
 
 #### Test
@@ -25,6 +65,13 @@ Confluent:
 
 ### 07-10-2023, Saturday
 
+#### Test
+
+```md
+Infibeam:
+- Test Mode: Online
+```
+
 #### Interview
 
 ```md
@@ -39,6 +86,11 @@ Pratt & Whitney:
 #### Interview
 
 ```md
+Samsung Semiconductors:
+- Process: Online
+```
+
+```md
 Amadeus:
 - Process: Offline
 ```
@@ -47,7 +99,38 @@ Amadeus:
 
 ### 05-10-2023, Thursday
 
+#### Register
+
+```md
+Samsung Semiconductors:
+- Tier: None
+- Offer: Not Mentioned
+```
+
+```md
+Infibeam:
+- Tier: T-2
+- Offer: FTE, Internship
+```
+
+```md
+Aveva:
+- Tier: T-1
+- Offer: FTE, Internship
+```
+
+```md
+Tejas Networks:
+- Tier: T-2
+- Offer: FTE, Internship
+```
+
 #### Test
+
+```md
+Samsung Semiconductors:
+- Test Mode: Online
+```
 
 ```md
 Pratt & Whitney:
