@@ -7,6 +7,7 @@ date: 2023-09-29T17:58:06+05:30
 
 ## Tier 1
 
+- [Amadeus Software Labs](./amadeus)
 - [Applied Materials](./applied_materials)
 - [Arista](./arista)
 - [Arm Technologies](./arm)
@@ -54,3 +55,4 @@ date: 2023-09-29T17:58:06+05:30
 ## Miscellanous
 
 - [Amazon Hackon](./amazon_hackon)
+- [Samsung Semiconductors](./samsung_semiconductor)
