@@ -849,7 +849,7 @@ Dish:
 
 ```md
 Amadeus:
-- Tier: T-2
+- Tier: T-1
 - Offer: FTE, Internship
 ```
 
