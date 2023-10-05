@@ -1,4 +1,4 @@
-# [Company Name](Company Link)
+# [Samsung Semiconductor India Research](https://news.samsung.com/in/tag/samsung-semiconductor-india-research)
 
 ## Details
 
