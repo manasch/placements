@@ -40,10 +40,10 @@ There were 2 sections and of 31 Questions and 90 min were given.
 
 ### Coding Questions
 
-1. **Number of Sale Dayes**: A shop operates for N days, an array of size N is given where each day the value can either be 1, 0, -1.
+1. **Number of Sale Days**: A shop operates for N days, an array of size N is given where each day the value can either be 1, 0, -1.
 
-    If v = 1, then the shopkeeper restocks his inventory and discard his old one (if any). He can't sell anything on that day.
-    If v = 0, then the shopkeeper can sell the items on that day (if he has any items).
+    If v = 1, then the shopkeeper restocks his inventory and discard his old one (if any). He can't sell anything on that day.\
+    If v = 0, then the shopkeeper can sell the items on that day (if he has any items).\
     If v = -1, then the shopkeeper will return back all the item in the shop back to the inventory and can't sell until he restocks.
 
     Find the maximum number of days the shop has items on sale for one lot of items. (lot refers to the items he gets upon a restock)
