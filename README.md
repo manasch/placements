@@ -4,6 +4,7 @@
 
 ## Tier 1
 
+- [Amadeus Software Labs](./placements/amadeus.md)
 - [Applied Materials](./placements/applied_materials.md)
 - [Arista](./placements/arista.md)
 - [Arm Technologies](./placements/arm.md)
@@ -51,3 +52,4 @@
 ## Miscellanous
 
 - [Amazon Hackon](./placements/amazon_hackon.md)
+- [Samsung Semiconductors](./placements/samsung_semiconductor.md)
