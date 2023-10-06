@@ -21,6 +21,8 @@ None mentiond
 | Gross | 15 L | --         |
 | CTC   | 20 L | --         |
 
+(All shortlisted candidates were gifted Infinity-JBL headphones worth Rs 999)
+
 > Customer Experience Engineer
 
 |       | FTE  | Internship |
@@ -70,3 +72,22 @@ There were 4 sections.
 [comment]: # (Add any resources or links or code to this question under this comment.)
 
 ---
+
+## Round 2 (ASE)
+
+> 10/08/23
+
+The second round for ASE was in the form of an assignment.
+The shortlisted candidates were told to choose one of two assignment statements, and given 4 hours to complete the code, create a repo and 1 additional hour to create a video demo and a README file containing:
+- explanation
+- technologies used
+- how to install and run
+
+At the end of this 5-hour round, best solutions were selected and the candidate was asked to present to a panel of judges.
+This was followed by HR round and then results.
+
+ ### Assignments
+
+The two assignment choices given were different for each candidate, but the themes were the same:
+- Assignment 1: Database + UI
+- Assignment 2: Data Processing + ML/Data Analytics
