@@ -52,7 +52,11 @@ date: 2023-09-29T17:58:06+05:30
 - [Truminds](./truminds)
 - [Volvo](./volvo) (missing)
 
-## Miscellanous
+## Internship Only
+
+- [Intel](./intel)
+- [Samsung Semiconductors](./samsung_semiconductor)
+
+## Hackathon
 
 - [Amazon Hackon](./amazon_hackon)
-- [Samsung Semiconductors](./samsung_semiconductor)
