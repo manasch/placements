@@ -49,8 +49,11 @@
 - [Truminds](./placements/truminds.md)
 - [Volvo](./placements/volvo.md) (missing)
 
-## Miscellanous
+## Internship Only
+
+- [Intel](./placements/intel.md)
+- [Samsung Semiconductors](./placements/samsung_semiconductor.md)
+
+## Hackathon
 
 - [Amazon Hackon](./placements/amazon_hackon.md)
-- [Samsung Semiconductors](./placements/samsung_semiconductor.md)
-- [Intel](./placements/intel.md)
