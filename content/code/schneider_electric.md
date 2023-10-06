@@ -33,6 +33,27 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Summary of the sections and experience below this comment.)
 
-No coding, MCQ's based on aptitude, analytical, electronics, technical.
+### Online Assessment
+
+- MCQ's based on aptitude, analytical, electronics, technical.
 
 ---
+
+## Round 2 
+
+### Technical Interview
+
+- DSA question: How to detect a cycle in a linked list
+- Rate yourself on a scale of 1 - 10 for a given techstack (MERN/MEAN), questions asked accordingly.
+- Database design question
+
+------
+
+## Round 3
+
+### HR Interview
+
+- HR Questions
+- Resume Based.
+
+------
