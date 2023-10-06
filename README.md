@@ -32,6 +32,7 @@
 - [RingCentral](./placements/ring_central.md)
 - [Sahaj](./placements/sahaj.md)
 - [Sandvine](./placements/sandvine.md)
+- [Schneider Electric](./placements/schneider_electric.md)
 - [Societe Generale](./placements/societe_generale.md)
 - [Sprinklr](./placements/sprinklr.md)
 - [Swym](./placements/swym.md)
@@ -45,7 +46,6 @@
 - [Eli Lilly](./placements/eli_lilly.md)
 - [Deloitte](./placements/deloitte.md)
 - [PricewaterhouseCoopers (PwC)](./placements/pwc.md)
-- [Schneider Electric](./placements/schneider_electric.md)
 - [Truminds](./placements/truminds.md)
 - [Volvo](./placements/volvo.md) (missing)
 
