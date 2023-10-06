@@ -35,6 +35,7 @@ date: 2023-09-29T17:58:06+05:30
 - [RingCentral](./ring_central)
 - [Sahaj](./sahaj)
 - [Sandvine](./sandvine)
+- [Schneider Electric](./schneider_electric)
 - [Societe Generale](./societe_generale)
 - [Sprinklr](./sprinklr)
 - [Swym](./swym)
@@ -48,7 +49,6 @@ date: 2023-09-29T17:58:06+05:30
 - [Eli Lilly](./eli_lilly)
 - [Deloitte](./deloitte)
 - [PricewaterhouseCoopers (PwC)](./pwc)
-- [Schneider Electric](./schneider_electric)
 - [Truminds](./truminds)
 - [Volvo](./volvo) (missing)
 
