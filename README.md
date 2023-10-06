@@ -21,7 +21,6 @@
 - [Hewlett Packard Enterprise (HPE)](./placements/hpe.md)
 - [Hyperface](./placements/hyperface.md)
 - [IBM](./placements/ibm.md)
-- [Intel](./placements/intel.md)
 - [Intuit](./placements/intuit.md)
 - [Kickdrum](./placements/kickdrum.md) (missing)
 - [MakeMyTrip](./placements/makemytrip.md)
@@ -54,3 +53,4 @@
 
 - [Amazon Hackon](./placements/amazon_hackon.md)
 - [Samsung Semiconductors](./placements/samsung_semiconductor.md)
+- [Intel](./placements/intel.md)
