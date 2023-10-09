@@ -27,6 +27,17 @@ Tejas Networks:
 
 ---
 
+### 11-10-2023, Wednesday
+
+#### Interview
+
+```md
+Infibeam:
+- Process: Offline
+```
+
+---
+
 ### 10-10-2023, Tuesday
 
 #### Test
