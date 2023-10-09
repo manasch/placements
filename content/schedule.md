@@ -7,23 +7,16 @@ title: "Schedule"
 
 ### 13-10-2023, Friday
 
-#### Interview
+#### Test
 
 ```md
-Aveva:
-- Process: Offline
+Zynga:
+- Test Mode: Online
 ```
 
 ---
 
 ### 12-10-2023, Thursday
-
-#### Test
-
-```md
-Aveva:
-- Test Mode: Online
-```
 
 #### Interview
 
@@ -46,6 +39,20 @@ Tejas Networks:
 ---
 
 ### 09-10-2023, Monday
+
+#### Register
+
+```md
+Zynga:
+- Tier: None
+- Offer: Internship
+```
+
+```md
+Apple:
+- Tier: T-1
+- Offer: Internship, PPO
+```
 
 #### Test
 
