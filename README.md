@@ -13,6 +13,7 @@
 - [Cisco](./placements/cisco.md)
 - [Cloudera](./placements/cloudera.md)
 - [Commvault](./placements/commvault.md)
+- [Confluent](./placements/confluent.md)
 - [Cynlr](./placements/cynlr.md)
 - [Deutsche Bank](./placements/deutsche.md)
 - [Dish Network](./placements/dish.md)
