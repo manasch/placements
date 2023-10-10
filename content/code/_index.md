@@ -16,6 +16,7 @@ date: 2023-09-29T17:58:06+05:30
 - [Cisco](./cisco)
 - [Cloudera](./cloudera)
 - [Commvault](./commvault)
+- [Confluent](./confluent)
 - [Cynlr](./cynlr)
 - [Deutsche Bank](./deutsche)
 - [Dish Network](./dish)
