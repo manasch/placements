@@ -5,6 +5,28 @@ title: "Schedule"
 
 ## October, 2023
 
+### 30-10-2023, Monday
+
+#### Interview
+
+```md
+Juniper Networks:
+- Process: Offline
+```
+
+---
+
+### 26-10-2023, Thursday
+
+#### Test
+
+```md
+Juniper Networks:
+- Test Mode: Offline
+```
+
+---
+
 ### 13-10-2023, Friday
 
 #### Test
@@ -28,6 +50,20 @@ Tejas Networks:
 ---
 
 ### 11-10-2023, Wednesday
+
+#### Register
+
+```md
+Juniper Networks:
+- Tier: T-1
+- Offer: Internship, PPO
+```
+
+```md
+Collins Aerospace:
+- Tier: T-2
+- Offer: FTE, Internship
+```
 
 #### Interview
 
@@ -246,12 +282,6 @@ Deltax:
 ### 28-09-2023, Thursday
 
 #### Register
-
-```md
-Collins Aerospace:
-- Tier: T-2
-- Offer: FTE, Internship
-```
 
 ```md
 Confluent:
