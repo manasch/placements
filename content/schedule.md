@@ -27,6 +27,17 @@ Paypal:
 
 ---
 
+### 17-10-2023, Tuesday
+
+#### Interview
+
+```md
+Aurva.io:
+- Process: Offline
+```
+
+---
+
 ### 16-10-2023, Monday
 
 #### Test
@@ -45,6 +56,17 @@ Perfios:
 
 ---
 
+### 14-10-2023, Saturday
+
+#### Test
+
+```md
+Aurva.io:
+- Test Mode: Online
+```
+
+---
+
 ### 13-10-2023, Friday
 
 #### Test
@@ -59,6 +81,12 @@ Zynga:
 ### 12-10-2023, Thursday
 
 #### Register
+
+```md
+Aurva.io:
+- Tier: T-1
+- Offer: FTE, Internship
+```
 
 ```md
 Perfios:
