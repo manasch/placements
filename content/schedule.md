@@ -5,7 +5,7 @@ title: "Schedule"
 
 ## October, 2023
 
-### 30-10-2023, Monday
+### 31-10-2023, Tuesday
 
 #### Interview
 
@@ -16,13 +16,31 @@ Juniper Networks:
 
 ---
 
-### 26-10-2023, Thursday
+### 18-10-2023, Wednesday
 
 #### Test
 
 ```md
-Juniper Networks:
+Paypal:
+- Test Mode: Online
+```
+
+---
+
+### 16-10-2023, Monday
+
+#### Test
+
+```md
+Perfios:
 - Test Mode: Offline
+```
+
+#### Interview
+
+```md
+Perfios:
+- Process: Offline
 ```
 
 ---
@@ -39,6 +57,14 @@ Zynga:
 ---
 
 ### 12-10-2023, Thursday
+
+#### Register
+
+```md
+Perfios:
+- Tier: T-2
+- Offer: FTE, Internship
+```
 
 #### Interview
 
