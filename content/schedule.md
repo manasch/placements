@@ -25,9 +25,23 @@ Paypal:
 - Test Mode: Online
 ```
 
+#### Interview
+
+```md
+Microchip:
+- Process: Offline
+```
+
 ---
 
 ### 17-10-2023, Tuesday
+
+#### Test
+
+```md
+Microchip:
+- Test Mode: Offline
+```
 
 #### Interview
 
@@ -57,6 +71,20 @@ Perfios:
 ---
 
 ### 14-10-2023, Saturday
+
+#### Register
+
+```md
+Samsung Research Institute:
+- Tier: None
+- Offer: Internship
+```
+
+```md
+Microchip:
+- Tier: T-1
+- Offer: FTE, Internship
+```
 
 #### Test
 
