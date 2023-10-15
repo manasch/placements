@@ -8,6 +8,7 @@
 - [Applied Materials](./placements/applied_materials.md)
 - [Arista](./placements/arista.md)
 - [Arm Technologies](./placements/arm.md)
+- [Aurva](./placements/aurva.md)
 - [Baxter](./placements/baxter.md)
 - [British Telecom](./placements/british_telecom.md)
 - [Cisco](./placements/cisco.md)
@@ -56,6 +57,7 @@
 
 - [Intel](./placements/intel.md)
 - [Samsung Semiconductors](./placements/samsung_semiconductor.md)
+- [Zynga](./placements/zynga.md)
 
 ## Hackathon
 
