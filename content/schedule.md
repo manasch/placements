@@ -82,7 +82,7 @@ Samsung Research Institute:
 
 ```md
 Microchip:
-- Tier: T-1
+- Tier: T-2
 - Offer: FTE, Internship
 ```
 
