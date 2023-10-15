@@ -11,6 +11,7 @@ date: 2023-09-29T17:58:06+05:30
 - [Applied Materials](./applied_materials)
 - [Arista](./arista)
 - [Arm Technologies](./arm)
+- [Aurva](./aurva)
 - [Baxter](./baxter)
 - [British Telecom](./british_telecom)
 - [Cisco](./cisco)
@@ -59,6 +60,7 @@ date: 2023-09-29T17:58:06+05:30
 
 - [Intel](./intel)
 - [Samsung Semiconductors](./samsung_semiconductor)
+- [Zynga](./zynga)
 
 ## Hackathon
 

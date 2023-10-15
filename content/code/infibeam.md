@@ -118,3 +118,32 @@ void solve(vector<vector<char>>& board, string word) {
 ```
 
 ---
+
+## Round 2
+
+> 11/10/23
+
+This was a technical round, questions were asked based on resume.
+
+- What is a stack?
+- What is a linked list, hashtable?
+- How is a hashtable implemented?
+- What is an ordereddict?
+- Time complexities.
+- What is a heap, insertion time complexity?
+- Difference between a heap and a binary tree?
+- Project discussions.
+- Code for insertion and finding an element in a linked list.
+
+---
+
+## Round 3
+
+> 11/10/23
+
+This was a coding/algo round
+
+- Write the code to flatten a binary tree into a linked list.
+- Write the code to find the largest sum subarray. [Leetcode](https://leetcode.com/problems/maximum-subarray/
+
+---
