@@ -51,6 +51,7 @@ date: 2023-09-29T17:58:06+05:30
 - [Eli Lilly](./eli_lilly)
 - [Deloitte](./deloitte)
 - [Hiver](./hiver)
+- [IDfy](./idfy)
 - [PricewaterhouseCoopers (PwC)](./pwc)
 - [Truminds](./truminds)
 - [Volvo](./volvo) (missing)
