@@ -28,6 +28,11 @@ Paypal:
 #### Interview
 
 ```md
+IDFY:
+- Process: Offline
+```
+
+```md
 Microchip:
 - Process: Offline
 ```
@@ -50,11 +55,29 @@ Aurva.io:
 - Process: Offline
 ```
 
+```md
+Zynga:
+- Process: Offline
+```
+
 ---
 
 ### 16-10-2023, Monday
 
+#### Register
+
+```md
+IDFY:
+- Tier: T-2
+- Offer: FTE, Internship
+```
+
 #### Test
+
+```md
+IDFY:
+- Test Mode: Online
+```
 
 ```md
 Perfios:
