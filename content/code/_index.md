@@ -33,7 +33,6 @@ date: 2023-09-29T17:58:06+05:30
 - [Morgan Stanley](./morgan_stanley)
 - [NatWest](./natwest)
 - [Newfold Digital](./newfold_digital) (missing)
-- [Nvidia](./nvidia)
 - [Pure Storage](./pure_storage)
 - [RingCentral](./ring_central)
 - [Sahaj](./sahaj)
@@ -59,6 +58,7 @@ date: 2023-09-29T17:58:06+05:30
 ## Internship Only
 
 - [Intel](./intel)
+- [Nvidia](./nvidia)
 - [Samsung Semiconductors](./samsung_semiconductor)
 - [Zynga](./zynga)
 
