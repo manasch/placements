@@ -144,6 +144,6 @@ This was a technical round, questions were asked based on resume.
 This was a coding/algo round
 
 - Write the code to flatten a binary tree into a linked list.
-- Write the code to find the largest sum subarray. [Leetcode](https://leetcode.com/problems/maximum-subarray/
+- Write the code to find the largest sum subarray. [Leetcode](https://leetcode.com/problems/maximum-subarray/)
 
 ---

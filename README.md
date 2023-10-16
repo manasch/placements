@@ -48,6 +48,7 @@
 - [Eli Lilly](./placements/eli_lilly.md)
 - [Deloitte](./placements/deloitte.md)
 - [Hiver](./placements/hiver.md)
+- [IDfy](./placements/idfy.md)
 - [PricewaterhouseCoopers (PwC)](./placements/pwc.md)
 - [Truminds](./placements/truminds.md)
 - [Volvo](./placements/volvo.md) (missing)
