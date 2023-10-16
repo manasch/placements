@@ -16,9 +16,25 @@ Juniper Networks:
 
 ---
 
+### 20-10-2023, Friday
+
+#### Interview
+
+```md
+AstraZeneca:
+- Process: Offline
+```
+
+---
+
 ### 18-10-2023, Wednesday
 
 #### Test
+
+```md
+AstraZeneca:
+- Test Mode: Online
+```
 
 ```md
 Paypal:
@@ -41,11 +57,19 @@ Microchip:
 
 ### 17-10-2023, Tuesday
 
+#### Register
+
+```md
+AstraZeneca:
+- Tier: T-2
+- Offer: FTE, Internship
+```
+
 #### Test
 
 ```md
 Microchip:
-- Test Mode: Offline
+- Test Mode: Online
 ```
 
 #### Interview
