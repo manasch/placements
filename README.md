@@ -30,7 +30,6 @@
 - [Morgan Stanley](./placements/morgan_stanley.md)
 - [NatWest](./placements/natwest.md)
 - [Newfold Digital](./placements/newfold_digital.md) (missing)
-- [Nvidia](./placements/nvidia.md)
 - [Pure Storage](./placements/pure_storage.md)
 - [RingCentral](./placements/ring_central.md)
 - [Sahaj](./placements/sahaj.md)
@@ -56,6 +55,7 @@
 ## Internship Only
 
 - [Intel](./placements/intel.md)
+- [Nvidia](./placements/nvidia.md)
 - [Samsung Semiconductors](./placements/samsung_semiconductor.md)
 - [Zynga](./placements/zynga.md)
 
