@@ -49,6 +49,7 @@
 - [Deloitte](./placements/deloitte.md)
 - [Hiver](./placements/hiver.md)
 - [IDfy](./placements/idfy.md)
+- [Microchip](./placements/microchip.md)
 - [PricewaterhouseCoopers (PwC)](./placements/pwc.md)
 - [Truminds](./placements/truminds.md)
 - [Volvo](./placements/volvo.md) (missing)
