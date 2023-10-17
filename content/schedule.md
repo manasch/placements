@@ -29,10 +29,23 @@ AstraZeneca:
 
 ### 18-10-2023, Wednesday
 
+#### Register
+
+```md
+BlueYonder:
+- Tier: T-1
+- Offer: FTE, Internship
+```
+
 #### Test
 
 ```md
 AstraZeneca:
+- Test Mode: Online
+```
+
+```md
+Samsung Research Institute:
 - Test Mode: Online
 ```
 
