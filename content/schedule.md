@@ -75,11 +75,6 @@ Microchip:
 #### Interview
 
 ```md
-Aurva.io:
-- Process: Offline
-```
-
-```md
 Zynga:
 - Process: Offline
 ```
