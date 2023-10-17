@@ -52,6 +52,7 @@ date: 2023-09-29T17:58:06+05:30
 - [Deloitte](./deloitte)
 - [Hiver](./hiver)
 - [IDfy](./idfy)
+- [Microchip](./microchip)
 - [PricewaterhouseCoopers (PwC)](./pwc)
 - [Truminds](./truminds)
 - [Volvo](./volvo) (missing)
