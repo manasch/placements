@@ -58,6 +58,7 @@
 
 - [Intel](./placements/intel.md)
 - [Nvidia](./placements/nvidia.md)
+- [Samsung Research Institue](./placements/samsung_rnd.md)
 - [Samsung Semiconductors](./placements/samsung_semiconductor.md)
 - [Zynga](./placements/zynga.md)
 
