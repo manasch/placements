@@ -3,6 +3,19 @@ title: "Schedule"
 # date: 2023-09-30T23:25:54+05:30
 ---
 
+## November, 2023
+
+### 01-11-2023, Wednesday
+
+#### Test
+
+```md
+Paypal:
+- Test Mode: Online
+```
+
+---
+
 ## October, 2023
 
 ### 31-10-2023, Tuesday
@@ -16,13 +29,62 @@ Juniper Networks:
 
 ---
 
+### 26-10-2023, Thursday
+
+#### Test
+
+```md
+Juniper Networks:
+- Test Mode: Offline
+```
+
+#### Interview
+
+```md
+Zebra Tech:
+- Process: Offline
+```
+
+---
+
 ### 20-10-2023, Friday
+
+#### Test
+
+```md
+Zebra Tech:
+- Test Mode: Offline
+```
 
 #### Interview
 
 ```md
 AstraZeneca:
 - Process: Offline
+```
+
+---
+
+### 19-10-2023, Thursday
+
+#### Register
+
+```md
+Nextuple:
+- Tier: T-2
+- Offer: FTE, Internship
+```
+
+```md
+CRK Gida:
+- Tier: T-2
+- Offer: FTE
+```
+
+```md
+Zebra Tech:
+- Tier: T-2
+- Offer: Internship
 ```
 
 ---
