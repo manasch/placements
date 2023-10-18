@@ -49,11 +49,6 @@ Samsung Research Institute:
 - Test Mode: Online
 ```
 
-```md
-Paypal:
-- Test Mode: Online
-```
-
 #### Interview
 
 ```md
