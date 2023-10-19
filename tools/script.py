@@ -34,7 +34,7 @@ class Parser:
     def __init__(self, data):
         self.data = data
         self.store = defaultdict(lambda: defaultdict(list))
-        self.match = re.compile("((\d+)-(\d+)-(\d+))")
+        self.match = re.compile("((\d+)-(\d+)-(\d+))?T?(\d{2}:\d{2})?")
     
     def parse(self):
         results = self.data.get("results")
@@ -51,14 +51,21 @@ class Parser:
             interview_date = properties.get("Interview Date").get("date").get("start") if properties.get("Interview Date").get("date") is not None else None
             process = properties.get("Process").get("select").get("name") if properties.get("Process").get("select") is not None else None
 
+            register_date_match = self.match.search(register_date if register_date is not None else "")
+            test_date_match = self.match.search(test_date if test_date is not None else "")
+            interview_date_match = self.match.search(interview_date if interview_date is not None else "")
+
             parsed.append({
                 "company": company,
                 "tier": tier,
-                "register_date": self.match.search(register_date).group(1) if register_date is not None else None,
+                "register_date": register_date_match.group(1),
+                "register_time": register_date_match.group(5),
                 "job_status": job_status,
-                "test_date": self.match.search(test_date).group(1) if test_date is not None else None,
+                "test_date": test_date_match.group(1),
+                "test_time": test_date_match.group(5),
                 "test_mode": test_mode,
-                "interview_date": self.match.search(interview_date).group(1) if interview_date is not None else None,
+                "interview_date": interview_date_match.group(1),
+                "interview_time": interview_date_match.group(5),
                 "process": process
             })
         
@@ -78,22 +85,25 @@ class Parser:
             if reg_date:
                 self.store[reg_date]["register"].append({
                     "company": item.get("company"),
-                    "tier": item.get("tier"),
-                    "job_status": item.get("job_status")
+                    "tier": item.get("tier") if item.get("tier") is not None else "Not Mentioned",
+                    "job_status": ", ".join(item.get("job_status")) if item.get("job_status") else "Not Mentioned",
+                    "register_time": item.get("register_time") if item.get("register_time") is not None else "Not Mentioned"
                 })
 
             test_date = item.get("test_date")
             if test_date:
                 self.store[test_date]["test"].append({
                     "company": item.get("company"),
-                    "test_mode": item.get("test_mode")    
+                    "test_mode": item.get("test_mode") if item.get("test_mode") is not None else "Not Mentioned",
+                    "test_time": item.get("test_time") if item.get("test_time") is not None else "Not Mentioned"
                 })
 
             inter_date = item.get("interview_date")
             if inter_date:
                 self.store[inter_date]["interview"].append({
                     "company": item.get("company"),
-                    "process": item.get("process")
+                    "process": item.get("process") if item.get("process") is not None else "Not Mentioned",
+                    "interview_time": item.get("interview_time") if item.get("interview_time") is not None else "Not Mentioned"
                 })
         
         parsed.clear()
@@ -135,7 +145,8 @@ class Schedule:
                     push("```md")
                     push(f"{item.get('company')}:")
                     push(f"- Tier: {item.get('tier')}")
-                    push(f"- Offer: {', '.join(item.get('job_status')) if item.get('job_status') else 'Not Mentioned'}")
+                    push(f"- Offer: {item.get('job_status')}")
+                    push(f"- Deadline: {item.get('register_time')}")
                     push("```")
                     push("")
             
@@ -146,7 +157,8 @@ class Schedule:
                 for item in test:
                     push("```md")
                     push(f"{item.get('company')}:")
-                    push(f"- Test Mode: {item.get('test_mode') if item.get('test_mode') else 'Not Mentioned'}")
+                    push(f"- Test Mode: {item.get('test_mode')}")
+                    push(f"- Test Time: {item.get('test_time')}")
                     push("```")
                     push("")
             
@@ -157,7 +169,8 @@ class Schedule:
                 for item in interview:
                     push("```md")
                     push(f"{item.get('company')}:")
-                    push(f"- Process: {item.get('process') if item.get('process') else 'Not Mentioned'}")
+                    push(f"- Process: {item.get('process')}")
+                    push(f"- Time: {item.get('interview_time')}")
                     push("```")
                     push("")
             
