@@ -30,26 +30,67 @@ class Notion:
         
         return data.json()
 
+class Properties:
+    def __init__(self):
+        self.properties = {}
+
+    def set_properties(self, properties):
+        self.properties.clear()
+        self.properties = properties
+
+    @property
+    def company(self):
+        return self.properties.get("Company").get("title")[0].get("plain_text")
+    
+    @property
+    def tier(self):
+        return self.properties.get("Tier").get("select").get("name") if self.properties.get("Tier").get("select") is not None else None
+    
+    @property
+    def register_date(self):
+        return self.properties.get("Register Deadline").get("date").get("start") if self.properties.get("Register Deadline").get("date") is not None else None
+    
+    @property
+    def job_status(self):
+        return [val.get("name") for val in self.properties.get("Job Status").get("multi_select")]
+    
+    @property
+    def test_date(self):
+        return self.properties.get("Test Date").get("date").get("start") if self.properties.get("Test Date").get("date") is not None else None
+    
+    @property
+    def test_mode(self):
+        return self.properties.get("Test").get("select").get("name") if self.properties.get("Test").get("select") is not None else None
+    
+    @property
+    def interview_date(self):
+        return self.properties.get("Interview Date").get("date").get("start") if self.properties.get("Interview Date").get("date") is not None else None
+    
+    @property
+    def process(self):
+        return self.properties.get("Process").get("select").get("name") if self.properties.get("Process").get("select") is not None else None
+
 class Parser:
     def __init__(self, data):
         self.data = data
         self.store = defaultdict(lambda: defaultdict(list))
         self.match = re.compile("((\d+)-(\d+)-(\d+))?T?(\d{2}:\d{2})?")
+        self.properties = Properties()
     
     def parse(self):
         results = self.data.get("results")
         parsed = []
         for page in results:
-            properties = page.get("properties")
+            self.properties.set_properties(page.get("properties"))
 
-            company = properties.get("Company").get("title")[0].get("plain_text")
-            tier = properties.get("Tier").get("select").get("name") if properties.get("Tier").get("select") is not None else None
-            register_date = properties.get("Register Deadline").get("date").get("start") if properties.get("Register Deadline").get("date") is not None else None
-            job_status = [val.get("name") for val in properties.get("Job Status").get("multi_select")]
-            test_date = properties.get("Test Date").get("date").get("start") if properties.get("Test Date").get("date") is not None else None
-            test_mode = properties.get("Test").get("select").get("name") if properties.get("Test").get("select") is not None else None
-            interview_date = properties.get("Interview Date").get("date").get("start") if properties.get("Interview Date").get("date") is not None else None
-            process = properties.get("Process").get("select").get("name") if properties.get("Process").get("select") is not None else None
+            company = self.properties.company
+            tier = self.properties.tier
+            register_date = self.properties.register_date
+            job_status = self.properties.job_status
+            test_date = self.properties.test_date
+            test_mode = self.properties.test_mode
+            interview_date = self.properties.interview_date
+            process = self.properties.process
 
             register_date_match = self.match.search(register_date if register_date is not None else "")
             test_date_match = self.match.search(test_date if test_date is not None else "")
@@ -87,7 +128,7 @@ class Parser:
                     "company": item.get("company"),
                     "tier": item.get("tier") if item.get("tier") is not None else "Not Mentioned",
                     "job_status": ", ".join(item.get("job_status")) if item.get("job_status") else "Not Mentioned",
-                    "register_time": item.get("register_time") if item.get("register_time") is not None else "Not Mentioned"
+                    "register_time": item.get("register_time") if item.get("register_time") is not None else "EOD"
                 })
 
             test_date = item.get("test_date")
@@ -242,7 +283,7 @@ def main():
 
     parser = Parser(data)
     res = parser.parse()
-    
+
     schedule = Schedule(res)
     schedule.md(Path.cwd() / "content" / "schedule.md")
 
