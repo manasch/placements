@@ -12,6 +12,7 @@ title: "Schedule"
 ```md
 Paypal:
 - Test Mode: Online
+- Test Time: 18:00
 ```
 
 ---
@@ -25,6 +26,7 @@ Paypal:
 ```md
 Juniper Networks:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -36,6 +38,7 @@ Juniper Networks:
 ```md
 Juniper Networks:
 - Test Mode: Offline
+- Test Time: 19:00
 ```
 
 #### Interview
@@ -43,17 +46,28 @@ Juniper Networks:
 ```md
 Zebra Tech:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
 
 ### 20-10-2023, Friday
 
+#### Register
+
+```md
+Intel:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 09:00
+```
+
 #### Test
 
 ```md
 Zebra Tech:
 - Test Mode: Offline
+- Test Time: 09:30
 ```
 
 #### Interview
@@ -61,6 +75,7 @@ Zebra Tech:
 ```md
 AstraZeneca:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -73,18 +88,21 @@ AstraZeneca:
 Nextuple:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 ```md
 CRK Gida:
 - Tier: T-2
 - Offer: FTE
+- Deadline: EOD
 ```
 
 ```md
 Zebra Tech:
 - Tier: T-2
 - Offer: Internship
+- Deadline: 08:00
 ```
 
 ---
@@ -97,6 +115,7 @@ Zebra Tech:
 BlueYonder:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 #### Test
@@ -104,11 +123,13 @@ BlueYonder:
 ```md
 AstraZeneca:
 - Test Mode: Online
+- Test Time: Not Mentioned
 ```
 
 ```md
 Samsung Research Institute:
 - Test Mode: Online
+- Test Time: 19:00
 ```
 
 #### Interview
@@ -116,11 +137,13 @@ Samsung Research Institute:
 ```md
 IDFY:
 - Process: Offline
+- Time: 09:00
 ```
 
 ```md
 Microchip:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -133,6 +156,7 @@ Microchip:
 AstraZeneca:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 #### Test
@@ -140,6 +164,7 @@ AstraZeneca:
 ```md
 Microchip:
 - Test Mode: Online
+- Test Time: 07:00
 ```
 
 #### Interview
@@ -147,6 +172,7 @@ Microchip:
 ```md
 Zynga:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -159,6 +185,7 @@ Zynga:
 IDFY:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 #### Test
@@ -166,11 +193,13 @@ IDFY:
 ```md
 IDFY:
 - Test Mode: Online
+- Test Time: 18:00
 ```
 
 ```md
 Perfios:
 - Test Mode: Offline
+- Test Time: 09:30
 ```
 
 #### Interview
@@ -178,6 +207,7 @@ Perfios:
 ```md
 Perfios:
 - Process: Offline
+- Time: 11:30
 ```
 
 ---
@@ -188,14 +218,16 @@ Perfios:
 
 ```md
 Samsung Research Institute:
-- Tier: None
+- Tier: Not Mentioned
 - Offer: Internship
+- Deadline: EOD
 ```
 
 ```md
 Microchip:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 16:30
 ```
 
 #### Test
@@ -203,6 +235,7 @@ Microchip:
 ```md
 Aurva.io:
 - Test Mode: Online
+- Test Time: 17:00
 ```
 
 ---
@@ -214,6 +247,7 @@ Aurva.io:
 ```md
 Zynga:
 - Test Mode: Online
+- Test Time: 17:30
 ```
 
 ---
@@ -226,12 +260,14 @@ Zynga:
 Aurva.io:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 10:00
 ```
 
 ```md
 Perfios:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 10:30
 ```
 
 #### Interview
@@ -239,6 +275,7 @@ Perfios:
 ```md
 Tejas Networks:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -251,12 +288,14 @@ Tejas Networks:
 Juniper Networks:
 - Tier: T-1
 - Offer: Internship, PPO
+- Deadline: EOD
 ```
 
 ```md
 Collins Aerospace:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 10:00
 ```
 
 #### Interview
@@ -264,6 +303,7 @@ Collins Aerospace:
 ```md
 Infibeam:
 - Process: Offline
+- Time: 10:00
 ```
 
 ---
@@ -275,6 +315,7 @@ Infibeam:
 ```md
 Tejas Networks:
 - Test Mode: Offline
+- Test Time: 14:00
 ```
 
 ---
@@ -285,14 +326,16 @@ Tejas Networks:
 
 ```md
 Zynga:
-- Tier: None
+- Tier: Not Mentioned
 - Offer: Internship
+- Deadline: 17:00
 ```
 
 ```md
 Apple:
 - Tier: T-1
 - Offer: Internship, PPO
+- Deadline: 13:00
 ```
 
 #### Test
@@ -300,6 +343,7 @@ Apple:
 ```md
 Confluent:
 - Test Mode: Offline
+- Test Time: Not Mentioned
 ```
 
 #### Interview
@@ -307,6 +351,7 @@ Confluent:
 ```md
 Confluent:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -318,6 +363,13 @@ Confluent:
 ```md
 Infibeam:
 - Test Mode: Online
+- Test Time: Not Mentioned
+```
+
+```md
+Hiver:
+- Test Mode: Online
+- Test Time: 19:00
 ```
 
 #### Interview
@@ -325,6 +377,7 @@ Infibeam:
 ```md
 Pratt & Whitney:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -336,11 +389,13 @@ Pratt & Whitney:
 ```md
 Samsung Semiconductors:
 - Process: Online
+- Time: Not Mentioned
 ```
 
 ```md
 Amadeus:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -351,26 +406,30 @@ Amadeus:
 
 ```md
 Samsung Semiconductors:
-- Tier: None
+- Tier: Not Mentioned
 - Offer: Not Mentioned
+- Deadline: 08:30
 ```
 
 ```md
 Infibeam:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 ```md
 Aveva:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 ```md
 Tejas Networks:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 10:00
 ```
 
 #### Test
@@ -378,16 +437,19 @@ Tejas Networks:
 ```md
 Samsung Semiconductors:
 - Test Mode: Online
+- Test Time: 16:00
 ```
 
 ```md
 Pratt & Whitney:
 - Test Mode: Online
+- Test Time: 19:00
 ```
 
 ```md
 Amadeus:
 - Test Mode: Offline
+- Test Time: 09:00
 ```
 
 #### Interview
@@ -395,6 +457,7 @@ Amadeus:
 ```md
 KPMG:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -407,6 +470,7 @@ KPMG:
 Hiver:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 #### Test
@@ -414,6 +478,7 @@ Hiver:
 ```md
 KPMG:
 - Test Mode: Offline
+- Test Time: Not Mentioned
 ```
 
 ---
@@ -426,6 +491,7 @@ KPMG:
 Pratt & Whitney:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 10:30
 ```
 
 ---
@@ -437,6 +503,7 @@ Pratt & Whitney:
 ```md
 ARM:
 - Test Mode: Online
+- Test Time: 10:00
 ```
 
 ---
@@ -451,6 +518,7 @@ ARM:
 Siemens:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 ---
@@ -462,6 +530,7 @@ Siemens:
 ```md
 Deltax:
 - Test Mode: Online
+- Test Time: Not Mentioned
 ```
 
 #### Interview
@@ -469,6 +538,7 @@ Deltax:
 ```md
 Deltax:
 - Process: Online
+- Time: Not Mentioned
 ```
 
 ---
@@ -481,6 +551,7 @@ Deltax:
 Confluent:
 - Tier: T-1
 - Offer: Internship, PPO
+- Deadline: EOD
 ```
 
 ---
@@ -493,6 +564,7 @@ Confluent:
 Deltax:
 - Tier: T-2
 - Offer: FTE
+- Deadline: 09:00
 ```
 
 #### Interview
@@ -500,11 +572,13 @@ Deltax:
 ```md
 Dover:
 - Process: Online
+- Time: 10:00
 ```
 
 ```md
 Goldman Sachs:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -517,6 +591,7 @@ Goldman Sachs:
 KPMG:
 - Tier: T-3
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 ---
@@ -529,6 +604,7 @@ KPMG:
 Paypal:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 #### Test
@@ -536,6 +612,7 @@ Paypal:
 ```md
 Dover:
 - Test Mode: Online
+- Test Time: 18:00
 ```
 
 #### Interview
@@ -543,11 +620,13 @@ Dover:
 ```md
 Broadridge:
 - Process: Offline
+- Time: 09:00
 ```
 
 ```md
 Arup India Pvt. Ltd.:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -559,6 +638,7 @@ Arup India Pvt. Ltd.:
 ```md
 SAP Labs:
 - Test Mode: Online
+- Test Time: 17:00
 ```
 
 ---
@@ -571,6 +651,7 @@ SAP Labs:
 ARM:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 #### Interview
@@ -578,6 +659,7 @@ ARM:
 ```md
 British Telecom:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -590,12 +672,14 @@ British Telecom:
 Dover:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 ```md
 SAP Labs:
 - Tier: T-1
 - Offer: FTE
+- Deadline: 09:00
 ```
 
 #### Test
@@ -603,6 +687,7 @@ SAP Labs:
 ```md
 Arup India Pvt. Ltd.:
 - Test Mode: Offline
+- Test Time: 09:00
 ```
 
 #### Interview
@@ -610,6 +695,7 @@ Arup India Pvt. Ltd.:
 ```md
 Morgan Stanley:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -621,6 +707,7 @@ Morgan Stanley:
 ```md
 Nvidia:
 - Test Mode: Online
+- Test Time: 19:30
 ```
 
 #### Interview
@@ -628,6 +715,7 @@ Nvidia:
 ```md
 Thorogood:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -639,6 +727,7 @@ Thorogood:
 ```md
 British Telecom:
 - Test Mode: Online
+- Test Time: 17:00
 ```
 
 ---
@@ -651,6 +740,7 @@ British Telecom:
 Subex:
 - Tier: T-3
 - Offer: Internship, PPO
+- Deadline: EOD
 ```
 
 #### Test
@@ -658,6 +748,7 @@ Subex:
 ```md
 Morgan Stanley:
 - Test Mode: Online
+- Test Time: 11:00
 ```
 
 ---
@@ -668,14 +759,16 @@ Morgan Stanley:
 
 ```md
 Adobe:
-- Tier: None
+- Tier: Not Mentioned
 - Offer: Internship
+- Deadline: 09:00
 ```
 
 ```md
 British Telecom:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 #### Test
@@ -683,16 +776,19 @@ British Telecom:
 ```md
 Goldman Sachs:
 - Test Mode: Online
+- Test Time: 10:00
 ```
 
 ```md
 MakeMyTrip:
 - Test Mode: Online
+- Test Time: 11:00
 ```
 
 ```md
 Thorogood:
 - Test Mode: Online
+- Test Time: 17:00
 ```
 
 ---
@@ -705,6 +801,7 @@ Thorogood:
 Goldman Sachs:
 - Tier: T-2
 - Offer: Internship, PPO
+- Deadline: 09:00
 ```
 
 #### Test
@@ -712,6 +809,7 @@ Goldman Sachs:
 ```md
 Broadridge:
 - Test Mode: Online
+- Test Time: 09:00
 ```
 
 #### Interview
@@ -719,16 +817,19 @@ Broadridge:
 ```md
 Eli Lilly:
 - Process: Offline
+- Time: 09:00
 ```
 
 ```md
 IBM:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ```md
 Lam Research:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -739,20 +840,23 @@ Lam Research:
 
 ```md
 Nvidia:
-- Tier: None
+- Tier: Not Mentioned
 - Offer: Internship
+- Deadline: 09:30
 ```
 
 ```md
 Morgan Stanley:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 ```md
 MakeMyTrip:
 - Tier: T-1
 - Offer: Internship, PPO
+- Deadline: 09:00
 ```
 
 #### Test
@@ -760,6 +864,7 @@ MakeMyTrip:
 ```md
 Eli Lilly:
 - Test Mode: Online
+- Test Time: 10:00
 ```
 
 #### Interview
@@ -767,6 +872,7 @@ Eli Lilly:
 ```md
 Bain Capability:
 - Process: Online
+- Time: 09:30
 ```
 
 ---
@@ -779,6 +885,7 @@ Bain Capability:
 Thorogood:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 #### Test
@@ -786,6 +893,7 @@ Thorogood:
 ```md
 Lam Research:
 - Test Mode: Online
+- Test Time: 18:00
 ```
 
 #### Interview
@@ -793,6 +901,7 @@ Lam Research:
 ```md
 Trueminds:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -805,12 +914,14 @@ Trueminds:
 Broadridge:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 ```md
 Eli Lilly:
 - Tier: T-2
 - Offer: FTE
+- Deadline: 09:00
 ```
 
 #### Interview
@@ -818,6 +929,7 @@ Eli Lilly:
 ```md
 Societe Generale:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -829,6 +941,7 @@ Societe Generale:
 ```md
 Deloitte:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -840,11 +953,13 @@ Deloitte:
 ```md
 IBM:
 - Test Mode: Online
+- Test Time: 10:00
 ```
 
 ```md
 Trueminds:
 - Test Mode: Online
+- Test Time: 17:00
 ```
 
 ---
@@ -856,6 +971,7 @@ Trueminds:
 ```md
 Bain Capability:
 - Test Mode: Online
+- Test Time: 12:00
 ```
 
 ---
@@ -867,6 +983,7 @@ Bain Capability:
 ```md
 Accenture:
 - Test Mode: Offline
+- Test Time: 09:00
 ```
 
 #### Interview
@@ -874,11 +991,13 @@ Accenture:
 ```md
 HPE:
 - Process: Online
+- Time: 09:00
 ```
 
 ```md
 Natwest:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -891,18 +1010,21 @@ Natwest:
 Arup India Pvt. Ltd.:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 ```md
 Tech Mahindra:
 - Tier: T-3
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 ```md
 IBM:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 ---
@@ -914,11 +1036,13 @@ IBM:
 ```md
 Societe Generale:
 - Test Mode: Online
+- Test Time: 18:00
 ```
 
 ```md
 HPE:
 - Test Mode: Online
+- Test Time: 14:00
 ```
 
 #### Interview
@@ -926,6 +1050,7 @@ HPE:
 ```md
 Schneider Electric:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -938,12 +1063,14 @@ Schneider Electric:
 Societe Generale:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 17:00
 ```
 
 ```md
 Trueminds:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 ---
@@ -955,6 +1082,7 @@ Trueminds:
 ```md
 Sprinklr:
 - Process: Offline
+- Time: 10:00
 ```
 
 ---
@@ -967,6 +1095,7 @@ Sprinklr:
 Bain Capability:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 #### Test
@@ -974,6 +1103,7 @@ Bain Capability:
 ```md
 Deloitte:
 - Test Mode: Online
+- Test Time: Not Mentioned
 ```
 
 ---
@@ -986,6 +1116,7 @@ Deloitte:
 Deloitte:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 #### Test
@@ -993,6 +1124,7 @@ Deloitte:
 ```md
 Sprinklr:
 - Test Mode: Online
+- Test Time: 11:00
 ```
 
 ---
@@ -1004,6 +1136,7 @@ Sprinklr:
 ```md
 DXC:
 - Test Mode: Online
+- Test Time: 12:00
 ```
 
 #### Interview
@@ -1011,6 +1144,7 @@ DXC:
 ```md
 Cisco:
 - Process: Online
+- Time: 08:00
 ```
 
 ---
@@ -1025,12 +1159,14 @@ Cisco:
 EY India:
 - Tier: T-2
 - Offer: Not Mentioned
+- Deadline: 10:30
 ```
 
 ```md
 DXC:
 - Tier: T-3
 - Offer: FTE
+- Deadline: 09:00
 ```
 
 #### Interview
@@ -1038,11 +1174,13 @@ DXC:
 ```md
 Applied Materials:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ```md
 Volvo:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -1055,6 +1193,7 @@ Volvo:
 Sprinklr:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 #### Test
@@ -1062,6 +1201,7 @@ Sprinklr:
 ```md
 Dish:
 - Test Mode: Offline
+- Test Time: 09:00
 ```
 
 #### Interview
@@ -1069,6 +1209,7 @@ Dish:
 ```md
 Dish:
 - Process: Offline
+- Time: 13:00
 ```
 
 ---
@@ -1081,18 +1222,21 @@ Dish:
 Applied Materials:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 11:00
 ```
 
 ```md
 Dish:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 ```md
 Amadeus:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 08:30
 ```
 
 #### Test
@@ -1100,16 +1244,19 @@ Amadeus:
 ```md
 Applied Materials:
 - Test Mode: Online
+- Test Time: 19:00
 ```
 
 ```md
 Natwest:
 - Test Mode: Offline
+- Test Time: 15:00
 ```
 
 ```md
 Cisco:
 - Test Mode: Offline
+- Test Time: 08:00
 ```
 
 #### Interview
@@ -1117,6 +1264,7 @@ Cisco:
 ```md
 Kickdrum:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -1128,6 +1276,7 @@ Kickdrum:
 ```md
 Schneider Electric:
 - Test Mode: Online
+- Test Time: 16:00
 ```
 
 #### Interview
@@ -1135,6 +1284,7 @@ Schneider Electric:
 ```md
 Epsilon:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -1146,6 +1296,7 @@ Epsilon:
 ```md
 CynLr:
 - Test Mode: Online
+- Test Time: 10:00
 ```
 
 ---
@@ -1158,6 +1309,7 @@ CynLr:
 HPE:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 #### Test
@@ -1165,6 +1317,7 @@ HPE:
 ```md
 Volvo:
 - Test Mode: Offline
+- Test Time: Not Mentioned
 ```
 
 ---
@@ -1177,12 +1330,14 @@ Volvo:
 Schneider Electric:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 08:30
 ```
 
 ```md
 Volvo:
 - Tier: T-3
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 #### Test
@@ -1190,16 +1345,19 @@ Volvo:
 ```md
 AMETEK:
 - Test Mode: Offline
+- Test Time: Not Mentioned
 ```
 
 ```md
 Kickdrum:
 - Test Mode: Online
+- Test Time: Not Mentioned
 ```
 
 ```md
 Baxter:
 - Test Mode: Offline
+- Test Time: Not Mentioned
 ```
 
 #### Interview
@@ -1207,11 +1365,13 @@ Baxter:
 ```md
 AMETEK:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ```md
 Baxter:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -1222,8 +1382,9 @@ Baxter:
 
 ```md
 AMETEK:
-- Tier: None
+- Tier: Not Mentioned
 - Offer: Internship
+- Deadline: EOD
 ```
 
 #### Test
@@ -1231,11 +1392,13 @@ AMETEK:
 ```md
 Epsilon:
 - Test Mode: Offline
+- Test Time: 15:00
 ```
 
 ```md
 Sahaj:
 - Test Mode: Offline
+- Test Time: Not Mentioned
 ```
 
 #### Interview
@@ -1243,11 +1406,13 @@ Sahaj:
 ```md
 Sahaj:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ```md
 Hyperface Tech:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -1260,12 +1425,14 @@ Hyperface Tech:
 Natwest:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 ```md
 CynLr:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 #### Test
@@ -1273,6 +1440,7 @@ CynLr:
 ```md
 Newfold Digital:
 - Test Mode: Online
+- Test Time: 08:00
 ```
 
 #### Interview
@@ -1280,6 +1448,7 @@ Newfold Digital:
 ```md
 Cloudera:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -1292,12 +1461,14 @@ Cloudera:
 Cisco:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 17:00
 ```
 
 ```md
 Epsilon:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 #### Test
@@ -1305,6 +1476,7 @@ Epsilon:
 ```md
 Sandvine:
 - Test Mode: Offline
+- Test Time: 08:30
 ```
 
 #### Interview
@@ -1312,6 +1484,7 @@ Sandvine:
 ```md
 Sandvine:
 - Process: Offline
+- Time: 14:00
 ```
 
 ---
@@ -1324,6 +1497,7 @@ Sandvine:
 Kickdrum:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 #### Test
@@ -1331,6 +1505,7 @@ Kickdrum:
 ```md
 Cloudera:
 - Test Mode: Online
+- Test Time: 17:00
 ```
 
 #### Interview
@@ -1338,6 +1513,7 @@ Cloudera:
 ```md
 Egnyte:
 - Process: Offline
+- Time: Not Mentioned
 ```
 
 ---
@@ -1349,6 +1525,7 @@ Egnyte:
 ```md
 Egnyte:
 - Test Mode: Online
+- Test Time: Not Mentioned
 ```
 
 ---
@@ -1361,12 +1538,14 @@ Egnyte:
 Baxter:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 12:00
 ```
 
 ```md
 Sahaj:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 12:00
 ```
 
 #### Test
@@ -1374,6 +1553,7 @@ Sahaj:
 ```md
 Hyperface Tech:
 - Test Mode: Offline
+- Test Time: 09:00
 ```
 
 ---
@@ -1385,6 +1565,7 @@ Hyperface Tech:
 ```md
 Arista:
 - Test Mode: Offline
+- Test Time: 09:00
 ```
 
 #### Interview
@@ -1392,6 +1573,7 @@ Arista:
 ```md
 Arista:
 - Process: Offline
+- Time: 11:00
 ```
 
 ---
@@ -1403,6 +1585,7 @@ Arista:
 ```md
 Deutsche:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -1415,6 +1598,7 @@ Deutsche:
 Cloudera:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 ---
@@ -1427,6 +1611,7 @@ Cloudera:
 Egnyte:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 ---
@@ -1439,12 +1624,14 @@ Egnyte:
 Oracle:
 - Tier: T-1
 - Offer: FTE
+- Deadline: 13:00
 ```
 
 ```md
 Arista:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 #### Test
@@ -1452,6 +1639,7 @@ Arista:
 ```md
 Deutsche:
 - Test Mode: Online
+- Test Time: Not Mentioned
 ```
 
 #### Interview
@@ -1459,6 +1647,7 @@ Deutsche:
 ```md
 Tesco:
 - Process: Offline
+- Time: 09:15
 ```
 
 ---
@@ -1471,6 +1660,7 @@ Tesco:
 Tesco:
 - Tier: T-1
 - Offer: FTE
+- Deadline: 09:00
 ```
 
 #### Test
@@ -1478,6 +1668,7 @@ Tesco:
 ```md
 Tesco:
 - Test Mode: Online
+- Test Time: 21:00
 ```
 
 #### Interview
@@ -1485,6 +1676,7 @@ Tesco:
 ```md
 Swym:
 - Process: Offline
+- Time: 10:00
 ```
 
 ---
@@ -1497,12 +1689,14 @@ Swym:
 Newfold Digital:
 - Tier: T-2
 - Offer: FTE, Internship
+- Deadline: 14:00
 ```
 
 ```md
 Hyperface Tech:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 #### Test
@@ -1510,11 +1704,13 @@ Hyperface Tech:
 ```md
 Swym:
 - Test Mode: Online
+- Test Time: Not Mentioned
 ```
 
 ```md
 Couchbase:
 - Test Mode: Not Mentioned
+- Test Time: Not Mentioned
 ```
 
 #### Interview
@@ -1522,6 +1718,7 @@ Couchbase:
 ```md
 Couchbase:
 - Process: Offline
+- Time: 08:00
 ```
 
 ---
@@ -1534,6 +1731,7 @@ Couchbase:
 Sandvine:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 #### Test
@@ -1541,6 +1739,7 @@ Sandvine:
 ```md
 PWC:
 - Test Mode: Offline
+- Test Time: Not Mentioned
 ```
 
 #### Interview
@@ -1548,6 +1747,7 @@ PWC:
 ```md
 Ring Central:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -1559,6 +1759,7 @@ Ring Central:
 ```md
 Pure Storage:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -1570,6 +1771,7 @@ Pure Storage:
 ```md
 Ring Central:
 - Test Mode: Online
+- Test Time: 12:00
 ```
 
 ---
@@ -1582,18 +1784,21 @@ Ring Central:
 Deutsche:
 - Tier: T-1
 - Offer: FTE
+- Deadline: 09:00
 ```
 
 ```md
 Swym:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 ```md
 Lam Research:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 ---
@@ -1606,6 +1811,7 @@ Lam Research:
 Couchbase:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 20:00
 ```
 
 #### Interview
@@ -1613,6 +1819,7 @@ Couchbase:
 ```md
 Commvault:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -1625,6 +1832,7 @@ Commvault:
 Ring Central:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 20:00
 ```
 
 #### Test
@@ -1632,6 +1840,7 @@ Ring Central:
 ```md
 Pure Storage:
 - Test Mode: Online
+- Test Time: 19:00
 ```
 
 #### Interview
@@ -1639,6 +1848,7 @@ Pure Storage:
 ```md
 Urban Company:
 - Process: Offline
+- Time: 09:30
 ```
 
 ---
@@ -1651,6 +1861,7 @@ Urban Company:
 Pure Storage:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 #### Test
@@ -1658,6 +1869,7 @@ Pure Storage:
 ```md
 Commvault:
 - Test Mode: Offline
+- Test Time: 11:30
 ```
 
 ---
@@ -1671,6 +1883,7 @@ Commvault:
 ```md
 Urban Company:
 - Test Mode: Online
+- Test Time: 19:00
 ```
 
 #### Interview
@@ -1678,6 +1891,7 @@ Urban Company:
 ```md
 Intuit:
 - Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -1690,6 +1904,7 @@ Intuit:
 Urban Company:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 09:00
 ```
 
 ---
@@ -1701,6 +1916,7 @@ Urban Company:
 ```md
 Intuit:
 - Test Mode: Online
+- Test Time: 18:00
 ```
 
 ---
@@ -1713,12 +1929,14 @@ Intuit:
 Commvault:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 10:30
 ```
 
 ```md
 Intuit:
 - Tier: T-1
 - Offer: FTE, Internship
+- Deadline: 01:30
 ```
 
 ---
@@ -1731,6 +1949,7 @@ Intuit:
 Accenture:
 - Tier: T-3
 - Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 ---
