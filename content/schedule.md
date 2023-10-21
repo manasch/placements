@@ -63,6 +63,19 @@ Zebra Tech:
 
 ---
 
+### 22-10-2023, Sunday
+
+#### Register
+
+```md
+C-DOT:
+- Tier: T-1
+- Offer: FTE
+- Deadline: EOD
+```
+
+---
+
 ### 20-10-2023, Friday
 
 #### Register
