@@ -31,6 +31,18 @@ Juniper Networks:
 
 ---
 
+### 27-10-2023, Friday
+
+#### Interview
+
+```md
+EY India:
+- Process: Offline
+- Time: 08:30
+```
+
+---
+
 ### 26-10-2023, Thursday
 
 #### Test
