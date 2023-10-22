@@ -49,7 +49,7 @@ EY India:
 
 ```md
 Juniper Networks:
-- Test Mode: Offline
+- Test Mode: Online
 - Test Time: 19:00
 ```
 
