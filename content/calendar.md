@@ -49,7 +49,7 @@ title: "Calendar"
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | --- | --- | --- | --- | --- | --- | --- |
-|  - | - | [1]({{< relref "schedule.md#01-11-2023-wednesday" >}}) | 2 | 3 | 4 | 5 |
+|  - | - | [1]({{< relref "schedule.md#01-11-2023-wednesday" >}}) | 2 | [3]({{< relref "schedule.md#03-11-2023-friday" >}}) | 4 | 5 |
 |  6 | 7 | 8 | 9 | 10 | 11 | 12 |
 |  13 | 14 | 15 | 16 | 17 | 18 | 19 |
 |  20 | 21 | 22 | 23 | 24 | 25 | 26 |
