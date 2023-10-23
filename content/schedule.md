@@ -31,9 +31,27 @@ Juniper Networks:
 
 ---
 
+### 30-10-2023, Monday
+
+#### Interview
+
+```md
+Zebra Tech:
+- Process: Offline
+- Time: 09:00
+```
+
+---
+
 ### 27-10-2023, Friday
 
 #### Interview
+
+```md
+IBM Consulting:
+- Process: Offline
+- Time: Not Mentioned
+```
 
 ```md
 EY India:
@@ -48,17 +66,28 @@ EY India:
 #### Test
 
 ```md
+IBM Consulting:
+- Test Mode: Offline
+- Test Time: Not Mentioned
+```
+
+```md
 Juniper Networks:
 - Test Mode: Online
 - Test Time: 19:00
 ```
 
-#### Interview
+---
+
+### 24-10-2023, Tuesday
+
+#### Register
 
 ```md
-Zebra Tech:
-- Process: Offline
-- Time: Not Mentioned
+AT&T:
+- Tier: T-1
+- Offer: Internship, PPO
+- Deadline: 10:00
 ```
 
 ---
@@ -408,6 +437,15 @@ Pratt & Whitney:
 ---
 
 ### 06-10-2023, Friday
+
+#### Register
+
+```md
+IBM Consulting:
+- Tier: T-3
+- Offer: FTE, Internship
+- Deadline: 11:00
+```
 
 #### Interview
 
