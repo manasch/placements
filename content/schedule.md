@@ -5,6 +5,18 @@ title: "Schedule"
 
 ## November, 2023
 
+### 03-11-2023, Friday
+
+#### Interview
+
+```md
+Mercedes-Benz R&D:
+- Process: Offline
+- Time: Not Mentioned
+```
+
+---
+
 ### 01-11-2023, Wednesday
 
 #### Test
@@ -45,6 +57,14 @@ Zebra Tech:
 
 ### 27-10-2023, Friday
 
+#### Test
+
+```md
+Mercedes-Benz R&D:
+- Test Mode: Online
+- Test Time: Not Mentioned
+```
+
 #### Interview
 
 ```md
@@ -82,6 +102,13 @@ Juniper Networks:
 ### 24-10-2023, Tuesday
 
 #### Register
+
+```md
+Mercedes-Benz R&D:
+- Tier: T-2
+- Offer: FTE, Internship
+- Deadline: 10:30
+```
 
 ```md
 AT&T:
