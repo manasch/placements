@@ -70,7 +70,7 @@ Mercedes-Benz R&D:
 ```md
 IBM Consulting:
 - Process: Offline
-- Time: Not Mentioned
+- Time: 09:00
 ```
 
 ```md
@@ -83,12 +83,35 @@ EY India:
 
 ### 26-10-2023, Thursday
 
+#### Register
+
+```md
+Endor Labs:
+- Tier: Not Mentioned
+- Offer: Internship, PPO
+- Deadline: 09:00
+```
+
+```md
+Berkadia:
+- Tier: T-2
+- Offer: FTE
+- Deadline: 09:00
+```
+
+```md
+Havells India:
+- Tier: T-2
+- Offer: FTE, Internship
+- Deadline: 10:00
+```
+
 #### Test
 
 ```md
 IBM Consulting:
 - Test Mode: Offline
-- Test Time: Not Mentioned
+- Test Time: 11:30
 ```
 
 ```md
@@ -126,7 +149,7 @@ AT&T:
 ```md
 C-DOT:
 - Tier: T-1
-- Offer: FTE
+- Offer: FTE, Internship
 - Deadline: EOD
 ```
 
@@ -157,6 +180,12 @@ Zebra Tech:
 AstraZeneca:
 - Process: Offline
 - Time: 09:00
+```
+
+```md
+Subex:
+- Process: Offline
+- Time: 09:30
 ```
 
 ---
@@ -437,6 +466,18 @@ Confluent:
 
 ---
 
+### 08-10-2023, Sunday
+
+#### Test
+
+```md
+EY India:
+- Test Mode: Online
+- Test Time: 19:00
+```
+
+---
+
 ### 07-10-2023, Saturday
 
 #### Test
@@ -472,6 +513,14 @@ IBM Consulting:
 - Tier: T-3
 - Offer: FTE, Internship
 - Deadline: 11:00
+```
+
+#### Test
+
+```md
+Subex:
+- Test Mode: Online
+- Test Time: 20:00
 ```
 
 #### Interview
@@ -757,6 +806,13 @@ British Telecom:
 ### 21-09-2023, Thursday
 
 #### Register
+
+```md
+SecPod:
+- Tier: T-3
+- Offer: Internship, PPO
+- Deadline: 09:00
+```
 
 ```md
 Dover:
