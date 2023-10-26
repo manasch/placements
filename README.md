@@ -22,6 +22,7 @@
 - [IBM](./placements/ibm.md)
 - [Infibeam](./placements/infibeam.md)
 - [Intuit](./placements/intuit.md)
+- [Juniper Networks](./placements/juniper_networks.md)
 - [MakeMyTrip](./placements/makemytrip.md)
 - [Morgan Stanley](./placements/morgan_stanley.md)
 - [NatWest](./placements/natwest.md)
