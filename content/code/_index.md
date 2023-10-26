@@ -25,6 +25,7 @@ date: 2023-09-29T17:58:06+05:30
 - [IBM](./ibm)
 - [Infibeam](./infibeam)
 - [Intuit](./intuit)
+- [Juniper Networks](./juniper_networks)
 - [MakeMyTrip](./makemytrip)
 - [Morgan Stanley](./morgan_stanley)
 - [NatWest](./natwest)
