@@ -36,6 +36,12 @@ Paypal:
 #### Interview
 
 ```md
+BlueYonder:
+- Process: Offline
+- Time: 09:00
+```
+
+```md
 Juniper Networks:
 - Process: Offline
 - Time: 09:00
@@ -44,6 +50,14 @@ Juniper Networks:
 ---
 
 ### 30-10-2023, Monday
+
+#### Test
+
+```md
+BlueYonder:
+- Test Mode: Online
+- Test Time: 13:00
+```
 
 #### Interview
 
@@ -56,6 +70,15 @@ Zebra Tech:
 ---
 
 ### 27-10-2023, Friday
+
+#### Register
+
+```md
+BlueYonder:
+- Tier: T-1
+- Offer: FTE, Internship
+- Deadline: 09:00
+```
 
 #### Test
 
@@ -218,15 +241,6 @@ Zebra Tech:
 ---
 
 ### 18-10-2023, Wednesday
-
-#### Register
-
-```md
-BlueYonder:
-- Tier: T-1
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
 
 #### Test
 
