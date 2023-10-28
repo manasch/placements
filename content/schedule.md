@@ -47,6 +47,12 @@ Juniper Networks:
 - Time: 09:00
 ```
 
+```md
+Nvidia:
+- Process: Offline
+- Time: 09:00
+```
+
 ---
 
 ### 30-10-2023, Monday
