@@ -75,6 +75,19 @@ Zebra Tech:
 
 ---
 
+### 29-10-2023, Sunday
+
+#### Register
+
+```md
+Conde Nast:
+- Tier: T-2
+- Offer: FTE, Internship
+- Deadline: EOD
+```
+
+---
+
 ### 27-10-2023, Friday
 
 #### Register
