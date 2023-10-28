@@ -61,8 +61,8 @@ Nvidia:
 
 ```md
 BlueYonder:
-- Test Mode: Online
-- Test Time: 13:00
+- Test Mode: Offline
+- Test Time: 10:30
 ```
 
 #### Interview
