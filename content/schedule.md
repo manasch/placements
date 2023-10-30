@@ -5,6 +5,30 @@ title: "Schedule"
 
 ## November, 2023
 
+### 08-11-2023, Wednesday
+
+#### Interview
+
+```md
+Microchip (Again):
+- Process: Offline
+- Time: Not Mentioned
+```
+
+---
+
+### 07-11-2023, Tuesday
+
+#### Test
+
+```md
+Microchip (Again):
+- Test Mode: Online
+- Test Time: 07:30
+```
+
+---
+
 ### 03-11-2023, Friday
 
 #### Interview
@@ -34,6 +58,13 @@ Paypal:
 ### 31-10-2023, Tuesday
 
 #### Register
+
+```md
+Microchip (Again):
+- Tier: T-1
+- Offer: FTE, Internship
+- Deadline: EOD
+```
 
 ```md
 Cyware Labs:
