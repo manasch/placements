@@ -8,6 +8,7 @@
 - [Arista](./placements/arista.md)
 - [Arm Technologies](./placements/arm.md)
 - [Aurva](./placements/aurva.md)
+- [Blue Yonder](./placements/blue_yonder.md)
 - [British Telecom](./placements/british_telecom.md)
 - [Cisco](./placements/cisco.md)
 - [Cloudera](./placements/cloudera.md)
