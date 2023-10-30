@@ -11,6 +11,7 @@ date: 2023-09-29T17:58:06+05:30
 - [Arista](./arista)
 - [Arm Technologies](./arm)
 - [Aurva](./aurva)
+- [Blue Yonder](./blue_yonder)
 - [British Telecom](./british_telecom)
 - [Cisco](./cisco)
 - [Cloudera](./cloudera)
