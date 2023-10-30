@@ -52,7 +52,7 @@ BlueYonder:
 
 ```md
 Juniper Networks:
-- Process: Offline
+- Process: Online
 - Time: 09:00
 ```
 
