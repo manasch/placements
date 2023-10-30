@@ -33,6 +33,15 @@ Paypal:
 
 ### 31-10-2023, Tuesday
 
+#### Register
+
+```md
+Cyware Labs:
+- Tier: T-2
+- Offer: Internship, PPO
+- Deadline: EOD
+```
+
 #### Interview
 
 ```md
@@ -61,8 +70,8 @@ Nvidia:
 
 ```md
 BlueYonder:
-- Test Mode: Offline
-- Test Time: 10:30
+- Test Mode: Online
+- Test Time: 13:30
 ```
 
 #### Interview
