@@ -27,9 +27,67 @@ Microchip (Again):
 - Test Time: 07:30
 ```
 
+#### Interview
+
+```md
+Deloitte India:
+- Process: Online
+- Time: 10:15
+```
+
+```md
+Aurigo:
+- Process: Offline
+- Time: Not Mentioned
+```
+
+```md
+Endor Labs:
+- Process: Offline
+- Time: Not Mentioned
+```
+
+---
+
+### 06-11-2023, Monday
+
+#### Interview
+
+```md
+Garrett Motion:
+- Process: Offline
+- Time: 09:00
+```
+
+---
+
+### 04-11-2023, Saturday
+
+#### Test
+
+```md
+Aurigo:
+- Test Mode: Online
+- Test Time: 10:00
+```
+
+```md
+Endor Labs:
+- Test Mode: Online
+- Test Time: Not Mentioned
+```
+
 ---
 
 ### 03-11-2023, Friday
+
+#### Test
+
+```md
+Garrett Motion:
+- Test Mode: Online
+- Test Time: 12:00
+```
 
 #### Interview
 
@@ -41,7 +99,42 @@ Mercedes-Benz R&D:
 
 ---
 
+### 02-11-2023, Thursday
+
+#### Test
+
+```md
+Deloitte India:
+- Test Mode: Online
+- Test Time: 16:00
+```
+
+---
+
 ### 01-11-2023, Wednesday
+
+#### Register
+
+```md
+Deloitte India:
+- Tier: T-2
+- Offer: FTE, Internship
+- Deadline: 09:00
+```
+
+```md
+Aurigo:
+- Tier: T-2
+- Offer: FTE, Internship
+- Deadline: 09:00
+```
+
+```md
+Garrett Motion:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 10:00
+```
 
 #### Test
 
