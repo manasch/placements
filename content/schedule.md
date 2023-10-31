@@ -30,7 +30,7 @@ Microchip (Again):
 #### Interview
 
 ```md
-Deloitte India:
+Deloitte India Consulting:
 - Process: Online
 - Time: 10:15
 ```
@@ -104,9 +104,17 @@ Mercedes-Benz R&D:
 #### Test
 
 ```md
-Deloitte India:
+Deloitte India Consulting:
 - Test Mode: Online
 - Test Time: 16:00
+```
+
+#### Interview
+
+```md
+Intel:
+- Process: Offline
+- Time: 09:00
 ```
 
 ---
@@ -116,9 +124,16 @@ Deloitte India:
 #### Register
 
 ```md
-Deloitte India:
+Inflobox:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: EOD
+```
+
+```md
+Deloitte India Consulting:
 - Tier: T-2
-- Offer: FTE, Internship
+- Offer: Internship, PPO
 - Deadline: 09:00
 ```
 
