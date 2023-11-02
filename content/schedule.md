@@ -44,7 +44,7 @@ Aurigo:
 ```md
 Endor Labs:
 - Process: Offline
-- Time: Not Mentioned
+- Time: 09:00
 ```
 
 ---
@@ -74,7 +74,7 @@ Aurigo:
 ```md
 Endor Labs:
 - Test Mode: Online
-- Test Time: Not Mentioned
+- Test Time: 11:00
 ```
 
 ---
