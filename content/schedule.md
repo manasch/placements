@@ -66,6 +66,13 @@ Garrett Motion:
 #### Register
 
 ```md
+Keysighters:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 09:00
+```
+
+```md
 Celstream:
 - Tier: T-2
 - Offer: FTE, Internship
