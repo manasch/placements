@@ -7,7 +7,21 @@ title: "Schedule"
 
 ### 08-11-2023, Wednesday
 
+#### Test
+
+```md
+Shadowfax:
+- Test Mode: Offline
+- Test Time: Not Mentioned
+```
+
 #### Interview
+
+```md
+Shadowfax:
+- Process: Offline
+- Time: Not Mentioned
+```
 
 ```md
 Microchip (Again):
@@ -57,6 +71,19 @@ Endor Labs:
 Garrett Motion:
 - Process: Offline
 - Time: 09:00
+```
+
+---
+
+### 05-11-2023, Sunday
+
+#### Register
+
+```md
+Shadowfax:
+- Tier: T-2
+- Offer: FTE, Internship
+- Deadline: EOD
 ```
 
 ---
