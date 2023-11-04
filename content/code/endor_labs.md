@@ -44,6 +44,8 @@ Internship Only (With possible conversion based on performance)
     20 99 200
     12 12 200
 
+    Threshold: 2
+
     | ID | Transactions |
     |----|--------------|
     | 88 | 1            |
