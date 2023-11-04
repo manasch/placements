@@ -57,6 +57,7 @@ date: 2023-09-29T17:58:06+05:30
 
 ## Internship Only
 
+- [Endor Labs](./endor_labs)
 - [Intel](./intel)
 - [Nvidia](./nvidia)
 - [Samsung Research Institue](./samsung_rnd)
