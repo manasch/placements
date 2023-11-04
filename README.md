@@ -54,6 +54,7 @@
 
 ## Internship Only
 
+- [Endor Labs](./placements/endor_labs.md)
 - [Intel](./placements/intel.md)
 - [Nvidia](./placements/nvidia.md)
 - [Samsung Research Institue](./placements/samsung_rnd.md)
