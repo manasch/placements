@@ -48,7 +48,7 @@ Gyansys:
 ```md
 Shadowfax:
 - Test Mode: Offline
-- Test Time: Not Mentioned
+- Test Time: 10:00
 ```
 
 #### Interview
@@ -62,7 +62,7 @@ Gyansys:
 ```md
 Shadowfax:
 - Process: Offline
-- Time: Not Mentioned
+- Time: 12:00
 ```
 
 ```md
