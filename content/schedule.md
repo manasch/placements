@@ -10,6 +10,27 @@ title: "Schedule"
 #### Register
 
 ```md
+D.E. Shaw:
+- Tier: T-1
+- Offer: FTE, Internship
+- Deadline: 14:00
+```
+
+```md
+BNP Paribas:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 09:00
+```
+
+```md
+Walmart:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 10:00
+```
+
+```md
 Gyansys:
 - Tier: T-3
 - Offer: FTE, Internship
@@ -54,7 +75,22 @@ Microchip (Again):
 
 ### 07-11-2023, Tuesday
 
+#### Register
+
+```md
+MIQ Digital:
+- Tier: T-1
+- Offer: Internship, PPO
+- Deadline: 19:30
+```
+
 #### Test
+
+```md
+Keysight:
+- Test Mode: Online
+- Test Time: 17:00
+```
 
 ```md
 Microchip (Again):
@@ -116,7 +152,7 @@ Shadowfax:
 ```md
 Keysight:
 - Tier: Not Mentioned
-- Offer: Internship
+- Offer: Internship, PPO
 - Deadline: 09:00
 ```
 
@@ -2135,18 +2171,6 @@ Ring Central:
 
 ---
 
-### 07-08-2023, Monday
-
-#### Interview
-
-```md
-Pure Storage:
-- Process: Offline
-- Time: 09:00
-```
-
----
-
 ### 06-08-2023, Sunday
 
 #### Test
@@ -2197,14 +2221,6 @@ Couchbase:
 - Deadline: 20:00
 ```
 
-#### Interview
-
-```md
-Commvault:
-- Process: Offline
-- Time: 09:00
-```
-
 ---
 
 ### 02-08-2023, Wednesday
@@ -2216,110 +2232,6 @@ Ring Central:
 - Tier: T-1
 - Offer: FTE, Internship
 - Deadline: 20:00
-```
-
-#### Test
-
-```md
-Pure Storage:
-- Test Mode: Online
-- Test Time: 19:00
-```
-
-#### Interview
-
-```md
-Urban Company:
-- Process: Offline
-- Time: 09:30
-```
-
----
-
-### 01-08-2023, Tuesday
-
-#### Register
-
-```md
-Pure Storage:
-- Tier: T-1
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-
-#### Test
-
-```md
-Commvault:
-- Test Mode: Offline
-- Test Time: 11:30
-```
-
----
-
-## July, 2023
-
-### 31-07-2023, Monday
-
-#### Test
-
-```md
-Urban Company:
-- Test Mode: Online
-- Test Time: 19:00
-```
-
-#### Interview
-
-```md
-Intuit:
-- Process: Offline
-- Time: 09:00
-```
-
----
-
-### 29-07-2023, Saturday
-
-#### Register
-
-```md
-Urban Company:
-- Tier: T-1
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-
----
-
-### 27-07-2023, Thursday
-
-#### Test
-
-```md
-Intuit:
-- Test Mode: Online
-- Test Time: 18:00
-```
-
----
-
-### 25-07-2023, Tuesday
-
-#### Register
-
-```md
-Commvault:
-- Tier: T-1
-- Offer: FTE, Internship
-- Deadline: 10:30
-```
-
-```md
-Intuit:
-- Tier: T-1
-- Offer: FTE, Internship
-- Deadline: 01:30
 ```
 
 ---
