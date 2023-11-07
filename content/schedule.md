@@ -7,7 +7,22 @@ title: "Schedule"
 
 ### 08-11-2023, Wednesday
 
+#### Register
+
+```md
+Gyansys:
+- Tier: T-3
+- Offer: FTE, Internship
+- Deadline: 10:30
+```
+
 #### Test
+
+```md
+Gyansys:
+- Test Mode: Offline
+- Test Time: 11:30
+```
 
 ```md
 Shadowfax:
@@ -16,6 +31,12 @@ Shadowfax:
 ```
 
 #### Interview
+
+```md
+Gyansys:
+- Process: Offline
+- Time: 15:00
+```
 
 ```md
 Shadowfax:
@@ -93,7 +114,7 @@ Shadowfax:
 #### Register
 
 ```md
-Keysighters:
+Keysight:
 - Tier: Not Mentioned
 - Offer: Internship
 - Deadline: 09:00
@@ -1348,14 +1369,6 @@ Bain Capability:
 
 ### 08-09-2023, Friday
 
-#### Test
-
-```md
-Accenture:
-- Test Mode: Offline
-- Test Time: 09:00
-```
-
 #### Interview
 
 ```md
@@ -2307,19 +2320,6 @@ Intuit:
 - Tier: T-1
 - Offer: FTE, Internship
 - Deadline: 01:30
-```
-
----
-
-### 13-07-2023, Thursday
-
-#### Register
-
-```md
-Accenture:
-- Tier: T-3
-- Offer: FTE, Internship
-- Deadline: EOD
 ```
 
 ---
