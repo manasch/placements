@@ -3,23 +3,12 @@ title: "Calendar"
 # date: 2023-10-01T15:42:48+05:30
 ---
 
-### [July, 2023]({{< relref "schedule.md#july-2023" >}})
-
-| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-| --- | --- | --- | --- | --- | --- | --- |
-|  - | - | - | - | - | 1 | 2 |
-|  3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|  10 | 11 | 12 | 13 | 14 | 15 | 16 |
-|  17 | 18 | 19 | 20 | 21 | 22 | 23 |
-|  24 | [25]({{< relref "schedule.md#25-07-2023-tuesday" >}}) | 26 | [27]({{< relref "schedule.md#27-07-2023-thursday" >}}) | 28 | [29]({{< relref "schedule.md#29-07-2023-saturday" >}}) | 30 |
-|  [31]({{< relref "schedule.md#31-07-2023-monday" >}}) | - | - | - | - | - | - |
-
 ### [August, 2023]({{< relref "schedule.md#august-2023" >}})
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 | --- | --- | --- | --- | --- | --- | --- |
-|  - | [1]({{< relref "schedule.md#01-08-2023-tuesday" >}}) | [2]({{< relref "schedule.md#02-08-2023-wednesday" >}}) | 3 | [4]({{< relref "schedule.md#04-08-2023-friday" >}}) | [5]({{< relref "schedule.md#05-08-2023-saturday" >}}) | [6]({{< relref "schedule.md#06-08-2023-sunday" >}}) |
-|  [7]({{< relref "schedule.md#07-08-2023-monday" >}}) | [8]({{< relref "schedule.md#08-08-2023-tuesday" >}}) | [9]({{< relref "schedule.md#09-08-2023-wednesday" >}}) | [10]({{< relref "schedule.md#10-08-2023-thursday" >}}) | [11]({{< relref "schedule.md#11-08-2023-friday" >}}) | 12 | [13]({{< relref "schedule.md#13-08-2023-sunday" >}}) |
+|  - | 1 | [2]({{< relref "schedule.md#02-08-2023-wednesday" >}}) | 3 | [4]({{< relref "schedule.md#04-08-2023-friday" >}}) | [5]({{< relref "schedule.md#05-08-2023-saturday" >}}) | [6]({{< relref "schedule.md#06-08-2023-sunday" >}}) |
+|  7 | [8]({{< relref "schedule.md#08-08-2023-tuesday" >}}) | [9]({{< relref "schedule.md#09-08-2023-wednesday" >}}) | [10]({{< relref "schedule.md#10-08-2023-thursday" >}}) | [11]({{< relref "schedule.md#11-08-2023-friday" >}}) | 12 | [13]({{< relref "schedule.md#13-08-2023-sunday" >}}) |
 |  14 | [15]({{< relref "schedule.md#15-08-2023-tuesday" >}}) | [16]({{< relref "schedule.md#16-08-2023-wednesday" >}}) | [17]({{< relref "schedule.md#17-08-2023-thursday" >}}) | [18]({{< relref "schedule.md#18-08-2023-friday" >}}) | [19]({{< relref "schedule.md#19-08-2023-saturday" >}}) | 20 |
 |  [21]({{< relref "schedule.md#21-08-2023-monday" >}}) | [22]({{< relref "schedule.md#22-08-2023-tuesday" >}}) | [23]({{< relref "schedule.md#23-08-2023-wednesday" >}}) | [24]({{< relref "schedule.md#24-08-2023-thursday" >}}) | [25]({{< relref "schedule.md#25-08-2023-friday" >}}) | [26]({{< relref "schedule.md#26-08-2023-saturday" >}}) | [27]({{< relref "schedule.md#27-08-2023-sunday" >}}) |
 |  [28]({{< relref "schedule.md#28-08-2023-monday" >}}) | [29]({{< relref "schedule.md#29-08-2023-tuesday" >}}) | [30]({{< relref "schedule.md#30-08-2023-wednesday" >}}) | [31]({{< relref "schedule.md#31-08-2023-thursday" >}}) | - | - | - |
