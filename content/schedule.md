@@ -5,6 +5,18 @@ title: "Schedule"
 
 ## November, 2023
 
+### 11-11-2023, Saturday
+
+#### Test
+
+```md
+MIQ Digital:
+- Test Mode: Online
+- Test Time: Not Mentioned
+```
+
+---
+
 ### 08-11-2023, Wednesday
 
 #### Register
