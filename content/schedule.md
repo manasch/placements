@@ -17,6 +17,26 @@ MIQ Digital:
 
 ---
 
+### 09-11-2023, Thursday
+
+#### Register
+
+```md
+GSK GCC:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 09:30
+```
+
+```md
+Drongo AI:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: EOD
+```
+
+---
+
 ### 08-11-2023, Wednesday
 
 #### Register
@@ -2138,20 +2158,6 @@ Swym:
 - Test Time: Not Mentioned
 ```
 
-```md
-Couchbase:
-- Test Mode: Not Mentioned
-- Test Time: Not Mentioned
-```
-
-#### Interview
-
-```md
-Couchbase:
-- Process: Offline
-- Time: 08:00
-```
-
 ---
 
 ### 08-08-2023, Tuesday
@@ -2171,26 +2177,6 @@ Sandvine:
 PWC:
 - Test Mode: Offline
 - Test Time: Not Mentioned
-```
-
-#### Interview
-
-```md
-Ring Central:
-- Process: Offline
-- Time: 09:00
-```
-
----
-
-### 06-08-2023, Sunday
-
-#### Test
-
-```md
-Ring Central:
-- Test Mode: Online
-- Test Time: 12:00
 ```
 
 ---
@@ -2218,32 +2204,6 @@ Lam Research:
 - Tier: T-1
 - Offer: FTE, Internship
 - Deadline: EOD
-```
-
----
-
-### 04-08-2023, Friday
-
-#### Register
-
-```md
-Couchbase:
-- Tier: T-1
-- Offer: FTE, Internship
-- Deadline: 20:00
-```
-
----
-
-### 02-08-2023, Wednesday
-
-#### Register
-
-```md
-Ring Central:
-- Tier: T-1
-- Offer: FTE, Internship
-- Deadline: 20:00
 ```
 
 ---
