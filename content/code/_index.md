@@ -59,6 +59,7 @@ date: 2023-09-29T17:58:06+05:30
 
 - [Endor Labs](./endor_labs)
 - [Intel](./intel)
+- [Keysight](./keysight)
 - [Nvidia](./nvidia)
 - [Samsung Research Institue](./samsung_rnd)
 - [Samsung Semiconductors](./samsung_semiconductor)
