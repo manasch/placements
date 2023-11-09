@@ -17,6 +17,19 @@ MIQ Digital:
 
 ---
 
+### 10-11-2023, Friday
+
+#### Register
+
+```md
+Alcon India:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 09:30
+```
+
+---
+
 ### 09-11-2023, Thursday
 
 #### Register
@@ -1285,12 +1298,6 @@ IBM:
 - Time: Not Mentioned
 ```
 
-```md
-Lam Research:
-- Process: Offline
-- Time: Not Mentioned
-```
-
 ---
 
 ### 14-09-2023, Thursday
@@ -1345,14 +1352,6 @@ Thorogood:
 - Tier: T-1
 - Offer: FTE, Internship
 - Deadline: 09:00
-```
-
-#### Test
-
-```md
-Lam Research:
-- Test Mode: Online
-- Test Time: 18:00
 ```
 
 #### Interview
@@ -2194,13 +2193,6 @@ Deutsche:
 
 ```md
 Swym:
-- Tier: T-1
-- Offer: FTE, Internship
-- Deadline: EOD
-```
-
-```md
-Lam Research:
 - Tier: T-1
 - Offer: FTE, Internship
 - Deadline: EOD
