@@ -5,9 +5,56 @@ title: "Schedule"
 
 ## November, 2023
 
+### 15-11-2023, Wednesday
+
+#### Test
+
+```md
+Inflobox:
+- Test Mode: Offline
+- Test Time: Not Mentioned
+```
+
+#### Interview
+
+```md
+Inflobox:
+- Process: Offline
+- Time: Not Mentioned
+```
+
+---
+
+### 13-11-2023, Monday
+
+#### Test
+
+```md
+Gyansys:
+- Test Mode: Offline
+- Test Time: Not Mentioned
+```
+
+#### Interview
+
+```md
+Gyansys:
+- Process: Offline
+- Time: Not Mentioned
+```
+
+---
+
 ### 11-11-2023, Saturday
 
 #### Register
+
+```md
+Cubic Logics:
+- Tier: T-3
+- Offer: FTE, Internship
+- Deadline: EOD
+```
 
 ```md
 JLL Technology:
@@ -102,24 +149,12 @@ Gyansys:
 #### Test
 
 ```md
-Gyansys:
-- Test Mode: Offline
-- Test Time: 11:30
-```
-
-```md
 Shadowfax:
 - Test Mode: Offline
 - Test Time: 10:00
 ```
 
 #### Interview
-
-```md
-Gyansys:
-- Process: Offline
-- Time: 15:00
-```
 
 ```md
 Shadowfax:
@@ -2045,18 +2080,6 @@ Arista:
 
 ---
 
-### 16-08-2023, Wednesday
-
-#### Interview
-
-```md
-Deutsche:
-- Process: Offline
-- Time: 09:00
-```
-
----
-
 ### 15-08-2023, Tuesday
 
 #### Register
@@ -2099,14 +2122,6 @@ Arista:
 - Tier: T-1
 - Offer: FTE, Internship
 - Deadline: 09:00
-```
-
-#### Test
-
-```md
-Deutsche:
-- Test Mode: Online
-- Test Time: Not Mentioned
 ```
 
 #### Interview
@@ -2177,19 +2192,6 @@ Sandvine:
 PWC:
 - Test Mode: Offline
 - Test Time: Not Mentioned
-```
-
----
-
-### 05-08-2023, Saturday
-
-#### Register
-
-```md
-Deutsche:
-- Tier: T-1
-- Offer: FTE
-- Deadline: 09:00
 ```
 
 ---
