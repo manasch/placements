@@ -7,6 +7,15 @@ title: "Schedule"
 
 ### 11-11-2023, Saturday
 
+#### Register
+
+```md
+JLL Technology:
+- Tier: T-2
+- Offer: FTE, Internship
+- Deadline: EOD
+```
+
 #### Test
 
 ```md
@@ -46,6 +55,14 @@ Drongo AI:
 - Tier: Not Mentioned
 - Offer: Internship
 - Deadline: EOD
+```
+
+#### Test
+
+```md
+Berkadia:
+- Test Mode: Online
+- Test Time: Not Mentioned
 ```
 
 ---
@@ -2121,14 +2138,6 @@ Tesco:
 - Test Time: 21:00
 ```
 
-#### Interview
-
-```md
-Swym:
-- Process: Offline
-- Time: 10:00
-```
-
 ---
 
 ### 09-08-2023, Wednesday
@@ -2147,14 +2156,6 @@ Hyperface Tech:
 - Tier: T-1
 - Offer: FTE, Internship
 - Deadline: 09:00
-```
-
-#### Test
-
-```md
-Swym:
-- Test Mode: Online
-- Test Time: Not Mentioned
 ```
 
 ---
@@ -2189,13 +2190,6 @@ Deutsche:
 - Tier: T-1
 - Offer: FTE
 - Deadline: 09:00
-```
-
-```md
-Swym:
-- Tier: T-1
-- Offer: FTE, Internship
-- Deadline: EOD
 ```
 
 ---
