@@ -40,6 +40,6 @@ title: "Calendar"
 | --- | --- | --- | --- | --- | --- | --- |
 |  - | - | [1]({{< relref "schedule.md#01-11-2023-wednesday" >}}) | [2]({{< relref "schedule.md#02-11-2023-thursday" >}}) | [3]({{< relref "schedule.md#03-11-2023-friday" >}}) | [4]({{< relref "schedule.md#04-11-2023-saturday" >}}) | [5]({{< relref "schedule.md#05-11-2023-sunday" >}}) |
 |  [6]({{< relref "schedule.md#06-11-2023-monday" >}}) | [7]({{< relref "schedule.md#07-11-2023-tuesday" >}}) | [8]({{< relref "schedule.md#08-11-2023-wednesday" >}}) | [9]({{< relref "schedule.md#09-11-2023-thursday" >}}) | [10]({{< relref "schedule.md#10-11-2023-friday" >}}) | [11]({{< relref "schedule.md#11-11-2023-saturday" >}}) | 12 |
-|  [13]({{< relref "schedule.md#13-11-2023-monday" >}}) | 14 | [15]({{< relref "schedule.md#15-11-2023-wednesday" >}}) | 16 | 17 | 18 | 19 |
+|  [13]({{< relref "schedule.md#13-11-2023-monday" >}}) | 14 | [15]({{< relref "schedule.md#15-11-2023-wednesday" >}}) | [16]({{< relref "schedule.md#16-11-2023-thursday" >}}) | 17 | 18 | 19 |
 |  20 | 21 | 22 | 23 | 24 | 25 | 26 |
 |  27 | 28 | 29 | 30 | - | - | - |
