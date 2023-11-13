@@ -158,7 +158,7 @@ class Schedule:
     def google_calendar_event(self, event_name: str, event_details: str, date: str, time: str):
         event_link = []
         push = event_link.append
-        start_time = f"{''.join(date.split('-'))}T{'0000' if not time else time.replace(':', '')}Z"
+        start_time = f"{''.join(date.split('-'))}T{'0000' if not time else time.replace(':', '')}"
 
         push(self.google_calendar_event_base_link)
         push("?")
