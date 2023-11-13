@@ -2,6 +2,7 @@ import calendar
 import json
 import os
 import re
+import urllib
 
 from calendar import Calendar
 from collections import defaultdict, OrderedDict
@@ -163,8 +164,8 @@ class Schedule:
         push(self.google_calendar_event_base_link)
         push("?")
         push("action=TEMPLATE")
-        push(f"&text={'+'.join(event_name.split())}")
-        push(f"&details={'+'.join(event_details.split())}")
+        push(f"&text={urllib.parse.quote_plus(event_name, safe='')}")
+        push(f"&details={urllib.parse.quote_plus(event_details, safe='')}")
         push(f"&dates={start_time}/{start_time}")
         return "".join(event_link)
     
