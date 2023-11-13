@@ -5,6 +5,32 @@ title: "Schedule"
 
 ## November, 2023
 
+### 21-11-2023, Tuesday
+
+#### Interview
+
+```md
+IDFC First Bank:
+- Process: Offline
+- Time: 10:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=IDFC+First+Bank&details=Interview+for+the+company&dates=20231121T1000)
+
+---
+
+### 17-11-2023, Friday
+
+#### Test
+
+```md
+IDFC First Bank:
+- Test Mode: Online
+- Test Time: 18:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=IDFC+First+Bank&details=Online+Assessment&dates=20231117T1800)
+
+---
+
 ### 16-11-2023, Thursday
 
 #### Test
@@ -14,6 +40,7 @@ AT&T:
 - Test Mode: Offline
 - Test Time: 17:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=AT&T&details=Online+Assessment&dates=20231116T1700)
 
 ---
 
@@ -26,6 +53,7 @@ Inflobox:
 - Test Mode: Offline
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Inflobox&details=Online+Assessment&dates=20231115T0000)
 
 #### Interview
 
@@ -34,6 +62,21 @@ Inflobox:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Inflobox&details=Interview+for+the+company&dates=20231115T0000)
+
+---
+
+### 14-11-2023, Tuesday
+
+#### Register
+
+```md
+IDFC First Bank:
+- Tier: Not Mentioned
+- Offer: FTE
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=IDFC+First+Bank&details=Registration&dates=20231114T0900)
 
 ---
 
@@ -47,6 +90,7 @@ Walmart:
 - Offer: Internship
 - Deadline: 22:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Walmart&details=Registration&dates=20231113T2230)
 
 #### Test
 
@@ -55,12 +99,14 @@ GSK GCC:
 - Test Mode: Online
 - Test Time: 23:55
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=GSK+GCC&details=Online+Assessment&dates=20231113T2355)
 
 ```md
 Gyansys:
 - Test Mode: Offline
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Gyansys&details=Online+Assessment&dates=20231113T0000)
 
 #### Interview
 
@@ -69,6 +115,7 @@ Gyansys:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Gyansys&details=Interview+for+the+company&dates=20231113T0000)
 
 ---
 
@@ -78,17 +125,19 @@ Gyansys:
 
 ```md
 Cubic Logics:
-- Tier: T-3
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Cubic+Logics&details=Registration&dates=20231111T0000)
 
 ```md
 JLL Technology:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=JLL+Technology&details=Registration&dates=20231111T0000)
 
 #### Test
 
@@ -97,6 +146,7 @@ MIQ Digital:
 - Test Mode: Online
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=MIQ+Digital&details=Online+Assessment&dates=20231111T0000)
 
 ---
 
@@ -110,6 +160,7 @@ Alcon India:
 - Offer: Internship
 - Deadline: 09:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Alcon+India&details=Registration&dates=20231110T0930)
 
 ---
 
@@ -123,6 +174,7 @@ GSK GCC:
 - Offer: Internship
 - Deadline: 09:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=GSK+GCC&details=Registration&dates=20231109T0930)
 
 ```md
 Drongo AI:
@@ -130,6 +182,7 @@ Drongo AI:
 - Offer: Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Drongo+AI&details=Registration&dates=20231109T0000)
 
 #### Test
 
@@ -138,6 +191,7 @@ Berkadia:
 - Test Mode: Online
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Berkadia&details=Online+Assessment&dates=20231109T0000)
 
 ---
 
@@ -147,10 +201,11 @@ Berkadia:
 
 ```md
 D.E. Shaw:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 14:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=D.E.+Shaw&details=Registration&dates=20231108T1400)
 
 ```md
 BNP Paribas:
@@ -158,13 +213,15 @@ BNP Paribas:
 - Offer: Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=BNP+Paribas&details=Registration&dates=20231108T0900)
 
 ```md
 Gyansys:
-- Tier: T-3
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 10:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Gyansys&details=Registration&dates=20231108T1030)
 
 #### Test
 
@@ -173,6 +230,7 @@ Shadowfax:
 - Test Mode: Offline
 - Test Time: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Shadowfax&details=Online+Assessment&dates=20231108T1000)
 
 #### Interview
 
@@ -181,12 +239,14 @@ Shadowfax:
 - Process: Offline
 - Time: 12:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Shadowfax&details=Interview+for+the+company&dates=20231108T1200)
 
 ```md
 Microchip (Again):
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Microchip+(Again)&details=Interview+for+the+company&dates=20231108T0000)
 
 ---
 
@@ -196,10 +256,11 @@ Microchip (Again):
 
 ```md
 MIQ Digital:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: Internship, PPO
 - Deadline: 19:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=MIQ+Digital&details=Registration&dates=20231107T1930)
 
 #### Test
 
@@ -208,12 +269,14 @@ Keysight:
 - Test Mode: Online
 - Test Time: 17:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Keysight&details=Online+Assessment&dates=20231107T1700)
 
 ```md
 Microchip (Again):
 - Test Mode: Online
 - Test Time: 07:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Microchip+(Again)&details=Online+Assessment&dates=20231107T0730)
 
 #### Interview
 
@@ -222,18 +285,21 @@ Deloitte India Consulting:
 - Process: Online
 - Time: 10:15
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Deloitte+India+Consulting&details=Interview+for+the+company&dates=20231107T1015)
 
 ```md
 Aurigo:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Aurigo&details=Interview+for+the+company&dates=20231107T0000)
 
 ```md
 Endor Labs:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Endor+Labs&details=Interview+for+the+company&dates=20231107T0900)
 
 ---
 
@@ -246,6 +312,7 @@ Garrett Motion:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Garrett+Motion&details=Interview+for+the+company&dates=20231106T0900)
 
 ---
 
@@ -255,10 +322,11 @@ Garrett Motion:
 
 ```md
 Shadowfax:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Shadowfax&details=Registration&dates=20231105T0000)
 
 ---
 
@@ -272,13 +340,15 @@ Keysight:
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Keysight&details=Registration&dates=20231104T0900)
 
 ```md
 Celstream:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Celstream&details=Registration&dates=20231104T0000)
 
 #### Test
 
@@ -287,12 +357,14 @@ Aurigo:
 - Test Mode: Online
 - Test Time: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Aurigo&details=Online+Assessment&dates=20231104T1000)
 
 ```md
 Endor Labs:
 - Test Mode: Online
 - Test Time: 11:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Endor+Labs&details=Online+Assessment&dates=20231104T1100)
 
 ---
 
@@ -305,6 +377,7 @@ Garrett Motion:
 - Test Mode: Online
 - Test Time: 12:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Garrett+Motion&details=Online+Assessment&dates=20231103T1200)
 
 #### Interview
 
@@ -313,6 +386,7 @@ Mercedes-Benz R&D:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Mercedes-Benz+R&D&details=Interview+for+the+company&dates=20231103T0000)
 
 ---
 
@@ -325,6 +399,7 @@ Deloitte India Consulting:
 - Test Mode: Online
 - Test Time: 16:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Deloitte+India+Consulting&details=Online+Assessment&dates=20231102T1600)
 
 #### Interview
 
@@ -333,6 +408,7 @@ Intel:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Intel&details=Interview+for+the+company&dates=20231102T0900)
 
 ---
 
@@ -346,20 +422,23 @@ Inflobox:
 - Offer: Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Inflobox&details=Registration&dates=20231101T0000)
 
 ```md
 Deloitte India Consulting:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Deloitte+India+Consulting&details=Registration&dates=20231101T0900)
 
 ```md
 Aurigo:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Aurigo&details=Registration&dates=20231101T0900)
 
 ```md
 Garrett Motion:
@@ -367,6 +446,7 @@ Garrett Motion:
 - Offer: Internship
 - Deadline: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Garrett+Motion&details=Registration&dates=20231101T1000)
 
 #### Test
 
@@ -375,6 +455,7 @@ Paypal:
 - Test Mode: Online
 - Test Time: 18:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Paypal&details=Online+Assessment&dates=20231101T1800)
 
 ---
 
@@ -386,17 +467,19 @@ Paypal:
 
 ```md
 Microchip (Again):
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Microchip+(Again)&details=Registration&dates=20231031T0000)
 
 ```md
 Cyware Labs:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: Internship, PPO
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Cyware+Labs&details=Registration&dates=20231031T0000)
 
 #### Interview
 
@@ -405,18 +488,21 @@ BlueYonder:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=BlueYonder&details=Interview+for+the+company&dates=20231031T0900)
 
 ```md
 Juniper Networks:
 - Process: Online
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Juniper+Networks&details=Interview+for+the+company&dates=20231031T0900)
 
 ```md
 Nvidia:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Nvidia&details=Interview+for+the+company&dates=20231031T0900)
 
 ---
 
@@ -429,6 +515,7 @@ BlueYonder:
 - Test Mode: Online
 - Test Time: 13:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=BlueYonder&details=Online+Assessment&dates=20231030T1330)
 
 #### Interview
 
@@ -437,6 +524,7 @@ Zebra Tech:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Zebra+Tech&details=Interview+for+the+company&dates=20231030T0900)
 
 ---
 
@@ -446,10 +534,11 @@ Zebra Tech:
 
 ```md
 Conde Nast:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Conde+Nast&details=Registration&dates=20231029T0000)
 
 ---
 
@@ -459,10 +548,11 @@ Conde Nast:
 
 ```md
 BlueYonder:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=BlueYonder&details=Registration&dates=20231027T0900)
 
 #### Test
 
@@ -471,6 +561,7 @@ Mercedes-Benz R&D:
 - Test Mode: Online
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Mercedes-Benz+R&D&details=Online+Assessment&dates=20231027T0000)
 
 #### Interview
 
@@ -479,12 +570,14 @@ IBM Consulting:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=IBM+Consulting&details=Interview+for+the+company&dates=20231027T0900)
 
 ```md
 EY India:
 - Process: Offline
 - Time: 08:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=EY+India&details=Interview+for+the+company&dates=20231027T0830)
 
 ---
 
@@ -498,20 +591,23 @@ Endor Labs:
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Endor+Labs&details=Registration&dates=20231026T0900)
 
 ```md
 Berkadia:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Berkadia&details=Registration&dates=20231026T0900)
 
 ```md
 Havells India:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Havells+India&details=Registration&dates=20231026T1000)
 
 #### Test
 
@@ -520,12 +616,14 @@ IBM Consulting:
 - Test Mode: Offline
 - Test Time: 11:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=IBM+Consulting&details=Online+Assessment&dates=20231026T1130)
 
 ```md
 Juniper Networks:
 - Test Mode: Online
 - Test Time: 19:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Juniper+Networks&details=Online+Assessment&dates=20231026T1900)
 
 ---
 
@@ -535,17 +633,19 @@ Juniper Networks:
 
 ```md
 Mercedes-Benz R&D:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 10:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Mercedes-Benz+R&D&details=Registration&dates=20231024T1030)
 
 ```md
 AT&T:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: Internship, PPO
 - Deadline: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=AT&T&details=Registration&dates=20231024T1000)
 
 ---
 
@@ -555,10 +655,11 @@ AT&T:
 
 ```md
 C-DOT:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=C-DOT&details=Registration&dates=20231022T0000)
 
 ---
 
@@ -572,6 +673,7 @@ Intel:
 - Offer: Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Intel&details=Registration&dates=20231020T0900)
 
 #### Test
 
@@ -580,6 +682,7 @@ Zebra Tech:
 - Test Mode: Offline
 - Test Time: 09:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Zebra+Tech&details=Online+Assessment&dates=20231020T0930)
 
 #### Interview
 
@@ -588,12 +691,14 @@ AstraZeneca:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=AstraZeneca&details=Interview+for+the+company&dates=20231020T0900)
 
 ```md
 Subex:
 - Process: Offline
 - Time: 09:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Subex&details=Interview+for+the+company&dates=20231020T0930)
 
 ---
 
@@ -603,24 +708,27 @@ Subex:
 
 ```md
 Nextuple:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Nextuple&details=Registration&dates=20231019T0000)
 
 ```md
 CRK Gida:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=CRK+Gida&details=Registration&dates=20231019T0000)
 
 ```md
 Zebra Tech:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: Internship
 - Deadline: 08:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Zebra+Tech&details=Registration&dates=20231019T0800)
 
 ---
 
@@ -633,12 +741,14 @@ AstraZeneca:
 - Test Mode: Online
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=AstraZeneca&details=Online+Assessment&dates=20231018T0000)
 
 ```md
 Samsung Research Institute:
 - Test Mode: Online
 - Test Time: 19:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Samsung+Research+Institute&details=Online+Assessment&dates=20231018T1900)
 
 #### Interview
 
@@ -647,12 +757,14 @@ IDFY:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=IDFY&details=Interview+for+the+company&dates=20231018T0900)
 
 ```md
 Microchip:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Microchip&details=Interview+for+the+company&dates=20231018T0000)
 
 ---
 
@@ -662,10 +774,11 @@ Microchip:
 
 ```md
 AstraZeneca:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=AstraZeneca&details=Registration&dates=20231017T0900)
 
 #### Test
 
@@ -674,6 +787,7 @@ Microchip:
 - Test Mode: Online
 - Test Time: 07:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Microchip&details=Online+Assessment&dates=20231017T0700)
 
 #### Interview
 
@@ -682,6 +796,7 @@ Zynga:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Zynga&details=Interview+for+the+company&dates=20231017T0000)
 
 ---
 
@@ -691,10 +806,11 @@ Zynga:
 
 ```md
 IDFY:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=IDFY&details=Registration&dates=20231016T0000)
 
 #### Test
 
@@ -703,12 +819,14 @@ IDFY:
 - Test Mode: Online
 - Test Time: 18:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=IDFY&details=Online+Assessment&dates=20231016T1800)
 
 ```md
 Perfios:
 - Test Mode: Offline
 - Test Time: 09:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Perfios&details=Online+Assessment&dates=20231016T0930)
 
 #### Interview
 
@@ -717,6 +835,7 @@ Perfios:
 - Process: Offline
 - Time: 11:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Perfios&details=Interview+for+the+company&dates=20231016T1130)
 
 ---
 
@@ -730,13 +849,15 @@ Samsung Research Institute:
 - Offer: Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Samsung+Research+Institute&details=Registration&dates=20231014T0000)
 
 ```md
 Microchip:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 16:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Microchip&details=Registration&dates=20231014T1630)
 
 #### Test
 
@@ -745,6 +866,7 @@ Aurva.io:
 - Test Mode: Online
 - Test Time: 17:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Aurva.io&details=Online+Assessment&dates=20231014T1700)
 
 ---
 
@@ -757,6 +879,7 @@ Zynga:
 - Test Mode: Online
 - Test Time: 17:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Zynga&details=Online+Assessment&dates=20231013T1730)
 
 ---
 
@@ -766,17 +889,19 @@ Zynga:
 
 ```md
 Aurva.io:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Aurva.io&details=Registration&dates=20231012T1000)
 
 ```md
 Perfios:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 10:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Perfios&details=Registration&dates=20231012T1030)
 
 #### Interview
 
@@ -785,6 +910,7 @@ Tejas Networks:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Tejas+Networks&details=Interview+for+the+company&dates=20231012T0900)
 
 ---
 
@@ -794,17 +920,19 @@ Tejas Networks:
 
 ```md
 Juniper Networks:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: Internship, PPO
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Juniper+Networks&details=Registration&dates=20231011T0000)
 
 ```md
 Collins Aerospace:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Collins+Aerospace&details=Registration&dates=20231011T1000)
 
 #### Interview
 
@@ -813,6 +941,7 @@ Infibeam:
 - Process: Offline
 - Time: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Infibeam&details=Interview+for+the+company&dates=20231011T1000)
 
 ---
 
@@ -825,6 +954,7 @@ Tejas Networks:
 - Test Mode: Offline
 - Test Time: 14:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Tejas+Networks&details=Online+Assessment&dates=20231010T1400)
 
 ---
 
@@ -838,13 +968,15 @@ Zynga:
 - Offer: Internship
 - Deadline: 17:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Zynga&details=Registration&dates=20231009T1700)
 
 ```md
 Apple:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: Internship, PPO
 - Deadline: 13:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Apple&details=Registration&dates=20231009T1300)
 
 #### Test
 
@@ -853,6 +985,7 @@ Confluent:
 - Test Mode: Offline
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Confluent&details=Online+Assessment&dates=20231009T0000)
 
 #### Interview
 
@@ -861,6 +994,7 @@ Confluent:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Confluent&details=Interview+for+the+company&dates=20231009T0000)
 
 ---
 
@@ -873,6 +1007,7 @@ EY India:
 - Test Mode: Online
 - Test Time: 19:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=EY+India&details=Online+Assessment&dates=20231008T1900)
 
 ---
 
@@ -885,12 +1020,14 @@ Infibeam:
 - Test Mode: Online
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Infibeam&details=Online+Assessment&dates=20231007T0000)
 
 ```md
 Hiver:
 - Test Mode: Online
 - Test Time: 19:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Hiver&details=Online+Assessment&dates=20231007T1900)
 
 #### Interview
 
@@ -899,6 +1036,7 @@ Pratt & Whitney:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Pratt+&+Whitney&details=Interview+for+the+company&dates=20231007T0900)
 
 ---
 
@@ -908,10 +1046,11 @@ Pratt & Whitney:
 
 ```md
 IBM Consulting:
-- Tier: T-3
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 11:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=IBM+Consulting&details=Registration&dates=20231006T1100)
 
 #### Test
 
@@ -920,6 +1059,7 @@ Subex:
 - Test Mode: Online
 - Test Time: 20:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Subex&details=Online+Assessment&dates=20231006T2000)
 
 #### Interview
 
@@ -928,12 +1068,14 @@ Samsung Semiconductors:
 - Process: Online
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Samsung+Semiconductors&details=Interview+for+the+company&dates=20231006T0000)
 
 ```md
 Amadeus:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Amadeus&details=Interview+for+the+company&dates=20231006T0900)
 
 ---
 
@@ -947,27 +1089,31 @@ Samsung Semiconductors:
 - Offer: Not Mentioned
 - Deadline: 08:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Samsung+Semiconductors&details=Registration&dates=20231005T0830)
 
 ```md
 Infibeam:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Infibeam&details=Registration&dates=20231005T0900)
 
 ```md
 Aveva:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Aveva&details=Registration&dates=20231005T0900)
 
 ```md
 Tejas Networks:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Tejas+Networks&details=Registration&dates=20231005T1000)
 
 #### Test
 
@@ -976,18 +1122,21 @@ Samsung Semiconductors:
 - Test Mode: Online
 - Test Time: 16:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Samsung+Semiconductors&details=Online+Assessment&dates=20231005T1600)
 
 ```md
 Pratt & Whitney:
 - Test Mode: Online
 - Test Time: 19:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Pratt+&+Whitney&details=Online+Assessment&dates=20231005T1900)
 
 ```md
 Amadeus:
 - Test Mode: Offline
 - Test Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Amadeus&details=Online+Assessment&dates=20231005T0900)
 
 #### Interview
 
@@ -996,6 +1145,7 @@ KPMG:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=KPMG&details=Interview+for+the+company&dates=20231005T0000)
 
 ---
 
@@ -1005,10 +1155,11 @@ KPMG:
 
 ```md
 Hiver:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Hiver&details=Registration&dates=20231004T0000)
 
 #### Test
 
@@ -1017,6 +1168,7 @@ KPMG:
 - Test Mode: Offline
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=KPMG&details=Online+Assessment&dates=20231004T0000)
 
 ---
 
@@ -1026,10 +1178,11 @@ KPMG:
 
 ```md
 Pratt & Whitney:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 10:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Pratt+&+Whitney&details=Registration&dates=20231003T1030)
 
 ---
 
@@ -1042,6 +1195,7 @@ ARM:
 - Test Mode: Online
 - Test Time: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=ARM&details=Online+Assessment&dates=20231001T1000)
 
 ---
 
@@ -1053,10 +1207,11 @@ ARM:
 
 ```md
 Siemens:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Siemens&details=Registration&dates=20230930T0000)
 
 ---
 
@@ -1069,6 +1224,7 @@ Deltax:
 - Test Mode: Online
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Deltax&details=Online+Assessment&dates=20230929T0000)
 
 #### Interview
 
@@ -1077,6 +1233,7 @@ Deltax:
 - Process: Online
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Deltax&details=Interview+for+the+company&dates=20230929T0000)
 
 ---
 
@@ -1086,10 +1243,11 @@ Deltax:
 
 ```md
 Confluent:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: Internship, PPO
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Confluent&details=Registration&dates=20230928T0000)
 
 ---
 
@@ -1099,10 +1257,11 @@ Confluent:
 
 ```md
 Deltax:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Deltax&details=Registration&dates=20230927T0900)
 
 #### Interview
 
@@ -1111,12 +1270,14 @@ Dover:
 - Process: Online
 - Time: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Dover&details=Interview+for+the+company&dates=20230927T1000)
 
 ```md
 Goldman Sachs:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Goldman+Sachs&details=Interview+for+the+company&dates=20230927T0000)
 
 ---
 
@@ -1126,10 +1287,11 @@ Goldman Sachs:
 
 ```md
 KPMG:
-- Tier: T-3
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=KPMG&details=Registration&dates=20230926T0900)
 
 ---
 
@@ -1139,10 +1301,11 @@ KPMG:
 
 ```md
 Paypal:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Paypal&details=Registration&dates=20230925T0000)
 
 #### Test
 
@@ -1151,6 +1314,7 @@ Dover:
 - Test Mode: Online
 - Test Time: 18:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Dover&details=Online+Assessment&dates=20230925T1800)
 
 #### Interview
 
@@ -1159,12 +1323,14 @@ Broadridge:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Broadridge&details=Interview+for+the+company&dates=20230925T0900)
 
 ```md
 Arup India Pvt. Ltd.:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Arup+India+Pvt.+Ltd.&details=Interview+for+the+company&dates=20230925T0000)
 
 ---
 
@@ -1177,6 +1343,7 @@ SAP Labs:
 - Test Mode: Online
 - Test Time: 17:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=SAP+Labs&details=Online+Assessment&dates=20230923T1700)
 
 ---
 
@@ -1186,10 +1353,11 @@ SAP Labs:
 
 ```md
 ARM:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=ARM&details=Registration&dates=20230922T0900)
 
 #### Interview
 
@@ -1198,6 +1366,7 @@ British Telecom:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=British+Telecom&details=Interview+for+the+company&dates=20230922T0900)
 
 ---
 
@@ -1207,24 +1376,27 @@ British Telecom:
 
 ```md
 SecPod:
-- Tier: T-3
+- Tier: Not Mentioned
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=SecPod&details=Registration&dates=20230921T0900)
 
 ```md
 Dover:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Dover&details=Registration&dates=20230921T0900)
 
 ```md
 SAP Labs:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=SAP+Labs&details=Registration&dates=20230921T0900)
 
 #### Test
 
@@ -1233,6 +1405,7 @@ Arup India Pvt. Ltd.:
 - Test Mode: Offline
 - Test Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Arup+India+Pvt.+Ltd.&details=Online+Assessment&dates=20230921T0900)
 
 #### Interview
 
@@ -1241,6 +1414,7 @@ Morgan Stanley:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Morgan+Stanley&details=Interview+for+the+company&dates=20230921T0900)
 
 ---
 
@@ -1253,6 +1427,7 @@ Nvidia:
 - Test Mode: Online
 - Test Time: 19:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Nvidia&details=Online+Assessment&dates=20230920T1930)
 
 #### Interview
 
@@ -1261,6 +1436,7 @@ Thorogood:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Thorogood&details=Interview+for+the+company&dates=20230920T0900)
 
 ---
 
@@ -1273,6 +1449,7 @@ British Telecom:
 - Test Mode: Online
 - Test Time: 17:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=British+Telecom&details=Online+Assessment&dates=20230919T1700)
 
 ---
 
@@ -1282,10 +1459,11 @@ British Telecom:
 
 ```md
 Subex:
-- Tier: T-3
+- Tier: Not Mentioned
 - Offer: Internship, PPO
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Subex&details=Registration&dates=20230917T0000)
 
 #### Test
 
@@ -1294,6 +1472,7 @@ Morgan Stanley:
 - Test Mode: Online
 - Test Time: 11:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Morgan+Stanley&details=Online+Assessment&dates=20230917T1100)
 
 ---
 
@@ -1307,13 +1486,15 @@ Adobe:
 - Offer: Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Adobe&details=Registration&dates=20230916T0900)
 
 ```md
 British Telecom:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=British+Telecom&details=Registration&dates=20230916T0900)
 
 #### Test
 
@@ -1322,18 +1503,21 @@ Goldman Sachs:
 - Test Mode: Online
 - Test Time: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Goldman+Sachs&details=Online+Assessment&dates=20230916T1000)
 
 ```md
 MakeMyTrip:
 - Test Mode: Online
 - Test Time: 11:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=MakeMyTrip&details=Online+Assessment&dates=20230916T1100)
 
 ```md
 Thorogood:
 - Test Mode: Online
 - Test Time: 17:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Thorogood&details=Online+Assessment&dates=20230916T1700)
 
 ---
 
@@ -1343,10 +1527,11 @@ Thorogood:
 
 ```md
 Goldman Sachs:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Goldman+Sachs&details=Registration&dates=20230915T0900)
 
 #### Test
 
@@ -1355,6 +1540,7 @@ Broadridge:
 - Test Mode: Online
 - Test Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Broadridge&details=Online+Assessment&dates=20230915T0900)
 
 #### Interview
 
@@ -1363,12 +1549,14 @@ Eli Lilly:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Eli+Lilly&details=Interview+for+the+company&dates=20230915T0900)
 
 ```md
 IBM:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=IBM&details=Interview+for+the+company&dates=20230915T0000)
 
 ---
 
@@ -1382,20 +1570,23 @@ Nvidia:
 - Offer: Internship
 - Deadline: 09:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Nvidia&details=Registration&dates=20230914T0930)
 
 ```md
 Morgan Stanley:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Morgan+Stanley&details=Registration&dates=20230914T0900)
 
 ```md
 MakeMyTrip:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=MakeMyTrip&details=Registration&dates=20230914T0900)
 
 #### Test
 
@@ -1404,6 +1595,7 @@ Eli Lilly:
 - Test Mode: Online
 - Test Time: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Eli+Lilly&details=Online+Assessment&dates=20230914T1000)
 
 #### Interview
 
@@ -1412,6 +1604,7 @@ Bain Capability:
 - Process: Online
 - Time: 09:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Bain+Capability&details=Interview+for+the+company&dates=20230914T0930)
 
 ---
 
@@ -1421,10 +1614,11 @@ Bain Capability:
 
 ```md
 Thorogood:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Thorogood&details=Registration&dates=20230913T0900)
 
 #### Interview
 
@@ -1433,6 +1627,7 @@ Trueminds:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Trueminds&details=Interview+for+the+company&dates=20230913T0900)
 
 ---
 
@@ -1442,17 +1637,19 @@ Trueminds:
 
 ```md
 Broadridge:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Broadridge&details=Registration&dates=20230912T0900)
 
 ```md
 Eli Lilly:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Eli+Lilly&details=Registration&dates=20230912T0900)
 
 #### Interview
 
@@ -1461,6 +1658,7 @@ Societe Generale:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Societe+Generale&details=Interview+for+the+company&dates=20230912T0000)
 
 ---
 
@@ -1473,6 +1671,7 @@ Deloitte:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Deloitte&details=Interview+for+the+company&dates=20230911T0000)
 
 ---
 
@@ -1485,12 +1684,14 @@ IBM:
 - Test Mode: Online
 - Test Time: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=IBM&details=Online+Assessment&dates=20230910T1000)
 
 ```md
 Trueminds:
 - Test Mode: Online
 - Test Time: 17:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Trueminds&details=Online+Assessment&dates=20230910T1700)
 
 ---
 
@@ -1503,6 +1704,7 @@ Bain Capability:
 - Test Mode: Online
 - Test Time: 12:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Bain+Capability&details=Online+Assessment&dates=20230909T1200)
 
 ---
 
@@ -1515,12 +1717,14 @@ HPE:
 - Process: Online
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=HPE&details=Interview+for+the+company&dates=20230908T0900)
 
 ```md
 Natwest:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Natwest&details=Interview+for+the+company&dates=20230908T0000)
 
 ---
 
@@ -1530,24 +1734,27 @@ Natwest:
 
 ```md
 Arup India Pvt. Ltd.:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Arup+India+Pvt.+Ltd.&details=Registration&dates=20230907T0000)
 
 ```md
 Tech Mahindra:
-- Tier: T-3
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Tech+Mahindra&details=Registration&dates=20230907T0000)
 
 ```md
 IBM:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=IBM&details=Registration&dates=20230907T0900)
 
 ---
 
@@ -1560,12 +1767,14 @@ Societe Generale:
 - Test Mode: Online
 - Test Time: 18:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Societe+Generale&details=Online+Assessment&dates=20230906T1800)
 
 ```md
 HPE:
 - Test Mode: Online
 - Test Time: 14:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=HPE&details=Online+Assessment&dates=20230906T1400)
 
 #### Interview
 
@@ -1574,6 +1783,7 @@ Schneider Electric:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Schneider+Electric&details=Interview+for+the+company&dates=20230906T0000)
 
 ---
 
@@ -1583,17 +1793,19 @@ Schneider Electric:
 
 ```md
 Societe Generale:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 17:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Societe+Generale&details=Registration&dates=20230905T1700)
 
 ```md
 Trueminds:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Trueminds&details=Registration&dates=20230905T0900)
 
 ---
 
@@ -1606,6 +1818,7 @@ Sprinklr:
 - Process: Offline
 - Time: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Sprinklr&details=Interview+for+the+company&dates=20230904T1000)
 
 ---
 
@@ -1615,10 +1828,11 @@ Sprinklr:
 
 ```md
 Bain Capability:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Bain+Capability&details=Registration&dates=20230903T0000)
 
 #### Test
 
@@ -1627,6 +1841,7 @@ Deloitte:
 - Test Mode: Online
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Deloitte&details=Online+Assessment&dates=20230903T0000)
 
 ---
 
@@ -1636,10 +1851,11 @@ Deloitte:
 
 ```md
 Deloitte:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Deloitte&details=Registration&dates=20230902T0000)
 
 #### Test
 
@@ -1648,6 +1864,7 @@ Sprinklr:
 - Test Mode: Online
 - Test Time: 11:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Sprinklr&details=Online+Assessment&dates=20230902T1100)
 
 ---
 
@@ -1660,6 +1877,7 @@ DXC:
 - Test Mode: Online
 - Test Time: 12:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=DXC&details=Online+Assessment&dates=20230901T1200)
 
 #### Interview
 
@@ -1668,6 +1886,7 @@ Cisco:
 - Process: Online
 - Time: 08:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Cisco&details=Interview+for+the+company&dates=20230901T0800)
 
 ---
 
@@ -1679,17 +1898,19 @@ Cisco:
 
 ```md
 EY India:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: Not Mentioned
 - Deadline: 10:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=EY+India&details=Registration&dates=20230831T1030)
 
 ```md
 DXC:
-- Tier: T-3
+- Tier: Not Mentioned
 - Offer: FTE
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=DXC&details=Registration&dates=20230831T0900)
 
 #### Interview
 
@@ -1698,12 +1919,14 @@ Applied Materials:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Applied+Materials&details=Interview+for+the+company&dates=20230831T0000)
 
 ```md
 Volvo:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Volvo&details=Interview+for+the+company&dates=20230831T0000)
 
 ---
 
@@ -1713,10 +1936,11 @@ Volvo:
 
 ```md
 Sprinklr:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Sprinklr&details=Registration&dates=20230830T0900)
 
 #### Test
 
@@ -1725,6 +1949,7 @@ Dish:
 - Test Mode: Offline
 - Test Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Dish&details=Online+Assessment&dates=20230830T0900)
 
 #### Interview
 
@@ -1733,6 +1958,7 @@ Dish:
 - Process: Offline
 - Time: 13:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Dish&details=Interview+for+the+company&dates=20230830T1300)
 
 ---
 
@@ -1742,24 +1968,27 @@ Dish:
 
 ```md
 Applied Materials:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 11:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Applied+Materials&details=Registration&dates=20230829T1100)
 
 ```md
 Dish:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Dish&details=Registration&dates=20230829T0900)
 
 ```md
 Amadeus:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 08:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Amadeus&details=Registration&dates=20230829T0830)
 
 #### Test
 
@@ -1768,18 +1997,21 @@ Applied Materials:
 - Test Mode: Online
 - Test Time: 19:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Applied+Materials&details=Online+Assessment&dates=20230829T1900)
 
 ```md
 Natwest:
 - Test Mode: Offline
 - Test Time: 15:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Natwest&details=Online+Assessment&dates=20230829T1500)
 
 ```md
 Cisco:
 - Test Mode: Offline
 - Test Time: 08:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Cisco&details=Online+Assessment&dates=20230829T0800)
 
 #### Interview
 
@@ -1788,6 +2020,7 @@ Kickdrum:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Kickdrum&details=Interview+for+the+company&dates=20230829T0000)
 
 ---
 
@@ -1800,6 +2033,7 @@ Schneider Electric:
 - Test Mode: Online
 - Test Time: 16:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Schneider+Electric&details=Online+Assessment&dates=20230828T1600)
 
 #### Interview
 
@@ -1808,6 +2042,7 @@ Epsilon:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Epsilon&details=Interview+for+the+company&dates=20230828T0900)
 
 ---
 
@@ -1820,6 +2055,7 @@ CynLr:
 - Test Mode: Online
 - Test Time: 10:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=CynLr&details=Online+Assessment&dates=20230827T1000)
 
 ---
 
@@ -1829,10 +2065,11 @@ CynLr:
 
 ```md
 HPE:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=HPE&details=Registration&dates=20230826T0000)
 
 #### Test
 
@@ -1841,6 +2078,7 @@ Volvo:
 - Test Mode: Offline
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Volvo&details=Online+Assessment&dates=20230826T0000)
 
 ---
 
@@ -1850,17 +2088,19 @@ Volvo:
 
 ```md
 Schneider Electric:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 08:30
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Schneider+Electric&details=Registration&dates=20230825T0830)
 
 ```md
 Volvo:
-- Tier: T-3
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Volvo&details=Registration&dates=20230825T0000)
 
 #### Test
 
@@ -1869,18 +2109,21 @@ AMETEK:
 - Test Mode: Offline
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=AMETEK&details=Online+Assessment&dates=20230825T0000)
 
 ```md
 Kickdrum:
 - Test Mode: Online
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Kickdrum&details=Online+Assessment&dates=20230825T0000)
 
 ```md
 Baxter:
 - Test Mode: Offline
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Baxter&details=Online+Assessment&dates=20230825T0000)
 
 #### Interview
 
@@ -1889,12 +2132,14 @@ AMETEK:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=AMETEK&details=Interview+for+the+company&dates=20230825T0000)
 
 ```md
 Baxter:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Baxter&details=Interview+for+the+company&dates=20230825T0000)
 
 ---
 
@@ -1908,6 +2153,7 @@ AMETEK:
 - Offer: Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=AMETEK&details=Registration&dates=20230824T0000)
 
 #### Test
 
@@ -1916,12 +2162,14 @@ Epsilon:
 - Test Mode: Offline
 - Test Time: 15:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Epsilon&details=Online+Assessment&dates=20230824T1500)
 
 ```md
 Sahaj:
 - Test Mode: Offline
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Sahaj&details=Online+Assessment&dates=20230824T0000)
 
 #### Interview
 
@@ -1930,12 +2178,14 @@ Sahaj:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Sahaj&details=Interview+for+the+company&dates=20230824T0000)
 
 ```md
 Hyperface Tech:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Hyperface+Tech&details=Interview+for+the+company&dates=20230824T0000)
 
 ---
 
@@ -1945,17 +2195,19 @@ Hyperface Tech:
 
 ```md
 Natwest:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Natwest&details=Registration&dates=20230823T0000)
 
 ```md
 CynLr:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=CynLr&details=Registration&dates=20230823T0900)
 
 #### Test
 
@@ -1964,6 +2216,7 @@ Newfold Digital:
 - Test Mode: Online
 - Test Time: 08:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Newfold+Digital&details=Online+Assessment&dates=20230823T0800)
 
 #### Interview
 
@@ -1972,6 +2225,7 @@ Cloudera:
 - Process: Offline
 - Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Cloudera&details=Interview+for+the+company&dates=20230823T0900)
 
 ---
 
@@ -1981,33 +2235,19 @@ Cloudera:
 
 ```md
 Cisco:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 17:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Cisco&details=Registration&dates=20230822T1700)
 
 ```md
 Epsilon:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-
-#### Test
-
-```md
-Sandvine:
-- Test Mode: Offline
-- Test Time: 08:30
-```
-
-#### Interview
-
-```md
-Sandvine:
-- Process: Offline
-- Time: 14:00
-```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Epsilon&details=Registration&dates=20230822T0900)
 
 ---
 
@@ -2017,10 +2257,11 @@ Sandvine:
 
 ```md
 Kickdrum:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Kickdrum&details=Registration&dates=20230821T0900)
 
 #### Test
 
@@ -2029,6 +2270,7 @@ Cloudera:
 - Test Mode: Online
 - Test Time: 17:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Cloudera&details=Online+Assessment&dates=20230821T1700)
 
 #### Interview
 
@@ -2037,6 +2279,7 @@ Egnyte:
 - Process: Offline
 - Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Egnyte&details=Interview+for+the+company&dates=20230821T0000)
 
 ---
 
@@ -2049,6 +2292,7 @@ Egnyte:
 - Test Mode: Online
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Egnyte&details=Online+Assessment&dates=20230819T0000)
 
 ---
 
@@ -2058,17 +2302,19 @@ Egnyte:
 
 ```md
 Baxter:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 12:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Baxter&details=Registration&dates=20230818T1200)
 
 ```md
 Sahaj:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 12:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Sahaj&details=Registration&dates=20230818T1200)
 
 #### Test
 
@@ -2077,6 +2323,7 @@ Hyperface Tech:
 - Test Mode: Offline
 - Test Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Hyperface+Tech&details=Online+Assessment&dates=20230818T0900)
 
 ---
 
@@ -2089,6 +2336,7 @@ Arista:
 - Test Mode: Offline
 - Test Time: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Arista&details=Online+Assessment&dates=20230817T0900)
 
 #### Interview
 
@@ -2097,6 +2345,7 @@ Arista:
 - Process: Offline
 - Time: 11:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Arista&details=Interview+for+the+company&dates=20230817T1100)
 
 ---
 
@@ -2106,10 +2355,11 @@ Arista:
 
 ```md
 Cloudera:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Cloudera&details=Registration&dates=20230815T0000)
 
 ---
 
@@ -2119,10 +2369,11 @@ Cloudera:
 
 ```md
 Egnyte:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Egnyte&details=Registration&dates=20230813T0000)
 
 ---
 
@@ -2132,17 +2383,19 @@ Egnyte:
 
 ```md
 Oracle:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE
 - Deadline: 13:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Oracle&details=Registration&dates=20230811T1300)
 
 ```md
 Arista:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Arista&details=Registration&dates=20230811T0900)
 
 #### Interview
 
@@ -2151,6 +2404,7 @@ Tesco:
 - Process: Offline
 - Time: 09:15
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Tesco&details=Interview+for+the+company&dates=20230811T0915)
 
 ---
 
@@ -2160,10 +2414,11 @@ Tesco:
 
 ```md
 Tesco:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Tesco&details=Registration&dates=20230810T0900)
 
 #### Test
 
@@ -2172,6 +2427,7 @@ Tesco:
 - Test Mode: Online
 - Test Time: 21:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Tesco&details=Online+Assessment&dates=20230810T2100)
 
 ---
 
@@ -2181,30 +2437,23 @@ Tesco:
 
 ```md
 Newfold Digital:
-- Tier: T-2
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 14:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Newfold+Digital&details=Registration&dates=20230809T1400)
 
 ```md
 Hyperface Tech:
-- Tier: T-1
+- Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=Hyperface+Tech&details=Registration&dates=20230809T0900)
 
 ---
 
 ### 08-08-2023, Tuesday
-
-#### Register
-
-```md
-Sandvine:
-- Tier: T-1
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
 
 #### Test
 
@@ -2213,5 +2462,6 @@ PWC:
 - Test Mode: Offline
 - Test Time: Not Mentioned
 ```
+[Add to Google Calendar](https://calendar.google.com/calendar/r/eventedit?text=PWC&details=Online+Assessment&dates=20230808T0000)
 
 ---

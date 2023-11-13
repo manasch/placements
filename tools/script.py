@@ -126,25 +126,25 @@ class Parser:
             if reg_date:
                 self.store[reg_date]["register"].append({
                     "company": item.get("company"),
-                    "tier": item.get("tier") if item.get("tier") is not None else "Not Mentioned",
-                    "job_status": ", ".join(item.get("job_status")) if item.get("job_status") else "Not Mentioned",
-                    "register_time": item.get("register_time") if item.get("register_time") is not None else "EOD"
+                    "tier": item.get("tier"),
+                    "job_status": item.get("job_status"),
+                    "register_time": item.get("register_time")
                 })
 
             test_date = item.get("test_date")
             if test_date:
                 self.store[test_date]["test"].append({
                     "company": item.get("company"),
-                    "test_mode": item.get("test_mode") if item.get("test_mode") is not None else "Not Mentioned",
-                    "test_time": item.get("test_time") if item.get("test_time") is not None else "Not Mentioned"
+                    "test_mode": item.get("test_mode"),
+                    "test_time": item.get("test_time")
                 })
 
             inter_date = item.get("interview_date")
             if inter_date:
                 self.store[inter_date]["interview"].append({
                     "company": item.get("company"),
-                    "process": item.get("process") if item.get("process") is not None else "Not Mentioned",
-                    "interview_time": item.get("interview_time") if item.get("interview_time") is not None else "Not Mentioned"
+                    "process": item.get("process"),
+                    "interview_time": item.get("interview_time")
                 })
         
         parsed.clear()
@@ -153,6 +153,18 @@ class Parser:
 class Schedule:
     def __init__(self, data):
         self.data = data
+        self.google_calendar_event_base_link = "https://calendar.google.com/calendar/r/eventedit"
+    
+    def google_calendar_event(self, event_name: str, event_details: str, date: str, time: str):
+        event_link = []
+        push = event_link.append
+
+        push(self.google_calendar_event_base_link)
+        push("?")
+        push(f"text={'+'.join(event_name.split())}")
+        push(f"&details={'+'.join(event_details.split())}")
+        push(f"&dates={''.join(date.split('-'))}T{'0000' if not time else time.replace(':', '')}")
+        return "".join(event_link)
     
     def md(self, dest = Path.cwd()):
         output = [
@@ -177,18 +189,26 @@ class Schedule:
             
             push(f"### {date_obj.strftime('%d-%m-%Y, %A')}")
             push("")
+            google_event_link = ""
 
             register = v.get("register")
             if register:
                 push(f"#### Register")
                 push("")
                 for item in register:
+                    google_event_link = self.google_calendar_event(
+                        item.get("company"),
+                        "Registration",
+                        k,
+                        item.get("register_time")
+                    )
                     push("```md")
                     push(f"{item.get('company')}:")
-                    push(f"- Tier: {item.get('tier')}")
-                    push(f"- Offer: {item.get('job_status')}")
-                    push(f"- Deadline: {item.get('register_time')}")
+                    push(f"- Tier: {item.get('tier') if item.get('iter') is not None else 'Not Mentioned'}")
+                    push(f"- Offer: {', '.join(item.get('job_status')) if item.get('job_status') else 'Not Mentioned'}")
+                    push(f"- Deadline: {item.get('register_time') if item.get('register_time') is not None else 'EOD'}")
                     push("```")
+                    push(f"[Add to Google Calendar]({google_event_link})")
                     push("")
             
             test = v.get("test")
@@ -196,11 +216,18 @@ class Schedule:
                 push(f"#### Test")
                 push("")
                 for item in test:
+                    google_event_link = self.google_calendar_event(
+                        item.get("company"),
+                        "Online Assessment",
+                        k,
+                        item.get("test_time")
+                    )
                     push("```md")
                     push(f"{item.get('company')}:")
-                    push(f"- Test Mode: {item.get('test_mode')}")
-                    push(f"- Test Time: {item.get('test_time')}")
+                    push(f"- Test Mode: {item.get('test_mode') if item.get('test_mode') is not None else 'Not Mentioned'}")
+                    push(f"- Test Time: {item.get('test_time') if item.get('test_time') is not None else 'Not Mentioned'}")
                     push("```")
+                    push(f"[Add to Google Calendar]({google_event_link})")
                     push("")
             
             interview = v.get("interview")
@@ -208,11 +235,18 @@ class Schedule:
                 push(f"#### Interview")
                 push("")
                 for item in interview:
+                    google_event_link = self.google_calendar_event(
+                        item.get("company"),
+                        "Interview for the company",
+                        k,
+                        item.get("interview_time")
+                    )
                     push("```md")
                     push(f"{item.get('company')}:")
-                    push(f"- Process: {item.get('process')}")
-                    push(f"- Time: {item.get('interview_time')}")
+                    push(f"- Process: {item.get('process') if item.get('process') is not None else 'Not Mentioned'}")
+                    push(f"- Time: {item.get('interview_time') if item.get('interview_time') is not None else 'Not Mentioned'}")
                     push("```")
+                    push(f"[Add to Google Calendar]({google_event_link})")
                     push("")
             
             push("---")
