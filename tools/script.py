@@ -153,16 +153,17 @@ class Parser:
 class Schedule:
     def __init__(self, data):
         self.data = data
-        self.google_calendar_event_base_link = "https://calendar.google.com/calendar/r/eventedit"
+        self.google_calendar_event_base_link = "https://calendar.google.com/calendar/render"
     
     def google_calendar_event(self, event_name: str, event_details: str, date: str, time: str):
         event_link = []
         push = event_link.append
-        start_time = f"{''.join(date.split('-'))}T{'0000' if not time else time.replace(':', '')}"
+        start_time = f"{''.join(date.split('-'))}T{'0000' if not time else time.replace(':', '')}Z"
 
         push(self.google_calendar_event_base_link)
         push("?")
-        push(f"text={'+'.join(event_name.split())}")
+        push("action=TEMPLATE")
+        push(f"&text={'+'.join(event_name.split())}")
         push(f"&details={'+'.join(event_details.split())}")
         push(f"&dates={start_time}/{start_time}")
         return "".join(event_link)
