@@ -49,6 +49,13 @@ AT&T:
 #### Test
 
 ```md
+Walmart:
+- Test Mode: Online
+- Test Time: 18:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Walmart&details=Online+Assessment&dates=20231115T1800/20231115T1800)
+
+```md
 Inflobox:
 - Test Mode: Offline
 - Test Time: Not Mentioned
