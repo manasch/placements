@@ -33,6 +33,24 @@ IDFC First Bank:
 
 ### 16-11-2023, Thursday
 
+#### Register
+
+```md
+Udaan.com:
+- Tier: Not Mentioned
+- Offer: Internship, PPO
+- Deadline: 08:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Udaan.com&details=Registration&dates=20231116T0800/20231116T0800)
+
+```md
+F5 Innovation:
+- Tier: Not Mentioned
+- Offer: FTE, Internship
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=F5+Innovation&details=Registration&dates=20231116T0900/20231116T0900)
+
 #### Test
 
 ```md
@@ -2187,13 +2205,6 @@ Sahaj:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sahaj&details=Interview+for+the+company&dates=20230824T0000/20230824T0000)
 
-```md
-Hyperface Tech:
-- Process: Offline
-- Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hyperface+Tech&details=Interview+for+the+company&dates=20230824T0000/20230824T0000)
-
 ---
 
 ### 23-08-2023, Wednesday
@@ -2215,15 +2226,6 @@ CynLr:
 - Deadline: 09:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=CynLr&details=Registration&dates=20230823T0900/20230823T0900)
-
-#### Test
-
-```md
-Newfold Digital:
-- Test Mode: Online
-- Test Time: 08:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Newfold+Digital&details=Online+Assessment&dates=20230823T0800/20230823T0800)
 
 #### Interview
 
@@ -2322,15 +2324,6 @@ Sahaj:
 - Deadline: 12:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sahaj&details=Registration&dates=20230818T1200/20230818T1200)
-
-#### Test
-
-```md
-Hyperface Tech:
-- Test Mode: Offline
-- Test Time: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hyperface+Tech&details=Online+Assessment&dates=20230818T0900/20230818T0900)
 
 ---
 
@@ -2435,28 +2428,6 @@ Tesco:
 - Test Time: 21:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesco&details=Online+Assessment&dates=20230810T2100/20230810T2100)
-
----
-
-### 09-08-2023, Wednesday
-
-#### Register
-
-```md
-Newfold Digital:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 14:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Newfold+Digital&details=Registration&dates=20230809T1400/20230809T1400)
-
-```md
-Hyperface Tech:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hyperface+Tech&details=Registration&dates=20230809T0900/20230809T0900)
 
 ---
 
