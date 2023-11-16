@@ -20,6 +20,16 @@ IDFC First Bank:
 
 ### 17-11-2023, Friday
 
+#### Register
+
+```md
+Groww:
+- Tier: Not Mentioned
+- Offer: Internship, PPO
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Groww&details=Registration&dates=20231117T0900/20231117T0900)
+
 #### Test
 
 ```md
@@ -2396,38 +2406,6 @@ Arista:
 - Deadline: 09:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arista&details=Registration&dates=20230811T0900/20230811T0900)
-
-#### Interview
-
-```md
-Tesco:
-- Process: Offline
-- Time: 09:15
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesco&details=Interview+for+the+company&dates=20230811T0915/20230811T0915)
-
----
-
-### 10-08-2023, Thursday
-
-#### Register
-
-```md
-Tesco:
-- Tier: Not Mentioned
-- Offer: FTE
-- Deadline: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesco&details=Registration&dates=20230810T0900/20230810T0900)
-
-#### Test
-
-```md
-Tesco:
-- Test Mode: Online
-- Test Time: 21:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tesco&details=Online+Assessment&dates=20230810T2100/20230810T2100)
 
 ---
 
