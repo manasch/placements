@@ -54,12 +54,14 @@
 
 ## Internship Only
 
+- [AT&T](./placements/att.md)
 - [Endor Labs](./placements/endor_labs.md)
 - [Intel](./placements/intel.md)
 - [Keysight](./placements/keysight.md)
 - [Nvidia](./placements/nvidia.md)
 - [Samsung Research Institue](./placements/samsung_rnd.md)
 - [Samsung Semiconductors](./placements/samsung_semiconductor.md)
+- [Walmart](./placements/walmart.md)
 - [Zynga](./placements/zynga.md)
 
 ## Hackathon
