@@ -77,7 +77,7 @@ void solve(int n, int k) {
 
 ---
 
-2. **Word Location**: The input is a line of words seperated by space. You have to print the index and word if these words were sorted by ascending order if the word starts with a vowel.
+2. **Word Location**: The input is a line of words seperated by space. You have to print the word and its position if the word starts with a vowel; if these words were sorted in ascending order.
 
     Print 0 if there are no words that start with a vowel.
 
