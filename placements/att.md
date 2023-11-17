@@ -116,7 +116,7 @@ int main() {
 
 ---
 
-4. **[ongest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)**
+4. **[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/)**
 
 [comment]: # (Add any resources or links or code to this question under this comment.)
 
