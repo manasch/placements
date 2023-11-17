@@ -24,6 +24,7 @@ date: 2023-09-29T17:58:06+05:30
 - [Hewlett Packard Enterprise (HPE)](./hpe)
 - [Hyperface](./hyperface)
 - [IBM](./ibm)
+- [IDFC First](./idfc)
 - [Infibeam](./infibeam)
 - [Intuit](./intuit)
 - [Juniper Networks](./juniper_networks)
