@@ -5,7 +5,29 @@ title: "Schedule"
 
 ## November, 2023
 
+### 22-11-2023, Wednesday
+
+#### Interview
+
+```md
+Netradyne Tech:
+- Process: Offline
+- Time: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Netradyne+Tech&details=Interview+for+the+company&dates=20231122T0900/20231122T0900)
+
+---
+
 ### 21-11-2023, Tuesday
+
+#### Test
+
+```md
+Netradyne Tech:
+- Test Mode: Offline
+- Test Time: 08:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Netradyne+Tech&details=Online+Assessment&dates=20231121T0800/20231121T0800)
 
 #### Interview
 
@@ -15,6 +37,36 @@ IDFC First Bank:
 - Time: 10:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IDFC+First+Bank&details=Interview+for+the+company&dates=20231121T1000/20231121T1000)
+
+---
+
+### 18-11-2023, Saturday
+
+#### Register
+
+```md
+Q2:
+- Tier: Not Mentioned
+- Offer: Internship, PPO
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Q2&details=Registration&dates=20231118T0900/20231118T0900)
+
+```md
+Digicert:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Digicert&details=Registration&dates=20231118T0900/20231118T0900)
+
+```md
+Netradyne Tech:
+- Tier: Not Mentioned
+- Offer: FTE, Internship
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Netradyne+Tech&details=Registration&dates=20231118T0900/20231118T0900)
 
 ---
 
@@ -1956,13 +2008,6 @@ Applied Materials:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Applied+Materials&details=Interview+for+the+company&dates=20230831T0000/20230831T0000)
 
-```md
-Volvo:
-- Process: Offline
-- Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Volvo&details=Interview+for+the+company&dates=20230831T0000/20230831T0000)
-
 ---
 
 ### 30-08-2023, Wednesday
@@ -2106,15 +2151,6 @@ HPE:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=HPE&details=Registration&dates=20230826T0000/20230826T0000)
 
-#### Test
-
-```md
-Volvo:
-- Test Mode: Offline
-- Test Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Volvo&details=Online+Assessment&dates=20230826T0000/20230826T0000)
-
 ---
 
 ### 25-08-2023, Friday
@@ -2128,14 +2164,6 @@ Schneider Electric:
 - Deadline: 08:30
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Schneider+Electric&details=Registration&dates=20230825T0830/20230825T0830)
-
-```md
-Volvo:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: EOD
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Volvo&details=Registration&dates=20230825T0000/20230825T0000)
 
 #### Test
 
@@ -2237,15 +2265,6 @@ CynLr:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=CynLr&details=Registration&dates=20230823T0900/20230823T0900)
 
-#### Interview
-
-```md
-Cloudera:
-- Process: Offline
-- Time: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cloudera&details=Interview+for+the+company&dates=20230823T0900/20230823T0900)
-
 ---
 
 ### 22-08-2023, Tuesday
@@ -2282,37 +2301,6 @@ Kickdrum:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Kickdrum&details=Registration&dates=20230821T0900/20230821T0900)
 
-#### Test
-
-```md
-Cloudera:
-- Test Mode: Online
-- Test Time: 17:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cloudera&details=Online+Assessment&dates=20230821T1700/20230821T1700)
-
-#### Interview
-
-```md
-Egnyte:
-- Process: Offline
-- Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Egnyte&details=Interview+for+the+company&dates=20230821T0000/20230821T0000)
-
----
-
-### 19-08-2023, Saturday
-
-#### Test
-
-```md
-Egnyte:
-- Test Mode: Online
-- Test Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Egnyte&details=Online+Assessment&dates=20230819T0000/20230819T0000)
-
 ---
 
 ### 18-08-2023, Friday
@@ -2334,78 +2322,6 @@ Sahaj:
 - Deadline: 12:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sahaj&details=Registration&dates=20230818T1200/20230818T1200)
-
----
-
-### 17-08-2023, Thursday
-
-#### Test
-
-```md
-Arista:
-- Test Mode: Offline
-- Test Time: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arista&details=Online+Assessment&dates=20230817T0900/20230817T0900)
-
-#### Interview
-
-```md
-Arista:
-- Process: Offline
-- Time: 11:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arista&details=Interview+for+the+company&dates=20230817T1100/20230817T1100)
-
----
-
-### 15-08-2023, Tuesday
-
-#### Register
-
-```md
-Cloudera:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: EOD
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cloudera&details=Registration&dates=20230815T0000/20230815T0000)
-
----
-
-### 13-08-2023, Sunday
-
-#### Register
-
-```md
-Egnyte:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: EOD
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Egnyte&details=Registration&dates=20230813T0000/20230813T0000)
-
----
-
-### 11-08-2023, Friday
-
-#### Register
-
-```md
-Oracle:
-- Tier: Not Mentioned
-- Offer: FTE
-- Deadline: 13:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oracle&details=Registration&dates=20230811T1300/20230811T1300)
-
-```md
-Arista:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arista&details=Registration&dates=20230811T0900/20230811T0900)
 
 ---
 
