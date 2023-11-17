@@ -21,6 +21,7 @@
 - [Hewlett Packard Enterprise (HPE)](./placements/hpe.md)
 - [Hyperface](./placements/hyperface.md)
 - [IBM](./placements/ibm.md)
+- [IDFC First](./placements/idfc.md)
 - [Infibeam](./placements/infibeam.md)
 - [Intuit](./placements/intuit.md)
 - [Juniper Networks](./placements/juniper_networks.md)
