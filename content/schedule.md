@@ -20,7 +20,24 @@ Netradyne Tech:
 
 ### 21-11-2023, Tuesday
 
+#### Register
+
+```md
+Oracle:
+- Tier: Not Mentioned
+- Offer: Not Mentioned
+- Deadline: 08:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oracle&details=Registration&dates=20231121T0800/20231121T0800)
+
 #### Test
+
+```md
+Oracle:
+- Test Mode: Online
+- Test Time: 17:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oracle&details=Online+Assessment&dates=20231121T1700/20231121T1700)
 
 ```md
 Netradyne Tech:
@@ -2227,22 +2244,6 @@ Epsilon:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Epsilon&details=Online+Assessment&dates=20230824T1500/20230824T1500)
 
-```md
-Sahaj:
-- Test Mode: Offline
-- Test Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sahaj&details=Online+Assessment&dates=20230824T0000/20230824T0000)
-
-#### Interview
-
-```md
-Sahaj:
-- Process: Offline
-- Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sahaj&details=Interview+for+the+company&dates=20230824T0000/20230824T0000)
-
 ---
 
 ### 23-08-2023, Wednesday
@@ -2314,14 +2315,6 @@ Baxter:
 - Deadline: 12:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Baxter&details=Registration&dates=20230818T1200/20230818T1200)
-
-```md
-Sahaj:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 12:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sahaj&details=Registration&dates=20230818T1200/20230818T1200)
 
 ---
 
