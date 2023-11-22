@@ -3,6 +3,30 @@ title: "Schedule"
 # date: 2023-09-30T23:25:54+05:30
 ---
 
+## December, 2023
+
+### 12-12-2023, Tuesday
+
+#### Test
+
+```md
+F5 Innovation:
+- Test Mode: Offline
+- Test Time: 10:15
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=F5+Innovation&details=Online+Assessment&dates=20231212T1015/20231212T1015)
+
+#### Interview
+
+```md
+F5 Innovation:
+- Process: Offline
+- Time: 13:30
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=F5+Innovation&details=Interview+for+the+company&dates=20231212T1330/20231212T1330)
+
+---
+
 ## November, 2023
 
 ### 28-11-2023, Tuesday
@@ -24,6 +48,52 @@ phData Solutions:
 - Time: Not Mentioned
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=phData+Solutions&details=Interview+for+the+company&dates=20231128T0000/20231128T0000)
+
+---
+
+### 25-11-2023, Saturday
+
+#### Register
+
+```md
+F5 Innovation:
+- Tier: Not Mentioned
+- Offer: FTE, Internship
+- Deadline: EOD
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=F5+Innovation&details=Registration&dates=20231125T0000/20231125T0000)
+
+#### Interview
+
+```md
+D.E. Shaw:
+- Process: Offline
+- Time: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=D.E.+Shaw&details=Interview+for+the+company&dates=20231125T0900/20231125T0900)
+
+---
+
+### 23-11-2023, Thursday
+
+#### Register
+
+```md
+Reltio:
+- Tier: Not Mentioned
+- Offer: FTE
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reltio&details=Registration&dates=20231123T0900/20231123T0900)
+
+#### Interview
+
+```md
+Oracle:
+- Process: Offline
+- Time: Not Mentioned
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oracle&details=Interview+for+the+company&dates=20231123T0000/20231123T0000)
 
 ---
 
@@ -97,6 +167,19 @@ IDFC First Bank:
 
 ---
 
+### 20-11-2023, Monday
+
+#### Test
+
+```md
+D.E. Shaw:
+- Test Mode: Online
+- Test Time: 11:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=D.E.+Shaw&details=Online+Assessment&dates=20231120T1100/20231120T1100)
+
+---
+
 ### 18-11-2023, Saturday
 
 #### Register
@@ -161,14 +244,6 @@ Udaan.com:
 - Deadline: 08:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Udaan.com&details=Registration&dates=20231116T0800/20231116T0800)
-
-```md
-F5 Innovation:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=F5+Innovation&details=Registration&dates=20231116T0900/20231116T0900)
 
 #### Test
 
@@ -2163,15 +2238,6 @@ Schneider Electric:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Schneider+Electric&details=Online+Assessment&dates=20230828T1600/20230828T1600)
 
-#### Interview
-
-```md
-Epsilon:
-- Process: Offline
-- Time: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Epsilon&details=Interview+for+the+company&dates=20230828T0900/20230828T0900)
-
 ---
 
 ### 27-08-2023, Sunday
@@ -2245,15 +2311,6 @@ AMETEK:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AMETEK&details=Registration&dates=20230824T0000/20230824T0000)
 
-#### Test
-
-```md
-Epsilon:
-- Test Mode: Offline
-- Test Time: 15:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Epsilon&details=Online+Assessment&dates=20230824T1500/20230824T1500)
-
 ---
 
 ### 23-08-2023, Wednesday
@@ -2289,14 +2346,6 @@ Cisco:
 - Deadline: 17:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cisco&details=Registration&dates=20230822T1700/20230822T1700)
-
-```md
-Epsilon:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Epsilon&details=Registration&dates=20230822T0900/20230822T0900)
 
 ---
 
