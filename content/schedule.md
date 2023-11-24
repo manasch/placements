@@ -51,6 +51,19 @@ phData Solutions:
 
 ---
 
+### 27-11-2023, Monday
+
+#### Interview
+
+```md
+MIQ Digital:
+- Process: Offline
+- Time: 09:30
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=MIQ+Digital&details=Interview+for+the+company&dates=20231127T0930/20231127T0930)
+
+---
+
 ### 25-11-2023, Saturday
 
 #### Register
