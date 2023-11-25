@@ -120,3 +120,37 @@ void solve(string words) {
 ```
 
 ---
+
+## Round 2
+
+> 22/11/23
+
+This was a technical round, was asked about OOPS, Strings, C++ (because it was in my resume)
+
+3 coding questions were asked
+
+1. Given an array of numbers, and a value target, use the minimum number of numbers from the array to sum up to the target value.
+2. Find out if a number is an armstrong number or not.
+3. Find out if two strings are anagrams of each other.
+
+---
+
+## Round 3
+
+> 22/11/23
+
+This was a technical + HR round, it was different for different people.
+
+Was asked about projects in my resume and how oauth2 works, was given 1 coding question.
+
+1. Given an array of characters which can contain duplicates, print the string which is the lexicographically largest and doesn't contain any of the dupes.
+> I told the set approach first, and then was asked to implement it without a set. Did it using sorting.
+
+Other basic HR questions.
+
+1. What do I know about IDFC?
+2. Why do I want to join IDFC?
+3. What have I done in the past 6 months to help in my career growth?
+4. How would you handle relocation and situations?
+
+---

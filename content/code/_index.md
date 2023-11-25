@@ -18,6 +18,7 @@ date: 2023-09-29T17:58:06+05:30
 - [Commvault](./commvault)
 - [Confluent](./confluent)
 - [Cynlr](./cynlr)
+- [DE Shaw](./deshaw)
 - [Deutsche Bank](./deutsche)
 - [Dish Network](./dish)
 - [Egnyte](./egnyte)
