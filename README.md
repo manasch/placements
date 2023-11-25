@@ -15,6 +15,7 @@
 - [Commvault](./placements/commvault.md)
 - [Confluent](./placements/confluent.md)
 - [Cynlr](./placements/cynlr.md)
+- [DE Shaw](./placements/deshaw.md)
 - [Deutsche Bank](./placements/deutsche.md)
 - [Dish Network](./placements/dish.md)
 - [Egnyte](./placements/egnyte.md)
