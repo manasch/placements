@@ -27,9 +27,45 @@ F5 Innovation:
 
 ---
 
+### 07-12-2023, Thursday
+
+#### Interview
+
+```md
+Akami Technologies:
+- Process: Offline
+- Time: Not Mentioned
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Akami+Technologies&details=Interview+for+the+company&dates=20231207T0000/20231207T0000)
+
+---
+
+### 05-12-2023, Tuesday
+
+#### Test
+
+```md
+Akami Technologies:
+- Test Mode: Offline
+- Test Time: Not Mentioned
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Akami+Technologies&details=Online+Assessment&dates=20231205T0000/20231205T0000)
+
+---
+
 ## November, 2023
 
 ### 28-11-2023, Tuesday
+
+#### Register
+
+```md
+Akami Technologies:
+- Tier: Not Mentioned
+- Offer: FTE, Internship
+- Deadline: 09:30
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Akami+Technologies&details=Registration&dates=20231128T0930/20231128T0930)
 
 #### Test
 
@@ -59,6 +95,16 @@ Berkadia:
 ---
 
 ### 27-11-2023, Monday
+
+#### Register
+
+```md
+Astr Defence:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: EOD
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Astr+Defence&details=Registration&dates=20231127T0000/20231127T0000)
 
 #### Test
 
@@ -2112,15 +2158,6 @@ DXC:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=DXC&details=Online+Assessment&dates=20230901T1200/20230901T1200)
 
-#### Interview
-
-```md
-Cisco:
-- Process: Online
-- Time: 08:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cisco&details=Interview+for+the+company&dates=20230901T0800/20230901T0800)
-
 ---
 
 ## August, 2023
@@ -2232,13 +2269,6 @@ Natwest:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Natwest&details=Online+Assessment&dates=20230829T1500/20230829T1500)
 
-```md
-Cisco:
-- Test Mode: Offline
-- Test Time: 08:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cisco&details=Online+Assessment&dates=20230829T0800/20230829T0800)
-
 ---
 
 ### 28-08-2023, Monday
@@ -2251,19 +2281,6 @@ Schneider Electric:
 - Test Time: 16:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Schneider+Electric&details=Online+Assessment&dates=20230828T1600/20230828T1600)
-
----
-
-### 27-08-2023, Sunday
-
-#### Test
-
-```md
-CynLr:
-- Test Mode: Online
-- Test Time: 10:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=CynLr&details=Online+Assessment&dates=20230827T1000/20230827T1000)
 
 ---
 
@@ -2338,28 +2355,6 @@ Natwest:
 - Deadline: EOD
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Natwest&details=Registration&dates=20230823T0000/20230823T0000)
-
-```md
-CynLr:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=CynLr&details=Registration&dates=20230823T0900/20230823T0900)
-
----
-
-### 22-08-2023, Tuesday
-
-#### Register
-
-```md
-Cisco:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 17:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cisco&details=Registration&dates=20230822T1700/20230822T1700)
 
 ---
 
