@@ -55,6 +55,20 @@ Akami Technologies:
 
 ## November, 2023
 
+### 30-11-2023, Thursday
+
+#### Register
+
+```md
+Microland:
+- Tier: Not Mentioned
+- Offer: Not Mentioned
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Microland&details=Registration&dates=20231130T0900/20231130T0900)
+
+---
+
 ### 29-11-2023, Wednesday
 
 #### Register
@@ -2062,15 +2076,6 @@ HPE:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=HPE&details=Online+Assessment&dates=20230906T1400/20230906T1400)
 
-#### Interview
-
-```md
-Schneider Electric:
-- Process: Offline
-- Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Schneider+Electric&details=Interview+for+the+company&dates=20230906T0000/20230906T0000)
-
 ---
 
 ### 05-09-2023, Tuesday
@@ -2271,19 +2276,6 @@ Applied Materials:
 
 ---
 
-### 28-08-2023, Monday
-
-#### Test
-
-```md
-Schneider Electric:
-- Test Mode: Online
-- Test Time: 16:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Schneider+Electric&details=Online+Assessment&dates=20230828T1600/20230828T1600)
-
----
-
 ### 26-08-2023, Saturday
 
 #### Register
@@ -2299,16 +2291,6 @@ HPE:
 ---
 
 ### 25-08-2023, Friday
-
-#### Register
-
-```md
-Schneider Electric:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 08:30
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Schneider+Electric&details=Registration&dates=20230825T0830/20230825T0830)
 
 #### Test
 
