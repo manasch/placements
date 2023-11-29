@@ -53,11 +53,48 @@ Akami Technologies:
 
 ---
 
+### 04-12-2023, Monday
+
+#### Interview
+
+```md
+Observe.ai:
+- Process: Offline
+- Time: Not Mentioned
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Observe.ai&details=Interview+for+the+company&dates=20231204T0000/20231204T0000)
+
+---
+
 ## November, 2023
 
 ### 30-11-2023, Thursday
 
 #### Register
+
+```md
+Philips:
+- Tier: Not Mentioned
+- Offer: Internship, PPO
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Philips&details=Registration&dates=20231130T0900/20231130T0900)
+
+```md
+Observe.ai:
+- Tier: Not Mentioned
+- Offer: FTE, Internship
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Observe.ai&details=Registration&dates=20231130T0900/20231130T0900)
+
+```md
+Newstreet Tech:
+- Tier: Not Mentioned
+- Offer: Internship, PPO
+- Deadline: 09:30
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Newstreet+Tech&details=Registration&dates=20231130T0930/20231130T0930)
 
 ```md
 Microland:
@@ -66,6 +103,15 @@ Microland:
 - Deadline: 09:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Microland&details=Registration&dates=20231130T0900/20231130T0900)
+
+#### Test
+
+```md
+Observe.ai:
+- Test Mode: Online
+- Test Time: Not Mentioned
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Observe.ai&details=Online+Assessment&dates=20231130T0000/20231130T0000)
 
 ---
 
@@ -1969,19 +2015,6 @@ Societe Generale:
 
 ---
 
-### 11-09-2023, Monday
-
-#### Interview
-
-```md
-Deloitte:
-- Process: Offline
-- Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Deloitte&details=Interview+for+the+company&dates=20230911T0000/20230911T0000)
-
----
-
 ### 10-09-2023, Sunday
 
 #### Test
@@ -2012,19 +2045,6 @@ Bain Capability:
 - Test Time: 12:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bain+Capability&details=Online+Assessment&dates=20230909T1200/20230909T1200)
-
----
-
-### 08-09-2023, Friday
-
-#### Interview
-
-```md
-HPE:
-- Process: Online
-- Time: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=HPE&details=Interview+for+the+company&dates=20230908T0900/20230908T0900)
 
 ---
 
@@ -2068,13 +2088,6 @@ Societe Generale:
 - Test Time: 18:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Societe+Generale&details=Online+Assessment&dates=20230906T1800/20230906T1800)
-
-```md
-HPE:
-- Test Mode: Online
-- Test Time: 14:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=HPE&details=Online+Assessment&dates=20230906T1400/20230906T1400)
 
 ---
 
@@ -2125,28 +2138,9 @@ Bain Capability:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bain+Capability&details=Registration&dates=20230903T0000/20230903T0000)
 
-#### Test
-
-```md
-Deloitte:
-- Test Mode: Online
-- Test Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Deloitte&details=Online+Assessment&dates=20230903T0000/20230903T0000)
-
 ---
 
 ### 02-09-2023, Saturday
-
-#### Register
-
-```md
-Deloitte:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: EOD
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Deloitte&details=Registration&dates=20230902T0000/20230902T0000)
 
 #### Test
 
@@ -2273,56 +2267,6 @@ Applied Materials:
 - Test Time: 19:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Applied+Materials&details=Online+Assessment&dates=20230829T1900/20230829T1900)
-
----
-
-### 26-08-2023, Saturday
-
-#### Register
-
-```md
-HPE:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: EOD
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=HPE&details=Registration&dates=20230826T0000/20230826T0000)
-
----
-
-### 25-08-2023, Friday
-
-#### Test
-
-```md
-AMETEK:
-- Test Mode: Offline
-- Test Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AMETEK&details=Online+Assessment&dates=20230825T0000/20230825T0000)
-
-#### Interview
-
-```md
-AMETEK:
-- Process: Offline
-- Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AMETEK&details=Interview+for+the+company&dates=20230825T0000/20230825T0000)
-
----
-
-### 24-08-2023, Thursday
-
-#### Register
-
-```md
-AMETEK:
-- Tier: Not Mentioned
-- Offer: Internship
-- Deadline: EOD
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AMETEK&details=Registration&dates=20230824T0000/20230824T0000)
 
 ---
 
