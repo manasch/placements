@@ -36,6 +36,15 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Summary of the sections and experience below this comment.)
 
+There were 4 sections:
+
+1. Coding (20 min)
+2. Coding (30 min)
+3. Aptitude
+4. Technical
+
+Totally around 95 min.
+
 ### Coding Questions
 
 1. **Min-Max Difference**: Given a string of characters (only smaller case), find out the number of minimum number of characters to remove such that the difference between the max frequency of chars and the min frequency of chars is `m` which is given.
@@ -145,5 +154,33 @@ string solve(string s) {
 }
 
 ```
+
+---
+
+## Round 2
+
+> 25/11/23
+
+Was a technical round.
+
+- Introduce yourself
+- Projects discussions
+- [Probabily Puzzle](https://www.geeksforgeeks.org/generate-0-1-25-75-probability/)
+- [Delete and Earn](https://leetcode.com/problems/delete-and-earn/)
+- Given a python code, how would you decide if it is indented properly or not, write code to check if a given python code is indented correctly.
+
+---
+
+## Round 3
+
+> 26/11/23
+
+Was technical and scenario based.
+
+- Interests, Introduction
+- How does google autofill work, how would you go about implementing such a system.
+- There are millions of records in an excel sheet, and different columns, a particular cell for some employee could be color coded due to certain conditions, similarly another cell could be differently colored due to other conditions. How would you optimize this process in the backend and send the colors to the front end.
+- Ludo game with n players, at max 4 players can play at once, not necessary for all 4 to play a game, find out the minimum number of games required such that each player plays every other player atleast once.
+- Difference between a get and post request, if you give a html page with a button that sends some post request when clicked that could modify the database by mistake and do not want them to make any changes, how would you handle this.
 
 ---
