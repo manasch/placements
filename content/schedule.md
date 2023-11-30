@@ -5,6 +5,28 @@ title: "Schedule"
 
 ## December, 2023
 
+### 20-12-2023, Wednesday
+
+#### Test
+
+```md
+Consoilio LLC:
+- Test Mode: Offline
+- Test Time: Not Mentioned
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Consoilio+LLC&details=Online+Assessment&dates=20231220T0000/20231220T0000)
+
+#### Interview
+
+```md
+Consoilio LLC:
+- Process: Offline
+- Time: Not Mentioned
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Consoilio+LLC&details=Interview+for+the+company&dates=20231220T0000/20231220T0000)
+
+---
+
 ### 12-12-2023, Tuesday
 
 #### Test
@@ -89,6 +111,22 @@ Observe.ai:
 ### 01-12-2023, Friday
 
 #### Register
+
+```md
+Publicis Sapient:
+- Tier: Not Mentioned
+- Offer: FTE, Internship
+- Deadline: EOD
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Publicis+Sapient&details=Registration&dates=20231201T0000/20231201T0000)
+
+```md
+Victoria Secrete:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 10:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Victoria+Secrete&details=Registration&dates=20231201T1000/20231201T1000)
 
 ```md
 Target:
@@ -373,6 +411,14 @@ D.E. Shaw:
 ### 18-11-2023, Saturday
 
 #### Register
+
+```md
+Consoilio LLC:
+- Tier: Not Mentioned
+- Offer: FTE
+- Deadline: EOD
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Consoilio+LLC&details=Registration&dates=20231118T0000/20231118T0000)
 
 ```md
 Q2:
@@ -2133,19 +2179,6 @@ Trueminds:
 
 ---
 
-### 04-09-2023, Monday
-
-#### Interview
-
-```md
-Sprinklr:
-- Process: Offline
-- Time: 10:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sprinklr&details=Interview+for+the+company&dates=20230904T1000/20230904T1000)
-
----
-
 ### 03-09-2023, Sunday
 
 #### Register
@@ -2157,19 +2190,6 @@ Bain Capability:
 - Deadline: EOD
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bain+Capability&details=Registration&dates=20230903T0000/20230903T0000)
-
----
-
-### 02-09-2023, Saturday
-
-#### Test
-
-```md
-Sprinklr:
-- Test Mode: Online
-- Test Time: 11:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sprinklr&details=Online+Assessment&dates=20230902T1100/20230902T1100)
 
 ---
 
@@ -2207,78 +2227,6 @@ DXC:
 - Deadline: 09:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=DXC&details=Registration&dates=20230831T0900/20230831T0900)
-
-#### Interview
-
-```md
-Applied Materials:
-- Process: Offline
-- Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Applied+Materials&details=Interview+for+the+company&dates=20230831T0000/20230831T0000)
-
----
-
-### 30-08-2023, Wednesday
-
-#### Register
-
-```md
-Sprinklr:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Sprinklr&details=Registration&dates=20230830T0900/20230830T0900)
-
-#### Test
-
-```md
-Dish:
-- Test Mode: Offline
-- Test Time: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dish&details=Online+Assessment&dates=20230830T0900/20230830T0900)
-
-#### Interview
-
-```md
-Dish:
-- Process: Offline
-- Time: 13:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dish&details=Interview+for+the+company&dates=20230830T1300/20230830T1300)
-
----
-
-### 29-08-2023, Tuesday
-
-#### Register
-
-```md
-Applied Materials:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 11:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Applied+Materials&details=Registration&dates=20230829T1100/20230829T1100)
-
-```md
-Dish:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dish&details=Registration&dates=20230829T0900/20230829T0900)
-
-#### Test
-
-```md
-Applied Materials:
-- Test Mode: Online
-- Test Time: 19:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Applied+Materials&details=Online+Assessment&dates=20230829T1900/20230829T1900)
 
 ---
 
