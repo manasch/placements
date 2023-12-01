@@ -108,6 +108,20 @@ Observe.ai:
 
 ---
 
+### 02-12-2023, Saturday
+
+#### Register
+
+```md
+Triomics:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: EOD
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Triomics&details=Registration&dates=20231202T0000/20231202T0000)
+
+---
+
 ### 01-12-2023, Friday
 
 #### Register
@@ -2193,19 +2207,6 @@ Bain Capability:
 
 ---
 
-### 01-09-2023, Friday
-
-#### Test
-
-```md
-DXC:
-- Test Mode: Online
-- Test Time: 12:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=DXC&details=Online+Assessment&dates=20230901T1200/20230901T1200)
-
----
-
 ## August, 2023
 
 ### 31-08-2023, Thursday
@@ -2219,14 +2220,6 @@ EY India:
 - Deadline: 10:30
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=EY+India&details=Registration&dates=20230831T1030/20230831T1030)
-
-```md
-DXC:
-- Tier: Not Mentioned
-- Offer: FTE
-- Deadline: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=DXC&details=Registration&dates=20230831T0900/20230831T0900)
 
 ---
 
