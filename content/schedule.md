@@ -113,6 +113,14 @@ Observe.ai:
 #### Register
 
 ```md
+Rattle:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: EOD
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rattle&details=Registration&dates=20231202T0000/20231202T0000)
+
+```md
 Triomics:
 - Tier: Not Mentioned
 - Offer: Internship
@@ -1041,13 +1049,6 @@ IBM Consulting:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IBM+Consulting&details=Interview+for+the+company&dates=20231027T0900/20231027T0900)
 
-```md
-EY India:
-- Process: Offline
-- Time: 08:30
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=EY+India&details=Interview+for+the+company&dates=20231027T0830/20231027T0830)
-
 ---
 
 ### 26-10-2023, Thursday
@@ -1464,19 +1465,6 @@ Confluent:
 - Time: Not Mentioned
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Confluent&details=Interview+for+the+company&dates=20231009T0000/20231009T0000)
-
----
-
-### 08-10-2023, Sunday
-
-#### Test
-
-```md
-EY India:
-- Test Mode: Online
-- Test Time: 19:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=EY+India&details=Online+Assessment&dates=20231008T1900/20231008T1900)
 
 ---
 
@@ -2208,20 +2196,6 @@ Bain Capability:
 ---
 
 ## August, 2023
-
-### 31-08-2023, Thursday
-
-#### Register
-
-```md
-EY India:
-- Tier: Not Mentioned
-- Offer: Not Mentioned
-- Deadline: 10:30
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=EY+India&details=Registration&dates=20230831T1030/20230831T1030)
-
----
 
 ### 08-08-2023, Tuesday
 
