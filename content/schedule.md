@@ -110,6 +110,16 @@ Observe.ai:
 
 ### 03-12-2023, Sunday
 
+#### Register
+
+```md
+Target:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: EOD
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Target&details=Registration&dates=20231203T0000/20231203T0000)
+
 #### Test
 
 ```md
@@ -162,14 +172,6 @@ Victoria Secrete:
 - Deadline: 10:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Victoria+Secrete&details=Registration&dates=20231201T1000/20231201T1000)
-
-```md
-Target:
-- Tier: Not Mentioned
-- Offer: Internship
-- Deadline: EOD
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Target&details=Registration&dates=20231201T0000/20231201T0000)
 
 ---
 
