@@ -77,6 +77,40 @@ Akami Technologies:
 
 ### 05-12-2023, Tuesday
 
+#### Register
+
+```md
+Biocliq AI:
+- Tier: Not Mentioned
+- Offer: Internship, PPO
+- Deadline: EOD
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Biocliq+AI&details=Registration&dates=20231205T0000/20231205T0000)
+
+```md
+Flatworld:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatworld&details=Registration&dates=20231205T0900/20231205T0900)
+
+```md
+MatreComm Tech.:
+- Tier: Not Mentioned
+- Offer: Internship, PPO
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=MatreComm+Tech.&details=Registration&dates=20231205T0900/20231205T0900)
+
+```md
+Congo:
+- Tier: Not Mentioned
+- Offer: FTE, Internship
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Congo&details=Registration&dates=20231205T0900/20231205T0900)
+
 #### Test
 
 ```md
@@ -89,9 +123,9 @@ Target:
 ```md
 Akami Technologies:
 - Test Mode: Offline
-- Test Time: Not Mentioned
+- Test Time: 21:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Akami+Technologies&details=Online+Assessment&dates=20231205T0000/20231205T0000)
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Akami+Technologies&details=Online+Assessment&dates=20231205T2100/20231205T2100)
 
 ---
 
@@ -2033,15 +2067,6 @@ Eli Lilly:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eli+Lilly&details=Online+Assessment&dates=20230914T1000/20230914T1000)
 
-#### Interview
-
-```md
-Bain Capability:
-- Process: Online
-- Time: 09:30
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bain+Capability&details=Interview+for+the+company&dates=20230914T0930/20230914T0930)
-
 ---
 
 ### 13-09-2023, Wednesday
@@ -2055,15 +2080,6 @@ Thorogood:
 - Deadline: 09:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Thorogood&details=Registration&dates=20230913T0900/20230913T0900)
-
-#### Interview
-
-```md
-Trueminds:
-- Process: Offline
-- Time: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Trueminds&details=Interview+for+the+company&dates=20230913T0900/20230913T0900)
 
 ---
 
@@ -2087,15 +2103,6 @@ Eli Lilly:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eli+Lilly&details=Registration&dates=20230912T0900/20230912T0900)
 
-#### Interview
-
-```md
-Societe Generale:
-- Process: Offline
-- Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Societe+Generale&details=Interview+for+the+company&dates=20230912T0000/20230912T0000)
-
 ---
 
 ### 10-09-2023, Sunday
@@ -2108,26 +2115,6 @@ IBM:
 - Test Time: 10:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IBM&details=Online+Assessment&dates=20230910T1000/20230910T1000)
-
-```md
-Trueminds:
-- Test Mode: Online
-- Test Time: 17:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Trueminds&details=Online+Assessment&dates=20230910T1700/20230910T1700)
-
----
-
-### 09-09-2023, Saturday
-
-#### Test
-
-```md
-Bain Capability:
-- Test Mode: Online
-- Test Time: 12:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bain+Capability&details=Online+Assessment&dates=20230909T1200/20230909T1200)
 
 ---
 
@@ -2158,69 +2145,5 @@ IBM:
 - Deadline: 09:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IBM&details=Registration&dates=20230907T0900/20230907T0900)
-
----
-
-### 06-09-2023, Wednesday
-
-#### Test
-
-```md
-Societe Generale:
-- Test Mode: Online
-- Test Time: 18:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Societe+Generale&details=Online+Assessment&dates=20230906T1800/20230906T1800)
-
----
-
-### 05-09-2023, Tuesday
-
-#### Register
-
-```md
-Societe Generale:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 17:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Societe+Generale&details=Registration&dates=20230905T1700/20230905T1700)
-
-```md
-Trueminds:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Trueminds&details=Registration&dates=20230905T0900/20230905T0900)
-
----
-
-### 03-09-2023, Sunday
-
-#### Register
-
-```md
-Bain Capability:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: EOD
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bain+Capability&details=Registration&dates=20230903T0000/20230903T0000)
-
----
-
-## August, 2023
-
-### 08-08-2023, Tuesday
-
-#### Test
-
-```md
-PWC:
-- Test Mode: Offline
-- Test Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=PWC&details=Online+Assessment&dates=20230808T0000/20230808T0000)
 
 ---
