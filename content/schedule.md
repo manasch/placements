@@ -27,6 +27,41 @@ Consoilio LLC:
 
 ---
 
+### 14-12-2023, Thursday
+
+#### Test
+
+```md
+Nextuple:
+- Test Mode: Offline
+- Test Time: 12:30
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nextuple&details=Online+Assessment&dates=20231214T1230/20231214T1230)
+
+#### Interview
+
+```md
+Nextuple:
+- Process: Offline
+- Time: 10:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nextuple&details=Interview+for+the+company&dates=20231214T1000/20231214T1000)
+
+---
+
+### 13-12-2023, Wednesday
+
+#### Interview
+
+```md
+Oracle PDO:
+- Process: Offline
+- Time: Not Mentioned
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oracle+PDO&details=Interview+for+the+company&dates=20231213T0000/20231213T0000)
+
+---
+
 ### 12-12-2023, Tuesday
 
 #### Test
@@ -63,6 +98,41 @@ Target:
 ---
 
 ### 07-12-2023, Thursday
+
+#### Register
+
+```md
+Oracle PDO:
+- Tier: Not Mentioned
+- Offer: FTE
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oracle+PDO&details=Registration&dates=20231207T0900/20231207T0900)
+
+```md
+JAR APP:
+- Tier: Not Mentioned
+- Offer: FTE, Internship
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=JAR+APP&details=Registration&dates=20231207T0900/20231207T0900)
+
+```md
+Metric:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 09:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Metric&details=Registration&dates=20231207T0900/20231207T0900)
+
+#### Test
+
+```md
+Oracle PDO:
+- Test Mode: Online
+- Test Time: 19:00
+```
+[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oracle+PDO&details=Online+Assessment&dates=20231207T1900/20231207T1900)
 
 #### Interview
 
@@ -1795,13 +1865,6 @@ Broadridge:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Broadridge&details=Interview+for+the+company&dates=20230925T0900/20230925T0900)
 
-```md
-Arup India Pvt. Ltd.:
-- Process: Offline
-- Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arup+India+Pvt.+Ltd.&details=Interview+for+the+company&dates=20230925T0000/20230925T0000)
-
 ---
 
 ### 23-09-2023, Saturday
@@ -1867,15 +1930,6 @@ SAP Labs:
 - Deadline: 09:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SAP+Labs&details=Registration&dates=20230921T0900/20230921T0900)
-
-#### Test
-
-```md
-Arup India Pvt. Ltd.:
-- Test Mode: Offline
-- Test Time: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arup+India+Pvt.+Ltd.&details=Online+Assessment&dates=20230921T0900/20230921T0900)
 
 #### Interview
 
@@ -2021,13 +2075,6 @@ Eli Lilly:
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eli+Lilly&details=Interview+for+the+company&dates=20230915T0900/20230915T0900)
 
-```md
-IBM:
-- Process: Offline
-- Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IBM&details=Interview+for+the+company&dates=20230915T0000/20230915T0000)
-
 ---
 
 ### 14-09-2023, Thursday
@@ -2102,48 +2149,5 @@ Eli Lilly:
 - Deadline: 09:00
 ```
 [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eli+Lilly&details=Registration&dates=20230912T0900/20230912T0900)
-
----
-
-### 10-09-2023, Sunday
-
-#### Test
-
-```md
-IBM:
-- Test Mode: Online
-- Test Time: 10:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IBM&details=Online+Assessment&dates=20230910T1000/20230910T1000)
-
----
-
-### 07-09-2023, Thursday
-
-#### Register
-
-```md
-Arup India Pvt. Ltd.:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: EOD
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Arup+India+Pvt.+Ltd.&details=Registration&dates=20230907T0000/20230907T0000)
-
-```md
-Tech Mahindra:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: EOD
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tech+Mahindra&details=Registration&dates=20230907T0000/20230907T0000)
-
-```md
-IBM:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IBM&details=Registration&dates=20230907T0900/20230907T0900)
 
 ---
