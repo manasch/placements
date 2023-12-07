@@ -97,6 +97,20 @@ Target:
 
 ---
 
+### 08-12-2023, Friday
+
+#### Register
+
+```md
+IQVUA:
+- Tier: Not Mentioned
+- Offer: Internship, PPO
+- Deadline: 09:00
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IQVUA&details=Registration&dates=20231208T0900/20231208T0900)
+
+---
+
 ### 07-12-2023, Thursday
 
 #### Register
@@ -107,7 +121,7 @@ Oracle PDO:
 - Offer: FTE
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oracle+PDO&details=Registration&dates=20231207T0900/20231207T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oracle+PDO&details=Registration&dates=20231207T0900/20231207T0900)
 
 ```md
 JAR APP:
@@ -115,7 +129,7 @@ JAR APP:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=JAR+APP&details=Registration&dates=20231207T0900/20231207T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=JAR+APP&details=Registration&dates=20231207T0900/20231207T0900)
 
 ```md
 Metric:
@@ -123,7 +137,7 @@ Metric:
 - Offer: Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Metric&details=Registration&dates=20231207T0900/20231207T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Metric&details=Registration&dates=20231207T0900/20231207T0900)
 
 #### Test
 
@@ -155,7 +169,7 @@ Biocliq AI:
 - Offer: Internship, PPO
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Biocliq+AI&details=Registration&dates=20231205T0000/20231205T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Biocliq+AI&details=Registration&dates=20231205T0000/20231205T0000)
 
 ```md
 Flatworld:
@@ -163,7 +177,7 @@ Flatworld:
 - Offer: Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatworld&details=Registration&dates=20231205T0900/20231205T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Flatworld&details=Registration&dates=20231205T0900/20231205T0900)
 
 ```md
 MatreComm Tech.:
@@ -171,7 +185,7 @@ MatreComm Tech.:
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=MatreComm+Tech.&details=Registration&dates=20231205T0900/20231205T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=MatreComm+Tech.&details=Registration&dates=20231205T0900/20231205T0900)
 
 ```md
 Congo:
@@ -179,7 +193,7 @@ Congo:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Congo&details=Registration&dates=20231205T0900/20231205T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Congo&details=Registration&dates=20231205T0900/20231205T0900)
 
 #### Test
 
@@ -222,7 +236,7 @@ Target:
 - Offer: Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Target&details=Registration&dates=20231203T0000/20231203T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Target&details=Registration&dates=20231203T0000/20231203T0000)
 
 #### Test
 
@@ -245,7 +259,7 @@ Rattle:
 - Offer: Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rattle&details=Registration&dates=20231202T0000/20231202T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rattle&details=Registration&dates=20231202T0000/20231202T0000)
 
 ```md
 Triomics:
@@ -253,7 +267,7 @@ Triomics:
 - Offer: Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Triomics&details=Registration&dates=20231202T0000/20231202T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Triomics&details=Registration&dates=20231202T0000/20231202T0000)
 
 ---
 
@@ -267,7 +281,7 @@ Publicis Sapient:
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Publicis+Sapient&details=Registration&dates=20231201T0000/20231201T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Publicis+Sapient&details=Registration&dates=20231201T0000/20231201T0000)
 
 ```md
 Victoria Secrete:
@@ -275,7 +289,7 @@ Victoria Secrete:
 - Offer: Internship
 - Deadline: 10:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Victoria+Secrete&details=Registration&dates=20231201T1000/20231201T1000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Victoria+Secrete&details=Registration&dates=20231201T1000/20231201T1000)
 
 ---
 
@@ -291,7 +305,7 @@ Philips:
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Philips&details=Registration&dates=20231130T0900/20231130T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Philips&details=Registration&dates=20231130T0900/20231130T0900)
 
 ```md
 Observe.ai:
@@ -299,7 +313,7 @@ Observe.ai:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Observe.ai&details=Registration&dates=20231130T0900/20231130T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Observe.ai&details=Registration&dates=20231130T0900/20231130T0900)
 
 ```md
 Newstreet Tech:
@@ -307,7 +321,7 @@ Newstreet Tech:
 - Offer: Internship, PPO
 - Deadline: 09:30
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Newstreet+Tech&details=Registration&dates=20231130T0930/20231130T0930)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Newstreet+Tech&details=Registration&dates=20231130T0930/20231130T0930)
 
 ```md
 Microland:
@@ -315,7 +329,7 @@ Microland:
 - Offer: Not Mentioned
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Microland&details=Registration&dates=20231130T0900/20231130T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Microland&details=Registration&dates=20231130T0900/20231130T0900)
 
 #### Test
 
@@ -338,7 +352,7 @@ Aptos India:
 - Offer: Internship, PPO
 - Deadline: 10:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aptos+India&details=Registration&dates=20231129T1000/20231129T1000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aptos+India&details=Registration&dates=20231129T1000/20231129T1000)
 
 ---
 
@@ -352,7 +366,7 @@ Akami Technologies:
 - Offer: FTE, Internship
 - Deadline: 09:30
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Akami+Technologies&details=Registration&dates=20231128T0930/20231128T0930)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Akami+Technologies&details=Registration&dates=20231128T0930/20231128T0930)
 
 #### Test
 
@@ -391,7 +405,7 @@ Astr Defence:
 - Offer: Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Astr+Defence&details=Registration&dates=20231127T0000/20231127T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Astr+Defence&details=Registration&dates=20231127T0000/20231127T0000)
 
 #### Test
 
@@ -430,7 +444,7 @@ F5 Innovation:
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=F5+Innovation&details=Registration&dates=20231125T0000/20231125T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=F5+Innovation&details=Registration&dates=20231125T0000/20231125T0000)
 
 #### Interview
 
@@ -453,7 +467,7 @@ Reltio:
 - Offer: FTE
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reltio&details=Registration&dates=20231123T0900/20231123T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Reltio&details=Registration&dates=20231123T0900/20231123T0900)
 
 #### Interview
 
@@ -476,7 +490,7 @@ Quicken Inc.:
 - Offer: Internship
 - Deadline: 11:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quicken+Inc.&details=Registration&dates=20231122T1100/20231122T1100)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Quicken+Inc.&details=Registration&dates=20231122T1100/20231122T1100)
 
 ```md
 phData Solutions:
@@ -484,7 +498,7 @@ phData Solutions:
 - Offer: FTE
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=phData+Solutions&details=Registration&dates=20231122T0900/20231122T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=phData+Solutions&details=Registration&dates=20231122T0900/20231122T0900)
 
 #### Interview
 
@@ -507,7 +521,7 @@ Oracle:
 - Offer: Not Mentioned
 - Deadline: 08:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oracle&details=Registration&dates=20231121T0800/20231121T0800)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Oracle&details=Registration&dates=20231121T0800/20231121T0800)
 
 #### Test
 
@@ -559,7 +573,7 @@ Consoilio LLC:
 - Offer: FTE
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Consoilio+LLC&details=Registration&dates=20231118T0000/20231118T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Consoilio+LLC&details=Registration&dates=20231118T0000/20231118T0000)
 
 ```md
 Q2:
@@ -567,7 +581,7 @@ Q2:
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Q2&details=Registration&dates=20231118T0900/20231118T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Q2&details=Registration&dates=20231118T0900/20231118T0900)
 
 ```md
 Digicert:
@@ -575,7 +589,7 @@ Digicert:
 - Offer: Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Digicert&details=Registration&dates=20231118T0900/20231118T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Digicert&details=Registration&dates=20231118T0900/20231118T0900)
 
 ```md
 Netradyne Tech:
@@ -583,7 +597,7 @@ Netradyne Tech:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Netradyne+Tech&details=Registration&dates=20231118T0900/20231118T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Netradyne+Tech&details=Registration&dates=20231118T0900/20231118T0900)
 
 ---
 
@@ -597,7 +611,7 @@ Groww:
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Groww&details=Registration&dates=20231117T0900/20231117T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Groww&details=Registration&dates=20231117T0900/20231117T0900)
 
 #### Test
 
@@ -620,7 +634,7 @@ Udaan.com:
 - Offer: Internship, PPO
 - Deadline: 08:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Udaan.com&details=Registration&dates=20231116T0800/20231116T0800)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Udaan.com&details=Registration&dates=20231116T0800/20231116T0800)
 
 #### Test
 
@@ -672,7 +686,7 @@ IDFC First Bank:
 - Offer: FTE
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IDFC+First+Bank&details=Registration&dates=20231114T0900/20231114T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IDFC+First+Bank&details=Registration&dates=20231114T0900/20231114T0900)
 
 ---
 
@@ -686,7 +700,7 @@ Walmart:
 - Offer: Internship
 - Deadline: 22:30
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Walmart&details=Registration&dates=20231113T2230/20231113T2230)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Walmart&details=Registration&dates=20231113T2230/20231113T2230)
 
 #### Test
 
@@ -725,7 +739,7 @@ Cubic Logics:
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cubic+Logics&details=Registration&dates=20231111T0000/20231111T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cubic+Logics&details=Registration&dates=20231111T0000/20231111T0000)
 
 ```md
 JLL Technology:
@@ -733,7 +747,7 @@ JLL Technology:
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=JLL+Technology&details=Registration&dates=20231111T0000/20231111T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=JLL+Technology&details=Registration&dates=20231111T0000/20231111T0000)
 
 #### Test
 
@@ -756,7 +770,7 @@ Alcon India:
 - Offer: Internship
 - Deadline: 09:30
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Alcon+India&details=Registration&dates=20231110T0930/20231110T0930)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Alcon+India&details=Registration&dates=20231110T0930/20231110T0930)
 
 ---
 
@@ -770,7 +784,7 @@ GSK GCC:
 - Offer: Internship
 - Deadline: 09:30
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=GSK+GCC&details=Registration&dates=20231109T0930/20231109T0930)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=GSK+GCC&details=Registration&dates=20231109T0930/20231109T0930)
 
 ```md
 Drongo AI:
@@ -778,7 +792,7 @@ Drongo AI:
 - Offer: Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Drongo+AI&details=Registration&dates=20231109T0000/20231109T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Drongo+AI&details=Registration&dates=20231109T0000/20231109T0000)
 
 #### Test
 
@@ -801,7 +815,7 @@ D.E. Shaw:
 - Offer: FTE, Internship
 - Deadline: 14:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=D.E.+Shaw&details=Registration&dates=20231108T1400/20231108T1400)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=D.E.+Shaw&details=Registration&dates=20231108T1400/20231108T1400)
 
 ```md
 BNP Paribas:
@@ -809,7 +823,7 @@ BNP Paribas:
 - Offer: Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=BNP+Paribas&details=Registration&dates=20231108T0900/20231108T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=BNP+Paribas&details=Registration&dates=20231108T0900/20231108T0900)
 
 ```md
 Gyansys:
@@ -817,7 +831,7 @@ Gyansys:
 - Offer: FTE, Internship
 - Deadline: 10:30
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gyansys&details=Registration&dates=20231108T1030/20231108T1030)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Gyansys&details=Registration&dates=20231108T1030/20231108T1030)
 
 #### Test
 
@@ -856,7 +870,7 @@ MIQ Digital:
 - Offer: Internship, PPO
 - Deadline: 19:30
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=MIQ+Digital&details=Registration&dates=20231107T1930/20231107T1930)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=MIQ+Digital&details=Registration&dates=20231107T1930/20231107T1930)
 
 #### Test
 
@@ -922,7 +936,7 @@ Shadowfax:
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shadowfax&details=Registration&dates=20231105T0000/20231105T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Shadowfax&details=Registration&dates=20231105T0000/20231105T0000)
 
 ---
 
@@ -936,7 +950,7 @@ Keysight:
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Keysight&details=Registration&dates=20231104T0900/20231104T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Keysight&details=Registration&dates=20231104T0900/20231104T0900)
 
 ```md
 Celstream:
@@ -944,7 +958,7 @@ Celstream:
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Celstream&details=Registration&dates=20231104T0000/20231104T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Celstream&details=Registration&dates=20231104T0000/20231104T0000)
 
 #### Test
 
@@ -1018,7 +1032,7 @@ Inflobox:
 - Offer: Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Inflobox&details=Registration&dates=20231101T0000/20231101T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Inflobox&details=Registration&dates=20231101T0000/20231101T0000)
 
 ```md
 Deloitte India Consulting:
@@ -1026,7 +1040,7 @@ Deloitte India Consulting:
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Deloitte+India+Consulting&details=Registration&dates=20231101T0900/20231101T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Deloitte+India+Consulting&details=Registration&dates=20231101T0900/20231101T0900)
 
 ```md
 Aurigo:
@@ -1034,7 +1048,7 @@ Aurigo:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aurigo&details=Registration&dates=20231101T0900/20231101T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aurigo&details=Registration&dates=20231101T0900/20231101T0900)
 
 ```md
 Garrett Motion:
@@ -1042,7 +1056,7 @@ Garrett Motion:
 - Offer: Internship
 - Deadline: 10:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Garrett+Motion&details=Registration&dates=20231101T1000/20231101T1000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Garrett+Motion&details=Registration&dates=20231101T1000/20231101T1000)
 
 #### Test
 
@@ -1067,7 +1081,7 @@ Microchip (Again):
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Microchip+%28Again%29&details=Registration&dates=20231031T0000/20231031T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Microchip+%28Again%29&details=Registration&dates=20231031T0000/20231031T0000)
 
 ```md
 Cyware Labs:
@@ -1075,7 +1089,7 @@ Cyware Labs:
 - Offer: Internship, PPO
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cyware+Labs&details=Registration&dates=20231031T0000/20231031T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cyware+Labs&details=Registration&dates=20231031T0000/20231031T0000)
 
 #### Interview
 
@@ -1134,7 +1148,7 @@ Conde Nast:
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Conde+Nast&details=Registration&dates=20231029T0000/20231029T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Conde+Nast&details=Registration&dates=20231029T0000/20231029T0000)
 
 ---
 
@@ -1148,7 +1162,7 @@ BlueYonder:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=BlueYonder&details=Registration&dates=20231027T0900/20231027T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=BlueYonder&details=Registration&dates=20231027T0900/20231027T0900)
 
 #### Test
 
@@ -1180,7 +1194,7 @@ Endor Labs:
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Endor+Labs&details=Registration&dates=20231026T0900/20231026T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Endor+Labs&details=Registration&dates=20231026T0900/20231026T0900)
 
 ```md
 Berkadia:
@@ -1188,7 +1202,7 @@ Berkadia:
 - Offer: FTE
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Berkadia&details=Registration&dates=20231026T0900/20231026T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Berkadia&details=Registration&dates=20231026T0900/20231026T0900)
 
 ```md
 Havells India:
@@ -1196,7 +1210,7 @@ Havells India:
 - Offer: FTE, Internship
 - Deadline: 10:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Havells+India&details=Registration&dates=20231026T1000/20231026T1000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Havells+India&details=Registration&dates=20231026T1000/20231026T1000)
 
 #### Test
 
@@ -1226,7 +1240,7 @@ Mercedes-Benz R&D:
 - Offer: FTE, Internship
 - Deadline: 10:30
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercedes-Benz+R%26D&details=Registration&dates=20231024T1030/20231024T1030)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Mercedes-Benz+R%26D&details=Registration&dates=20231024T1030/20231024T1030)
 
 ```md
 AT&T:
@@ -1234,7 +1248,7 @@ AT&T:
 - Offer: Internship, PPO
 - Deadline: 10:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AT%26T&details=Registration&dates=20231024T1000/20231024T1000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AT%26T&details=Registration&dates=20231024T1000/20231024T1000)
 
 ---
 
@@ -1248,7 +1262,7 @@ C-DOT:
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=C-DOT&details=Registration&dates=20231022T0000/20231022T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=C-DOT&details=Registration&dates=20231022T0000/20231022T0000)
 
 ---
 
@@ -1262,7 +1276,7 @@ Intel:
 - Offer: Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Intel&details=Registration&dates=20231020T0900/20231020T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Intel&details=Registration&dates=20231020T0900/20231020T0900)
 
 #### Test
 
@@ -1301,7 +1315,7 @@ Nextuple:
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nextuple&details=Registration&dates=20231019T0000/20231019T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nextuple&details=Registration&dates=20231019T0000/20231019T0000)
 
 ```md
 CRK Gida:
@@ -1309,7 +1323,7 @@ CRK Gida:
 - Offer: FTE
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=CRK+Gida&details=Registration&dates=20231019T0000/20231019T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=CRK+Gida&details=Registration&dates=20231019T0000/20231019T0000)
 
 ```md
 Zebra Tech:
@@ -1317,7 +1331,7 @@ Zebra Tech:
 - Offer: Internship
 - Deadline: 08:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zebra+Tech&details=Registration&dates=20231019T0800/20231019T0800)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zebra+Tech&details=Registration&dates=20231019T0800/20231019T0800)
 
 ---
 
@@ -1367,7 +1381,7 @@ AstraZeneca:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AstraZeneca&details=Registration&dates=20231017T0900/20231017T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AstraZeneca&details=Registration&dates=20231017T0900/20231017T0900)
 
 #### Test
 
@@ -1399,7 +1413,7 @@ IDFY:
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IDFY&details=Registration&dates=20231016T0000/20231016T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IDFY&details=Registration&dates=20231016T0000/20231016T0000)
 
 #### Test
 
@@ -1438,7 +1452,7 @@ Samsung Research Institute:
 - Offer: Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Samsung+Research+Institute&details=Registration&dates=20231014T0000/20231014T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Samsung+Research+Institute&details=Registration&dates=20231014T0000/20231014T0000)
 
 ```md
 Microchip:
@@ -1446,7 +1460,7 @@ Microchip:
 - Offer: FTE, Internship
 - Deadline: 16:30
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Microchip&details=Registration&dates=20231014T1630/20231014T1630)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Microchip&details=Registration&dates=20231014T1630/20231014T1630)
 
 #### Test
 
@@ -1482,7 +1496,7 @@ Aurva.io:
 - Offer: FTE, Internship
 - Deadline: 10:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aurva.io&details=Registration&dates=20231012T1000/20231012T1000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aurva.io&details=Registration&dates=20231012T1000/20231012T1000)
 
 ```md
 Perfios:
@@ -1490,7 +1504,7 @@ Perfios:
 - Offer: FTE, Internship
 - Deadline: 10:30
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Perfios&details=Registration&dates=20231012T1030/20231012T1030)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Perfios&details=Registration&dates=20231012T1030/20231012T1030)
 
 #### Interview
 
@@ -1513,7 +1527,7 @@ Juniper Networks:
 - Offer: Internship, PPO
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Juniper+Networks&details=Registration&dates=20231011T0000/20231011T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Juniper+Networks&details=Registration&dates=20231011T0000/20231011T0000)
 
 ```md
 Collins Aerospace:
@@ -1521,7 +1535,7 @@ Collins Aerospace:
 - Offer: FTE, Internship
 - Deadline: 10:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Collins+Aerospace&details=Registration&dates=20231011T1000/20231011T1000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Collins+Aerospace&details=Registration&dates=20231011T1000/20231011T1000)
 
 #### Interview
 
@@ -1557,7 +1571,7 @@ Zynga:
 - Offer: Internship
 - Deadline: 17:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zynga&details=Registration&dates=20231009T1700/20231009T1700)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Zynga&details=Registration&dates=20231009T1700/20231009T1700)
 
 ```md
 Apple:
@@ -1565,25 +1579,7 @@ Apple:
 - Offer: Internship, PPO
 - Deadline: 13:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Apple&details=Registration&dates=20231009T1300/20231009T1300)
-
-#### Test
-
-```md
-Confluent:
-- Test Mode: Offline
-- Test Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Confluent&details=Online+Assessment&dates=20231009T0000/20231009T0000)
-
-#### Interview
-
-```md
-Confluent:
-- Process: Offline
-- Time: Not Mentioned
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Confluent&details=Interview+for+the+company&dates=20231009T0000/20231009T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Apple&details=Registration&dates=20231009T1300/20231009T1300)
 
 ---
 
@@ -1626,7 +1622,7 @@ IBM Consulting:
 - Offer: FTE, Internship
 - Deadline: 11:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IBM+Consulting&details=Registration&dates=20231006T1100/20231006T1100)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IBM+Consulting&details=Registration&dates=20231006T1100/20231006T1100)
 
 #### Test
 
@@ -1658,7 +1654,7 @@ Samsung Semiconductors:
 - Offer: Not Mentioned
 - Deadline: 08:30
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Samsung+Semiconductors&details=Registration&dates=20231005T0830/20231005T0830)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Samsung+Semiconductors&details=Registration&dates=20231005T0830/20231005T0830)
 
 ```md
 Infibeam:
@@ -1666,7 +1662,7 @@ Infibeam:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Infibeam&details=Registration&dates=20231005T0900/20231005T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Infibeam&details=Registration&dates=20231005T0900/20231005T0900)
 
 ```md
 Aveva:
@@ -1674,7 +1670,7 @@ Aveva:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aveva&details=Registration&dates=20231005T0900/20231005T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Aveva&details=Registration&dates=20231005T0900/20231005T0900)
 
 ```md
 Tejas Networks:
@@ -1682,7 +1678,7 @@ Tejas Networks:
 - Offer: FTE, Internship
 - Deadline: 10:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tejas+Networks&details=Registration&dates=20231005T1000/20231005T1000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Tejas+Networks&details=Registration&dates=20231005T1000/20231005T1000)
 
 #### Test
 
@@ -1721,7 +1717,7 @@ Hiver:
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hiver&details=Registration&dates=20231004T0000/20231004T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Hiver&details=Registration&dates=20231004T0000/20231004T0000)
 
 #### Test
 
@@ -1744,7 +1740,7 @@ Pratt & Whitney:
 - Offer: FTE, Internship
 - Deadline: 10:30
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pratt+%26+Whitney&details=Registration&dates=20231003T1030/20231003T1030)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pratt+%26+Whitney&details=Registration&dates=20231003T1030/20231003T1030)
 
 ---
 
@@ -1773,21 +1769,7 @@ Siemens:
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Siemens&details=Registration&dates=20230930T0000/20230930T0000)
-
----
-
-### 28-09-2023, Thursday
-
-#### Register
-
-```md
-Confluent:
-- Tier: Not Mentioned
-- Offer: Internship, PPO
-- Deadline: EOD
-```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Confluent&details=Registration&dates=20230928T0000/20230928T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Siemens&details=Registration&dates=20230930T0000/20230930T0000)
 
 ---
 
@@ -1801,7 +1783,7 @@ Deltax:
 - Offer: FTE
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Deltax&details=Registration&dates=20230927T0900/20230927T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Deltax&details=Registration&dates=20230927T0900/20230927T0900)
 
 #### Interview
 
@@ -1831,7 +1813,7 @@ KPMG:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=KPMG&details=Registration&dates=20230926T0900/20230926T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=KPMG&details=Registration&dates=20230926T0900/20230926T0900)
 
 ---
 
@@ -1845,7 +1827,7 @@ Paypal:
 - Offer: FTE, Internship
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Paypal&details=Registration&dates=20230925T0000/20230925T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Paypal&details=Registration&dates=20230925T0000/20230925T0000)
 
 #### Test
 
@@ -1890,7 +1872,7 @@ ARM:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=ARM&details=Registration&dates=20230922T0900/20230922T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=ARM&details=Registration&dates=20230922T0900/20230922T0900)
 
 #### Interview
 
@@ -1913,7 +1895,7 @@ SecPod:
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SecPod&details=Registration&dates=20230921T0900/20230921T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SecPod&details=Registration&dates=20230921T0900/20230921T0900)
 
 ```md
 Dover:
@@ -1921,7 +1903,7 @@ Dover:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dover&details=Registration&dates=20230921T0900/20230921T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dover&details=Registration&dates=20230921T0900/20230921T0900)
 
 ```md
 SAP Labs:
@@ -1929,7 +1911,7 @@ SAP Labs:
 - Offer: FTE
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SAP+Labs&details=Registration&dates=20230921T0900/20230921T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SAP+Labs&details=Registration&dates=20230921T0900/20230921T0900)
 
 #### Interview
 
@@ -1987,7 +1969,7 @@ Subex:
 - Offer: Internship, PPO
 - Deadline: EOD
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Subex&details=Registration&dates=20230917T0000/20230917T0000)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Subex&details=Registration&dates=20230917T0000/20230917T0000)
 
 #### Test
 
@@ -2010,7 +1992,7 @@ Adobe:
 - Offer: Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Adobe&details=Registration&dates=20230916T0900/20230916T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Adobe&details=Registration&dates=20230916T0900/20230916T0900)
 
 ```md
 British Telecom:
@@ -2018,7 +2000,7 @@ British Telecom:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=British+Telecom&details=Registration&dates=20230916T0900/20230916T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=British+Telecom&details=Registration&dates=20230916T0900/20230916T0900)
 
 #### Test
 
@@ -2055,7 +2037,7 @@ Goldman Sachs:
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Goldman+Sachs&details=Registration&dates=20230915T0900/20230915T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Goldman+Sachs&details=Registration&dates=20230915T0900/20230915T0900)
 
 #### Test
 
@@ -2087,7 +2069,7 @@ Nvidia:
 - Offer: Internship
 - Deadline: 09:30
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nvidia&details=Registration&dates=20230914T0930/20230914T0930)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nvidia&details=Registration&dates=20230914T0930/20230914T0930)
 
 ```md
 Morgan Stanley:
@@ -2095,7 +2077,7 @@ Morgan Stanley:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Morgan+Stanley&details=Registration&dates=20230914T0900/20230914T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Morgan+Stanley&details=Registration&dates=20230914T0900/20230914T0900)
 
 ```md
 MakeMyTrip:
@@ -2103,7 +2085,7 @@ MakeMyTrip:
 - Offer: Internship, PPO
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=MakeMyTrip&details=Registration&dates=20230914T0900/20230914T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=MakeMyTrip&details=Registration&dates=20230914T0900/20230914T0900)
 
 #### Test
 
@@ -2126,7 +2108,7 @@ Thorogood:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Thorogood&details=Registration&dates=20230913T0900/20230913T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Thorogood&details=Registration&dates=20230913T0900/20230913T0900)
 
 ---
 
@@ -2140,7 +2122,7 @@ Broadridge:
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Broadridge&details=Registration&dates=20230912T0900/20230912T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Broadridge&details=Registration&dates=20230912T0900/20230912T0900)
 
 ```md
 Eli Lilly:
@@ -2148,6 +2130,6 @@ Eli Lilly:
 - Offer: FTE
 - Deadline: 09:00
 ```
-[Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eli+Lilly&details=Registration&dates=20230912T0900/20230912T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Eli+Lilly&details=Registration&dates=20230912T0900/20230912T0900)
 
 ---
