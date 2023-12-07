@@ -211,7 +211,7 @@ class Schedule:
                     push(f"- Offer: {', '.join(item.get('job_status')) if item.get('job_status') else 'Not Mentioned'}")
                     push(f"- Deadline: {item.get('register_time') if item.get('register_time') is not None else 'EOD'}")
                     push("```")
-                    push(f"[Add to Google Calendar]({google_event_link})")
+                    push(f"#### [Add to Google Calendar]({google_event_link})")
                     push("")
             
             test = v.get("test")
