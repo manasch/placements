@@ -212,6 +212,7 @@ class Schedule:
                     push(f"- Deadline: {item.get('register_time') if item.get('register_time') is not None else 'EOD'}")
                     push("```")
                     push(f"#### [Add to Google Calendar]({google_event_link})")
+                    o
                     push("")
             
             test = v.get("test")
@@ -230,7 +231,7 @@ class Schedule:
                     push(f"- Test Mode: {item.get('test_mode') if item.get('test_mode') is not None else 'Not Mentioned'}")
                     push(f"- Test Time: {item.get('test_time') if item.get('test_time') is not None else 'Not Mentioned'}")
                     push("```")
-                    push(f"[Add to Google Calendar]({google_event_link})")
+                    push(f"#### [Add to Google Calendar]({google_event_link})")
                     push("")
             
             interview = v.get("interview")
@@ -249,7 +250,7 @@ class Schedule:
                     push(f"- Process: {item.get('process') if item.get('process') is not None else 'Not Mentioned'}")
                     push(f"- Time: {item.get('interview_time') if item.get('interview_time') is not None else 'Not Mentioned'}")
                     push("```")
-                    push(f"[Add to Google Calendar]({google_event_link})")
+                    push(f"#### [Add to Google Calendar]({google_event_link})")
                     push("")
             
             push("---")
