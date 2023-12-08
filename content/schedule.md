@@ -27,6 +27,19 @@ Consoilio LLC:
 
 ---
 
+### 18-12-2023, Monday
+
+#### Test
+
+```md
+CMTI:
+- Test Mode: Not Mentioned
+- Test Time: Not Mentioned
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=CMTI&details=Online+Assessment&dates=20231218T0000/20231218T0000)
+
+---
+
 ### 14-12-2023, Thursday
 
 #### Test
@@ -127,9 +140,31 @@ Target:
 
 ---
 
+### 09-12-2023, Saturday
+
+#### Register
+
+```md
+Cubic Logics:
+- Tier: Not Mentioned
+- Offer: FTE, Internship
+- Deadline: 09:00
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Cubic+Logics&details=Registration&dates=20231209T0900/20231209T0900)
+
+---
+
 ### 08-12-2023, Friday
 
 #### Register
+
+```md
+AtkinsRealis:
+- Tier: Not Mentioned
+- Offer: FTE, Internship
+- Deadline: EOD
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AtkinsRealis&details=Registration&dates=20231208T0000/20231208T0000)
 
 ```md
 Cohesity:
@@ -154,6 +189,22 @@ IQVUA:
 - Deadline: 09:00
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IQVUA&details=Registration&dates=20231208T0900/20231208T0900)
+
+#### Test
+
+```md
+Conga:
+- Test Mode: Online
+- Test Time: 19:00
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Conga&details=Online+Assessment&dates=20231208T1900/20231208T1900)
+
+```md
+Newstreet Tech:
+- Test Mode: Online
+- Test Time: 20:00
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Newstreet+Tech&details=Online+Assessment&dates=20231208T2000/20231208T2000)
 
 ---
 
@@ -234,12 +285,12 @@ MatreComm Tech.:
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=MatreComm+Tech.&details=Registration&dates=20231205T0900/20231205T0900)
 
 ```md
-Congo:
+Conga:
 - Tier: Not Mentioned
 - Offer: FTE, Internship
 - Deadline: 09:00
 ```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Congo&details=Registration&dates=20231205T0900/20231205T0900)
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Conga&details=Registration&dates=20231205T0900/20231205T0900)
 
 #### Test
 
@@ -1950,15 +2001,6 @@ SAP Labs:
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SAP+Labs&details=Registration&dates=20230921T0900/20230921T0900)
 
-#### Interview
-
-```md
-Morgan Stanley:
-- Process: Offline
-- Time: 09:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Morgan+Stanley&details=Interview+for+the+company&dates=20230921T0900/20230921T0900)
-
 ---
 
 ### 20-09-2023, Wednesday
@@ -1971,15 +2013,6 @@ Nvidia:
 - Test Time: 19:30
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nvidia&details=Online+Assessment&dates=20230920T1930/20230920T1930)
-
-#### Interview
-
-```md
-Thorogood:
-- Process: Offline
-- Time: 09:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Thorogood&details=Interview+for+the+company&dates=20230920T0900/20230920T0900)
 
 ---
 
@@ -2007,15 +2040,6 @@ Subex:
 - Deadline: EOD
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Subex&details=Registration&dates=20230917T0000/20230917T0000)
-
-#### Test
-
-```md
-Morgan Stanley:
-- Test Mode: Online
-- Test Time: 11:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Morgan+Stanley&details=Online+Assessment&dates=20230917T1100/20230917T1100)
 
 ---
 
@@ -2048,20 +2072,6 @@ Goldman Sachs:
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Goldman+Sachs&details=Online+Assessment&dates=20230916T1000/20230916T1000)
 
-```md
-MakeMyTrip:
-- Test Mode: Online
-- Test Time: 11:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=MakeMyTrip&details=Online+Assessment&dates=20230916T1100/20230916T1100)
-
-```md
-Thorogood:
-- Test Mode: Online
-- Test Time: 17:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Thorogood&details=Online+Assessment&dates=20230916T1700/20230916T1700)
-
 ---
 
 ### 15-09-2023, Friday
@@ -2089,35 +2099,5 @@ Nvidia:
 - Deadline: 09:30
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nvidia&details=Registration&dates=20230914T0930/20230914T0930)
-
-```md
-Morgan Stanley:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Morgan+Stanley&details=Registration&dates=20230914T0900/20230914T0900)
-
-```md
-MakeMyTrip:
-- Tier: Not Mentioned
-- Offer: Internship, PPO
-- Deadline: 09:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=MakeMyTrip&details=Registration&dates=20230914T0900/20230914T0900)
-
----
-
-### 13-09-2023, Wednesday
-
-#### Register
-
-```md
-Thorogood:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Thorogood&details=Registration&dates=20230913T0900/20230913T0900)
 
 ---
