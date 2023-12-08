@@ -212,7 +212,6 @@ class Schedule:
                     push(f"- Deadline: {item.get('register_time') if item.get('register_time') is not None else 'EOD'}")
                     push("```")
                     push(f"#### [Add to Google Calendar]({google_event_link})")
-                    o
                     push("")
             
             test = v.get("test")
