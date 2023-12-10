@@ -106,6 +106,16 @@ F5 Innovation:
 
 ### 11-12-2023, Monday
 
+#### Register
+
+```md
+MediBuddy:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 10:00
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=MediBuddy&details=Registration&dates=20231211T1000/20231211T1000)
+
 #### Test
 
 ```md
@@ -1204,13 +1214,6 @@ Juniper Networks:
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Juniper+Networks&details=Interview+for+the+company&dates=20231031T0900/20231031T0900)
 
-```md
-Nvidia:
-- Process: Offline
-- Time: 09:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nvidia&details=Interview+for+the+company&dates=20231031T0900/20231031T0900)
-
 ---
 
 ### 30-10-2023, Monday
@@ -2003,19 +2006,6 @@ SAP Labs:
 
 ---
 
-### 20-09-2023, Wednesday
-
-#### Test
-
-```md
-Nvidia:
-- Test Mode: Online
-- Test Time: 19:30
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nvidia&details=Online+Assessment&dates=20230920T1930/20230920T1930)
-
----
-
 ### 19-09-2023, Tuesday
 
 #### Test
@@ -2085,19 +2075,5 @@ Goldman Sachs:
 - Deadline: 09:00
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Goldman+Sachs&details=Registration&dates=20230915T0900/20230915T0900)
-
----
-
-### 14-09-2023, Thursday
-
-#### Register
-
-```md
-Nvidia:
-- Tier: Not Mentioned
-- Offer: Internship
-- Deadline: 09:30
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nvidia&details=Registration&dates=20230914T0930/20230914T0930)
 
 ---
