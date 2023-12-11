@@ -84,6 +84,16 @@ Oracle PDO:
 
 ### 12-12-2023, Tuesday
 
+#### Register
+
+```md
+Palo Alto:
+- Tier: Not Mentioned
+- Offer: FTE, Internship
+- Deadline: 09:00
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Palo+Alto&details=Registration&dates=20231212T0900/20231212T0900)
+
 #### Test
 
 ```md
@@ -1894,13 +1904,6 @@ Dover:
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Dover&details=Interview+for+the+company&dates=20230927T1000/20230927T1000)
 
-```md
-Goldman Sachs:
-- Process: Offline
-- Time: Not Mentioned
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Goldman+Sachs&details=Interview+for+the+company&dates=20230927T0000/20230927T0000)
-
 ---
 
 ### 26-09-2023, Tuesday
@@ -2052,28 +2055,5 @@ British Telecom:
 - Deadline: 09:00
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=British+Telecom&details=Registration&dates=20230916T0900/20230916T0900)
-
-#### Test
-
-```md
-Goldman Sachs:
-- Test Mode: Online
-- Test Time: 10:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Goldman+Sachs&details=Online+Assessment&dates=20230916T1000/20230916T1000)
-
----
-
-### 15-09-2023, Friday
-
-#### Register
-
-```md
-Goldman Sachs:
-- Tier: Not Mentioned
-- Offer: Internship, PPO
-- Deadline: 09:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Goldman+Sachs&details=Registration&dates=20230915T0900/20230915T0900)
 
 ---
