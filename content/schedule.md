@@ -3,7 +3,50 @@ title: "Schedule"
 # date: 2023-09-30T23:25:54+05:30
 ---
 
+## January, 2024
+
+### 11-01-2024, Thursday
+
+#### Register
+
+```md
+AB InBev GCC:
+- Tier: Not Mentioned
+- Offer: FTE, Internship
+- Deadline: EOD
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AB+InBev+GCC&details=Registration&dates=20240111T0000/20240111T0000)
+
+---
+
+### 06-01-2024, Saturday
+
+#### Test
+
+```md
+Rakuten India:
+- Test Mode: Online
+- Test Time: 10:30
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rakuten+India&details=Online+Assessment&dates=20240106T1030/20240106T1030)
+
+---
+
 ## December, 2023
+
+### 29-12-2023, Friday
+
+#### Register
+
+```md
+Rakuten India:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 09:30
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Rakuten+India&details=Registration&dates=20231229T0930/20231229T0930)
+
+---
 
 ### 20-12-2023, Wednesday
 
@@ -37,6 +80,20 @@ CMTI:
 - Test Time: Not Mentioned
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=CMTI&details=Online+Assessment&dates=20231218T0000/20231218T0000)
+
+---
+
+### 15-12-2023, Friday
+
+#### Register
+
+```md
+Victoria Secrete:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 10:00
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Victoria+Secrete&details=Registration&dates=20231215T1000/20231215T1000)
 
 ---
 
@@ -399,14 +456,6 @@ Publicis Sapient:
 - Deadline: EOD
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Publicis+Sapient&details=Registration&dates=20231201T0000/20231201T0000)
-
-```md
-Victoria Secrete:
-- Tier: Not Mentioned
-- Offer: Internship
-- Deadline: 10:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Victoria+Secrete&details=Registration&dates=20231201T1000/20231201T1000)
 
 ---
 
@@ -1406,13 +1455,6 @@ AstraZeneca:
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AstraZeneca&details=Interview+for+the+company&dates=20231020T0900/20231020T0900)
 
-```md
-Subex:
-- Process: Offline
-- Time: 09:30
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Subex&details=Interview+for+the+company&dates=20231020T0930/20231020T0930)
-
 ---
 
 ### 19-10-2023, Thursday
@@ -1734,15 +1776,6 @@ IBM Consulting:
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=IBM+Consulting&details=Registration&dates=20231006T1100/20231006T1100)
 
-#### Test
-
-```md
-Subex:
-- Test Mode: Online
-- Test Time: 20:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Subex&details=Online+Assessment&dates=20231006T2000/20231006T2000)
-
 #### Interview
 
 ```md
@@ -1868,20 +1901,6 @@ ARM:
 ---
 
 ## September, 2023
-
-### 30-09-2023, Saturday
-
-#### Register
-
-```md
-Siemens:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: EOD
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Siemens&details=Registration&dates=20230930T0000/20230930T0000)
-
----
 
 ### 27-09-2023, Wednesday
 
@@ -2019,20 +2038,6 @@ British Telecom:
 - Test Time: 17:00
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=British+Telecom&details=Online+Assessment&dates=20230919T1700/20230919T1700)
-
----
-
-### 17-09-2023, Sunday
-
-#### Register
-
-```md
-Subex:
-- Tier: Not Mentioned
-- Offer: Internship, PPO
-- Deadline: EOD
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Subex&details=Registration&dates=20230917T0000/20230917T0000)
 
 ---
 
