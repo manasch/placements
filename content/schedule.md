@@ -5,6 +5,19 @@ title: "Schedule"
 
 ## January, 2024
 
+### 12-01-2024, Friday
+
+#### Test
+
+```md
+Anko:
+- Test Mode: Online
+- Test Time: Not Mentioned
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Anko&details=Online+Assessment&dates=20240112T0000/20240112T0000)
+
+---
+
 ### 11-01-2024, Thursday
 
 #### Register
@@ -16,6 +29,34 @@ AB InBev GCC:
 - Deadline: EOD
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=AB+InBev+GCC&details=Registration&dates=20240111T0000/20240111T0000)
+
+---
+
+### 10-01-2024, Wednesday
+
+#### Register
+
+```md
+Bizom:
+- Tier: Not Mentioned
+- Offer: Internship, PPO
+- Deadline: EOD
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Bizom&details=Registration&dates=20240110T0000/20240110T0000)
+
+---
+
+### 09-01-2024, Tuesday
+
+#### Register
+
+```md
+Anko:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 16:00
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Anko&details=Registration&dates=20240109T1600/20240109T1600)
 
 ---
 
@@ -1987,15 +2028,6 @@ ARM:
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=ARM&details=Registration&dates=20230922T0900/20230922T0900)
 
-#### Interview
-
-```md
-British Telecom:
-- Process: Offline
-- Time: 09:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=British+Telecom&details=Interview+for+the+company&dates=20230922T0900/20230922T0900)
-
 ---
 
 ### 21-09-2023, Thursday
@@ -2025,40 +2057,5 @@ SAP Labs:
 - Deadline: 09:00
 ```
 #### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=SAP+Labs&details=Registration&dates=20230921T0900/20230921T0900)
-
----
-
-### 19-09-2023, Tuesday
-
-#### Test
-
-```md
-British Telecom:
-- Test Mode: Online
-- Test Time: 17:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=British+Telecom&details=Online+Assessment&dates=20230919T1700/20230919T1700)
-
----
-
-### 16-09-2023, Saturday
-
-#### Register
-
-```md
-Adobe:
-- Tier: Not Mentioned
-- Offer: Internship
-- Deadline: 09:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Adobe&details=Registration&dates=20230916T0900/20230916T0900)
-
-```md
-British Telecom:
-- Tier: Not Mentioned
-- Offer: FTE, Internship
-- Deadline: 09:00
-```
-#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=British+Telecom&details=Registration&dates=20230916T0900/20230916T0900)
 
 ---
