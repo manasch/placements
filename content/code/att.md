@@ -18,15 +18,6 @@ Internship + Performance Based Conversion
 
 - 8.5+ GPA were selected
 
-### Compensation
-
-|        | FTE              | Internship |
-|--------|------------------|------------|
-| Base   | --               | 45356      |
-| Stocks | --               | --         |
-| Bonus  | --               | --         |
-| CTC    | Minimum of 16LPA | --         |
-
 [comment]: # (Details about the rounds go under this comment.)
 
 ## Round 1

@@ -14,13 +14,6 @@ Full Time (Employment + Internship Mandatory)
 | XII   | 90%    |
 | UG    | 7.5    |
 
-### Compensation
-
-|      | FTE                    | Internship |
-|------|------------------------|------------|
-| Base | 20,50,000              | --         |
-| CTC  | 24,15,000 + 4L sign up | --         |
-
 ## Round 1
 
 > 06/08/23

@@ -16,14 +16,6 @@ Internship + PPO
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-|              | FTE                        | Internship |
-|--------------|----------------------------|------------|
-| Base         | 1500000                    | 100000     |
-| Stocks       | $10000 vested over 3 years | --         |
-| Annual Bonus | 75000                      | --         |
-| CTC          | 1850000                    | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 

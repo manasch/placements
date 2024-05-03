@@ -16,14 +16,6 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-|        | FTE               | Internship |
-|--------|-------------------|------------|
-| Base   | --                | --         |
-| Stocks | 4L (over 4 years) | --         |
-| Bonus  | --                | --         |
-| CTC    | 10L + 4L          | 30K        |
 
 [comment]: # (Details about the rounds go under this comment.)
 

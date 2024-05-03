@@ -16,13 +16,6 @@ Full Time (Employment + Internship Mandatory)
 
 - Cyber Security as Major or Elective
 
-### Compensation
-
-|      | FTE  | Internship |
-|------|------|------------|
-| Base | --   | --         |
-| CTC  | 6LPA | 35000      |
-
 ## Round 1: Cyber Recruit Boot Camp
 
 > 08/08/23

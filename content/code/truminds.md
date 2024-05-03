@@ -19,15 +19,6 @@ Full Time (Employment + Internship Mandatory)
 
 - 45 People with 9+ were shortlisted
 
-### Compensation
-
-|        | FTE        | Internship |
-|--------|------------|------------|
-| Base   | 600000     | --         |
-| Stocks | --         | --         |
-| Bonus  | 500000     | --         |
-| CTC    | 1100000LPA | 20000      |
-
 [comment]: # (Details about the rounds go under this comment.)
 
 Bonus
