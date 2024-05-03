@@ -16,17 +16,6 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-|                     | FTE                   | Internship |
-|---------------------|-----------------------|------------|
-| Base                | 18,00,000             | 1,50,000   |
-| Variable            | 2,00,000 - 4,00,000   | --         |
-| Joining Bonus       | 3,00,000              | --         |
-| Non Cash Benefits   | 5,00,000              | --         |
-| Relocation          | 2,00,000              | --         |
-| Long Term Incentive | 20,00,000             | --         |
-| CTC                 | 50,00,000 - 52,00,000 | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 

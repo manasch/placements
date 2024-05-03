@@ -16,14 +16,6 @@
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-|        | FTE                            | Internship |
-|--------|--------------------------------|------------|
-| Base   | 13L                            | --         |
-| Stocks | 10L Vesting equally in 4 years | --         |
-| Bonus  | --                             | --         |
-| CTC    | 23L                            | 50000      |
 
 [comment]: # (Details about the rounds go under this comment.)
 

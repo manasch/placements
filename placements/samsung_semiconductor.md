@@ -18,15 +18,6 @@ Internship Only
 
 - No Backlogs
 
-### Compensation
-
-|        | FTE | Internship |
-|--------|-----|------------|
-| Base   | --  | 50K        |
-| Stocks | --  | --         |
-| Bonus  | --  | --         |
-| CTC    | --  | --         |
-
 [comment]: # (Details about the rounds go under this comment.)
 
 ## Round 1
