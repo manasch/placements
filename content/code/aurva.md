@@ -18,15 +18,6 @@
 
 - 8 GPA or OpenSource contributor
 
-### Compensation
-
-|        | FTE     | Internship |
-|--------|---------|------------|
-| Base   | 1400000 | 30000      |
-| Stocks | 200000  | --         |
-| Bonus  | --      | --         |
-| CTC    | 1600000 | --         |
-
 [comment]: # (Details about the rounds go under this comment.)
 
 - Lunch / Dinner provided at office.

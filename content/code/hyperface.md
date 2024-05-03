@@ -16,14 +16,6 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-|        | FTE    | Internship |
-|--------|--------|------------|
-| Base   | 14 LPA | 30000      |
-| Stocks | 3 L    | --         |
-| Bonus  | 3 L    | --         |
-| CTC    | ~20 L  | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 

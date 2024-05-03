@@ -16,15 +16,6 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-|                      | FTE       | Internship |
-|----------------------|-----------|------------|
-| Base                 | 10,00,000 | --         |
-| Allowance (One Time) | 1,50,000  | --         |
-| Bonus                | 85,464    | --         |
-| Insurance Benefits   | 26,754    | --         |
-| CTC                  | 12,62,218 | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 

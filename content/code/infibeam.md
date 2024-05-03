@@ -18,15 +18,6 @@ Full Time (Employment + Internship Mandatory)
 
 - There was another cut off, probably 8.5 GPA
 
-### Compensation
-
-|        | FTE           | Internship |
-|--------|---------------|------------|
-| Base   |               | 20,000     |
-| Stocks | --            | --         |
-| Bonus  | 2L (One Time) | --         |
-| CTC    | 10 + 2L       | --         |
-
 [comment]: # (Details about the rounds go under this comment.)
 
 ## Round 1

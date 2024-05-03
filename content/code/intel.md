@@ -34,9 +34,6 @@ No criteria
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-Not shared
 
 [comment]: # (Details about the rounds go under this comment.)
 

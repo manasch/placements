@@ -16,22 +16,8 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-|               | FTE                | Internship |
-|---------------|--------------------|------------|
-| Base          | 1450000            | 88000      |
-| PF            | 87000              | --         |
-| Gratuity      | 34800              | --         |
-| Perf Bonus    | 72500              | --         |
-| RSU           | 34% y1 8.25% 2 yrs | --         |
-| Sign on Bonus | 650000 (2 yrs)     | --         |
-| Relocation    | 120833             | --         |
-| CTC           | 2473633            | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
-
-Other compensation was mentioned, such as broadband reimbursement, medical and such.
 
 ## Round 1 - Coding Round
 

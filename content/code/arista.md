@@ -16,14 +16,6 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-|        | FTE                    | Internship                  |
-|--------|------------------------|-----------------------------|
-| Base   | 1500000                | 65000                       |
-| Stocks | 12000 USD over 4 years | 50000 (one time relocation) |
-| Bonus  | 200000                 | --                          |
-| CTC    | 18.5 L + Stocks        | --                          |
 
 [comment]: # (Details about the rounds go under this comment.)
 

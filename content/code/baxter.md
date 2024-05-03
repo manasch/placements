@@ -16,16 +16,6 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-|                     | FTE    | Internship |
-|---------------------|--------|------------|
-| Base                | 991310 | --         |
-| PF                  | 47583  | --         |
-| Gratuity            | 19073  | --         |
-| Others              | 23081  | --         |
-| Target Variable Pay | 118957 | --         |
-| CTC                 | --     | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 

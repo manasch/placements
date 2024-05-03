@@ -16,14 +16,6 @@ Internship + PPO
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-|        | FTE   | Internship |
-|--------|-------|------------|
-| Base   | 14.5L | 40000      |
-| Stocks | --    | --         |
-| Bonus  | 2L    | --         |
-| CTC    | 16.5L | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 

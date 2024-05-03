@@ -12,23 +12,6 @@ None mentiond
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-> Associate Software Engineer
-
-|       | FTE  | Internship |
-|-------|------|------------|
-| Gross | 15 L | --         |
-| CTC   | 20 L | --         |
-
-(All shortlisted candidates were gifted Infinity-JBL headphones worth Rs 999)
-
-> Customer Experience Engineer
-
-|       | FTE  | Internship |
-|-------|------|------------|
-| Gross | 10 L | --         |
-| CTC   | 14 L | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 

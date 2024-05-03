@@ -12,15 +12,6 @@ Full Time (Employment + Internship)
 
 - This was off-campus
 
-### Compensation
-
-|        | FTE | Internship |
-|--------|-----|------------|
-| Base   | --  | --         |
-| Stocks | --  | --         |
-| Bonus  | --  | --         |
-| CTC    | --  | --         |
-
 [comment]: # (Details about the rounds go under this comment.)
 
 ## Round 1

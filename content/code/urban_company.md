@@ -14,15 +14,6 @@ Full Time (Employment + Internship Mandatory)
 | XII   | %      |
 | UG    | 8 GPA  |
 
-### Compensation
-
-||FTE|Internship|
-|--|-----|------|
-|Base|16,00,000|50000|
-|ESOP vested across 4 years|8,00,000|--|
-|Joining Bonus|3,00,000|--|
-|Retention Bonus|3,00,000|--|
-
 ## OA
 
 > 31/07/23
