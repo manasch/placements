@@ -16,14 +16,6 @@ Internship Only
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-|        | FTE | Internship |
-|--------|-----|------------|
-| Base   | --  | 50000      |
-| Stocks | --  | --         |
-| Bonus  | --  | --         |
-| CTC    | --  | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 

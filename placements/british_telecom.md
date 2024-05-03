@@ -16,15 +16,6 @@ Full Time (Employment + Internship Mandatory)
 
 [comment]: # (Any other details go under this. This is a comment)
 
-### Compensation
-
-|                 | FTE     | Internship |
-|-----------------|---------|------------|
-| Base            | --      | --         |
-| Joining Bonus   | 150000  | --         |
-| Retention Bonus | 250000  | --         |
-| CTC             | 1300000 | --         |
-| Total           | 1700000 | --         |
 
 [comment]: # (Details about the rounds go under this comment.)
 

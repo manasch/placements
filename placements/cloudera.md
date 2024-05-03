@@ -18,16 +18,6 @@ Full Time (Employment + Internship Mandatory)
 
 - Cutoff was increased after initial registration.
 
-### Compensation
-
-|                       | FTE     | Internship |
-|-----------------------|---------|------------|
-| Base                  | 1700000 | --         |
-| Variable Compensation | 85000   | --         |
-| Retirals              | 114308  | --         |
-| STAR's                | 500     | --         |
-| CTC                   | 1899308 | --         |
-
 [comment]: # (Details about the rounds go under this comment.)
 
 ## Round 1
