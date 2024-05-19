@@ -16,20 +16,39 @@ class Notion:
         self.database_id = os.environ['DATABASE_ID']
         self.notion_token = os.environ['NOTION_TOKEN']
         self.endpoint = f"https://api.notion.com/v1/databases/{self.database_id}/query"
+        print(">> Notion Initialized")
     
     def fetch(self):
+        print(">> Notion::fetch Called")
         headers = {
             "Authorization": "Bearer " + self.notion_token,
             "Notion-Version": "2022-06-28"
         }
 
-        try:
-            data = requests.post(self.endpoint, headers=headers)
-            data.raise_for_status()
-        except requests.exceptions.HTTPError as err:
-            raise SystemExit(err)
+        body = {}
+        data = defaultdict(list)
+        has_more = True
+        page = 1
+
+        while has_more:
+            print(f">> Notion::fetch Page Number: {page}")
+            try:
+                response = requests.post(self.endpoint, headers=headers, json=body)
+                response.raise_for_status()
+            except requests.exceptions.HTTPError as err:
+                raise SystemExit(err)
+            
+            has_more = response.json().get("has_more")
+            if has_more:
+                body.update({
+                    "start_cursor": response.json().get("next_cursor")
+                })
+
+            data["results"].extend(response.json().get("results"))
+            page += 1
         
-        return data.json()
+        print(">> Notion::fetch Exited")
+        return data
 
 class Properties:
     def __init__(self):
@@ -77,8 +96,10 @@ class Parser:
         self.store = defaultdict(lambda: defaultdict(list))
         self.match = re.compile("((\d+)-(\d+)-(\d+))?T?(\d{2}:\d{2})?")
         self.properties = Properties()
+        print(">> Parser Initialized")
     
     def parse(self):
+        print(">> Parser::parse Called")
         results = self.data.get("results")
         parsed = []
         for page in results:
@@ -149,14 +170,17 @@ class Parser:
                 })
         
         parsed.clear()
+        print(">> Parser::parse Exited")
         return OrderedDict(sorted(self.store.items(), reverse=True))
 
 class Schedule:
     def __init__(self, data):
         self.data = data
         self.google_calendar_event_base_link = "https://calendar.google.com/calendar/render"
+        print(">> Schedule Initialized")
     
     def google_calendar_event(self, event_name: str, event_details: str, date: str, time: str):
+        print(f">> Schedule::google_calendar_event Called: {event_name}")
         event_link = []
         push = event_link.append
         start_time = f"{''.join(date.split('-'))}T{'0000' if not time else time.replace(':', '')}"
@@ -167,9 +191,12 @@ class Schedule:
         push(f"&text={urllib.parse.quote_plus(event_name, safe='')}")
         push(f"&details={urllib.parse.quote_plus(event_details, safe='')}")
         push(f"&dates={start_time}/{start_time}")
+
+        print(">> Schedule::google_calendar_event Exited")
         return "".join(event_link)
     
     def md(self, dest = Path.cwd()):
+        print(">> Schedule::md Called")
         output = [
             "---",
             "title: \"Schedule\"",
@@ -257,13 +284,16 @@ class Schedule:
         
         with open(dest, "w") as f:
             f.write("\n".join(output))
+        print(">> Schedule::md Exited")
 
 class MDCalendar:
     def __init__(self, data):
         self.data = data
         self.cal = Calendar()
+        print(">> MDCalendar Initialized")
     
     def md(self, dest=Path.cwd()):
+        print(">> MDCalendar::md Called")
         last_date = datetime.strptime(next(iter(self.data.keys())), "%Y-%m-%d")
         first_date = datetime.strptime(next(reversed(self.data.keys())), "%Y-%m-%d")
 
@@ -313,6 +343,7 @@ class MDCalendar:
         week.clear()
         with open(dest, "w") as f:
             f.write("\n".join(output))
+        print(">> MDCalendar::md Exited")
 
 def main():
     notion = Notion()
