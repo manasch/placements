@@ -3,7 +3,107 @@ title: "Schedule"
 # date: 2023-09-30T23:25:54+05:30
 ---
 
+## May, 2024
+
+### 10-05-2024, Friday
+
+#### Interview
+
+```md
+Coinswitch - Off Campus:
+- Process: Offline
+- Time: 09:00
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Coinswitch+-+Off+Campus&details=Interview+for+the+company&dates=20240510T0900/20240510T0900)
+
+---
+
+### 07-05-2024, Tuesday
+
+#### Test
+
+```md
+Coinswitch - Off Campus:
+- Test Mode: Online
+- Test Time: Not Mentioned
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Coinswitch+-+Off+Campus&details=Online+Assessment&dates=20240507T0000/20240507T0000)
+
+---
+
+### 05-05-2024, Sunday
+
+#### Register
+
+```md
+Coinswitch - Off Campus:
+- Tier: Not Mentioned
+- Offer: FTE
+- Deadline: 09:00
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Coinswitch+-+Off+Campus&details=Registration&dates=20240505T0900/20240505T0900)
+
+---
+
+## March, 2024
+
+### 04-03-2024, Monday
+
+#### Interview
+
+```md
+ZScaler:
+- Process: Online
+- Time: 10:30
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=ZScaler&details=Interview+for+the+company&dates=20240304T1030/20240304T1030)
+
+---
+
+## February, 2024
+
+### 03-02-2024, Saturday
+
+#### Test
+
+```md
+ZScaler:
+- Test Mode: Online
+- Test Time: 11:30
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=ZScaler&details=Online+Assessment&dates=20240203T1130/20240203T1130)
+
+---
+
 ## January, 2024
+
+### 24-01-2024, Wednesday
+
+#### Register
+
+```md
+Nike ITC:
+- Tier: Not Mentioned
+- Offer: Internship
+- Deadline: 11:00
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nike+ITC&details=Registration&dates=20240124T1100/20240124T1100)
+
+---
+
+### 17-01-2024, Wednesday
+
+#### Register
+
+```md
+ZScaler:
+- Tier: Not Mentioned
+- Offer: FTE, Internship
+- Deadline: 09:00
+```
+#### [Add to Google Calendar](https://calendar.google.com/calendar/render?action=TEMPLATE&text=ZScaler&details=Registration&dates=20240117T0900/20240117T0900)
+
+---
 
 ### 12-01-2024, Friday
 
